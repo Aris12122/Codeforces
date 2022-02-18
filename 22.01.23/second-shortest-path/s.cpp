@@ -4,73 +4,69 @@ using namespace std;
  
 #define forn(i, n) for (int i = 0; i < int(n); i++)
 #define sz(v) (int)v.size()
+#define eb emplace_back
+#define mt make_tuple
 
-const int N = 1e4;
-bool have[N][2]; //[0] - "..", [1] - "..."
-tuple <int,int,int> pos[N][2];
+const int INF = INT_MAX >> 1;
+const int mod = 1e9 + 7;
+
+void csum(int &a,int b) {
+    a = (a + b) % mod;
+}
+
+int s, t;
+vector<int> us;
+vector<int> dist;
+vector<int> dp[2];
+int bfs(vector<vector<int>> &g) {
+    queue<tuple<int,int,int>> q;
+    q.push(mt(s, 0, 0)); //[v, dist, count]
+
+    int ans = 0, mnd = INF;
+    us[s] = 1;
+    dp[0][s] = 1;
+    dist[s] = 0;
+    while(!q.empty()) {
+        auto [v,d, x] = q.front(); q.pop();
+        // cerr << v << ' ' << d << ' ' << dp[x][v] << endl;
+        if (v == t) {
+            if (mnd == INF) {
+                mnd = d;
+            }
+            csum(ans, dp[x][v]);
+        }
+        if (d == mnd + 1) continue;
+        for (int to : g[v]) if(d <= dist[to]) {
+            dist[to] = min(dist[to], d+1);
+            csum(dp[d - dist[to] + 1][to], dp[x][v]);
+            // cerr << "TO: " <<  to << ' ' << dist[to] << ' ' << d << endl;
+            if(us[to] == 0 || (us[to] == 1 && dist[to] == d)) q.push(mt(to, d+1, us[to]++));
+        }
+    }
+    return ans;
+}
+
 
 void solve() {
-    int n, m; cin >> n >> m;
-    vector<bool> dp(m+1, false);
-    vector<int> pr(m+1);
-    vector<string> cache;
-    dp[0] = true;
-
-    forn(i, n) {
-        string s; cin >> s;
-        forn(j, m) {
-            string t;
-            t += s[j];
-            for(int k = 1; k <= 2; k++) {
-                if (k + j >= m) break;
-                t += s[j+k];
-                int x = stoi(t);
-
-                if (!have[x][k-1]) {
-                    have[x][k-1] = true;
-                    pos[x][k-1] = make_tuple(j, j+k, i);
-                    cache.push_back(t);
-                }
-                
-            }
-        }
+    int n,m; cin >> n >> m;
+    cin >> s >> t;
+    us.resize(n+1);
+    dp[0].resize(n+1);
+    dp[1].resize(n+1);
+    dist.resize(n+1);
+    forn(i, n+1) {
+        us[i] = dp[0][i] = dp[1][i] = 0;
+        dist[i] = INF;
     }
-    
-    string s; cin >> s;
+
+    vector<vector<int>> g(n+1);
     forn(i, m) {
-        string t;
-        t += s[i];
-        for (int k = 1; k <= 2; k++) {
-            if (i - k < 0) break;
-            t = s[i-k] + t;
-            int x = stoi(t);
-            if (have[x][k-1] && dp[i-k]) {
-                dp[i+1] = true;
-                pr[i+1] = i-k;
-            }
-            if (dp[i+1]) break;
-        }
-    }
-    for (string t : cache) {
-        have[stoi(t)][sz(t) - 2] = false;
+        int a,b; cin >> a >> b;
+        g[a].eb(b);
+        g[b].eb(a);
     }
 
-    if (!dp[m]) {
-        cout << "-1\n";
-        return;
-    }
-    vector<tuple<int,int,int>> ans;
-
-    for (int k = m; k > 0; ) {
-        int p = pr[k];
-        string t = s.substr(p, k - p);
-        ans.emplace_back(pos[stoi(t)][sz(t) - 2]);
-        k = p;
-    }
-
-    cout << sz(ans) << '\n';
-    reverse(ans.begin(), ans.end());
-    for (auto [l,r,i] : ans) cout << l+1 << ' ' << r+1 << ' ' << i+1 << '\n';
+    cout << bfs(g) << '\n';
 }
 
 int main() {

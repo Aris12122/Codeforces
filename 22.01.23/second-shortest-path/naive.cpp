@@ -4,42 +4,46 @@ using namespace std;
  
 #define forn(i, n) for (int i = 0; i < int(n); i++)
 #define sz(v) (int)v.size()
+#define eb emplace_back
 
-bool rec(int pos = 0) {
-    // cout << pos << endl;
-    if (pos == m) {
-        cout << sz(ans) << '\n';
-        for (auto [l,r,i] : ans) {
-            cout << l+1 << ' ' << r+1 << ' ' << i+1 << '\n';
+const int mod = 1e9 + 7;
+const int INF = INT_MAX >> 1;
+
+int mnd;
+int s, t;
+int bfs(vector<vector<int>> &g) {
+    queue<pair<int,int>> q;
+    q.push({s, 0});
+    mnd = INF;
+    int ans = 0;
+    while(!q.empty()) {
+        auto [v,d] = q.front(); q.pop();
+        // cerr << v << ' ' << d << endl;
+        if (v == t) {
+            ans = (ans + 1) % mod; 
+            if (mnd == INF) mnd = d;
         }
-        
-        return true;
+        if (d == mnd + 1) continue;
+        for (int to : g[v]) {
+            q.push({to, d+1});
+        }
     }
-    string t;
-    t += s[pos];
-    for (int k = 1; k < m - pos; k++) {
-        t += s[pos+k];
-        auto[l,r,i] = find(t);
-        if (l == -1) continue;
-        ans.emplace_back(l,r,i);
-        if (rec(pos + k + 1)) return true;
-        ans.pop_back();
-    }
-    return false;
+    // cerr << mnd << ' ' << endl;
+    return ans;
 }
 
 
 void solve() {
-    cin >> n >> m;
-    ans.clear();
-    phones.resize(n);
+    int n,m; cin >> n >> m;
+    cin >> s >> t, s--, t--;
 
-    forn(i, n) 
-        cin >> phones[i];
-    cin >> s;
-    if (!rec()) {
-        cout << "-1\n";
+    vector<vector<int>> g(n);
+    for (int i = 0; i < m; i++) {
+        int a,b; cin >> a >> b, a--, b--;
+        g[a].eb(b);
+        g[b].eb(a);
     }
+    cout << bfs(g) << '\n';
 }
 
 int main() {
