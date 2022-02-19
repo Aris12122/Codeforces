@@ -7,25 +7,25 @@ using namespace std;
 #define sz(v) (int)v.size()
 #define all(v) v.begin(),v.end()
 #define eb emplace_back
-
-
+ 
+ 
 struct Test{
     int n,m;
     int s,t;
     vector<pair<int,int>> edges;
     set<pair<int,int>> was;
-
+ 
  
     Test(int _n,int _m): n(_n), m(_m) {
         s = rnd.next(1, n);
         t = rnd.next(1, n-1);
         if (t >= s) t++; //s != t
-
+ 
         generate_tree();
-
+ 
         if (n * 1ll * n <= 100'000'000) {
             vector<pair<int,int>> candidates;
-
+ 
             for(int i = 1;i <= n; i++) for(int j = i+1;j <= n; j++) {
                 if (was.count({i, j})) continue;
                 
@@ -33,7 +33,7 @@ struct Test{
                     candidates.emplace_back(i,j);   
                 } else candidates.emplace_back(j,i);
             }
-
+ 
             
             while (sz(edges) < m) {
                 assert(sz(candidates) > 0);
@@ -48,15 +48,15 @@ struct Test{
                 int v = rnd.next(1, n-1);
                 if (v >= u) v++;
                 if (was.count({u,v}) || was.count({v,u})) continue;
-
+ 
                 edges.eb(u, v);
                 was.insert({min(u,v), max(u,v)});
             }
         }
-
+ 
         
     }
-
+ 
     void generate_tree() {
         vector<int> value(n);
         iota(all(value), 1);
@@ -92,7 +92,7 @@ int main(int argc, char* argv[]) {
     assert(nl <= nr && ml <= mr && mr >= nr);
     assert(nl*1ll*(nl-1)/2 >= ml);
     assert(nr-1 <= mr);
-
+ 
     while (T < 10'000) {
         int n = rnd.next(nl, nr);
         int m = rnd.next(max(n-1,ml), (int)min(n*1ll*(n-1)/2,mr*1ll));

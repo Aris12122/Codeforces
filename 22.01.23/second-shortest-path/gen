@@ -1,6 +1,6 @@
 #!/bin/bash
 
 g++ -O2 -std=c++17 -Wall -Wextra -Wconversion g$1.cpp
-./a.out > in$1.txt  -nl=200000 -nr=200000 -ml=200000 -mr=200000
+./a.out > in$1.txt  -nl=2 -nr=10 -ml=200000 -mr=200000
 
 rm a.out
