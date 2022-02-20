@@ -7,6 +7,6 @@
 g++ -O2 -std=c++17 -Wall -Wextra -Wconversion check.cpp
 ./a.out in$1.txt out$1.txt out$1_naive.txt
 
-#rm out$1.txt 
+rm out$1.txt 
 rm out$1_naive.txt
 rm a.out
