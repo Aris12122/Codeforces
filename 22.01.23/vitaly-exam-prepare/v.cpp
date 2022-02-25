@@ -42,3 +42,24 @@ int main(int argc, char* argv[]) {
 
     inf.readEof();
 }
+
+/* 
+
+        forn(j, m) {
+            if (tt + 1 == 2657) {
+                cerr << inf.readInt(1, n, "e_i") << ' '; inf.readSpace();
+                cerr << inf.readInt(1, INF, "t_i") << ' '; inf.readSpace();
+                cerr << inf.readInt(1, 100, "p_i") << ' ';
+                inf.readEoln();
+                cerr << endl;
+            } else {
+                inf.readInt(1, n, "e_i"); inf.readSpace();
+                inf.readInt(1, INF, "t_i"); inf.readSpace();
+                inf.readInt(1, 100, "p_i");
+                inf.readEoln();
+            }
+            
+        }
+        if (tt + 1 == 2657) return 0;
+
+*/
