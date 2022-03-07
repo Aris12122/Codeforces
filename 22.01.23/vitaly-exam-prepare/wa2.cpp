@@ -1,89 +1,104 @@
+#define _CRT_SECURE_NO_WARNINGS
 #include<bits/stdc++.h>
+#include <unordered_map>
+//#include"testlib.h"
+#define endl '\n'
+#define all(v) v.begin(),v.end()
+#define allr(s) s.rbegin(),s.rend()
+#define RT(s) return cout<<s,0
+#define sz(s)    (int)(s.size())
+//#define PI acos(-1)
+#define EPS 1e-8
+#define watch(x) cout << (#x)<<" = "<<x<<endl
+#define mk(x, y) make_pair(x, y)
 using namespace std;
-template<class T,class S=T>inline bool umin(T&m,S&&x){return x<m?m=x,1:0;}
-template<class T,class S=T>inline bool umax(T&m,S&&x){return m<x?m=x,1:0;}
-auto operator<<(ostream&o,auto&&v)->enable_if_t<!is_constructible_v<string,decltype(v)>,decltype(o<<*end(v))>{int f=0,u=&o==&cerr&&o<<"[";for(auto&&x:v)(f++?o<<", "+!u:o)<<x;return u?o<<"]":o;}
-auto operator<<(ostream&o,auto&&t)->decltype(o<<get<0>(t)){o<<"<";apply([&o](auto&...x){int f=0;(((f++?o<<", ":o)<<x),...);},t);return o<<">";}
-#ifdef BIZON
-	#define rr(...) [](auto&&...x){ cerr << boolalpha << "\e[1;38;5;68m" << #__VA_ARGS__ << " "; int _=0; ((cerr<<"\e[0;38;5;61m"<<",="[!_++]<<"\e[0m "<<x),...)<<endl; }(__VA_ARGS__);
+typedef long long ll;
+typedef long double ld;
+typedef unsigned long long ull;
+typedef pair<int, int> ii;
+typedef vector<int> vi;
+typedef vector<ii> vii;
+int dy[] = { 1, -1, 0, 0, -1, 1, 1, -1 };
+int dx[] = { 0, 0, 1, -1, 1, -1, 1, -1 };
+void file() {
+#ifndef ONLINE_JUDGE
+	freopen("in.txt", "r", stdin);
+	//freopen("out.txt", "w", stdout);
 #else
-	#define rr(...) 0;
-	#define endl '\n'
+	//freopen("gcd.in", "r", stdin);
+	//freopen("out.txt", "w", stdout);
 #endif
-#define bb(c) begin(c), end(c)
-#define ff(T, name, ...) function<T(__VA_ARGS__)> name = [&](__VA_ARGS__)->T
-#define jj(...) __VA_ARGS__; [](auto&...x){(cin>>...>>x);}(__VA_ARGS__);
-#define ii(...) int jj(__VA_ARGS__)
-using ll = long long;
-
-
-void run_case(const size_t ____test) { // rr(____test)
-	ii(n, m)
-	vector<int> a(n);
-	for(auto &_ : a) cin>>_;
-	
-	vector<tuple<int,int,int>> opt;
-	vector<vector<int>> g(n);
-	for(int k=0; k<m; ++k) {
-		ii(e, t, p)
-		--e;
-		opt.emplace_back(e, t, p);
-		g[e].push_back(k);
-	}
-	
-	int pref = 0;
-	vector<int> cert;
-	for(int h=0; h<n; ++h) {
-		constexpr int P = 100, inf = 2e9; //wrong inf
-		vector<
-			//<min time, <prev p, opt id>>
-			vector<pair<int,pair<int,int>>>
-		> dp;
-		dp.emplace_back(P+1);
-		dp[0][0].first = 0;
-		for(int x=1; x<=P; ++x) dp[0][x] = {inf, {-1,-1}};
-		for(int k : g[h]) {
-			auto &f = dp.emplace_back(dp.back());
-			for(int x=0; x<=P; ++x) f[x].second.first = x;
-			
-			auto [_, t, p] = opt[k];
-			for(int x = P-1; x>=0; --x) {
-				int y = min(P, x + p);
-				if(umin(f[y].first, f[x].first + t)) {
-					f[y].second = {x, k};
-				}
-			}
-		}
-		
-		int rem = a[h] - pref;
-		int mintime = dp.back()[P].first;
-		if(rem < mintime) {
-			cout << -1 << endl;
-			return ;
-		}
-		pref += mintime;
-		
-		int x = P;
-		for(int i = size(g[h]); i; --i) {
-			auto [y, k] = dp[i][x].second;
-			if(x != y) {
-				cert.push_back(k+1);
-				x = y;
-			}
-			
-		}
-	}
-	
-	cout << size(cert) << endl;
-	cout << cert << endl;
 }
 
+
+void fast() {
+	std::ios_base::sync_with_stdio(0);
+	cin.tie(NULL);
+}
+struct OP {
+	int e, t, p;
+};
+vector<OP> ops;
+vi arr, show;
+vector<vector<ll>> dp;
+ll solve(int idx, int rem) {
+	if (rem <= 0) return 0;
+	if (idx == sz(arr)) return 1e15;
+	ll& ret = dp[idx][rem];
+	if (ret != -1) return ret;
+	ret = solve(idx + 1, rem);
+	auto p = ops[arr[idx]];
+	ret = min(ret, p.t + solve(idx + 1, rem - p.p));
+	return ret;
+}
+void build(int idx, int rem) {
+	if (rem <= 0) return;
+	if (solve(idx + 1, rem) == solve(idx, rem)) {
+		build(idx + 1, rem);
+		return;
+	}
+	auto p = ops[arr[idx]];
+	show.push_back(arr[idx]);
+	build(idx + 1, rem - p.p);
+}
 int main() {
-	// if(auto f="in.txt"; fopen(f,"r") && freopen(f,"r",stdin));
-	cin.tie(0)->sync_with_stdio(0);
-	
-	size_t tn = 1; cin>>tn;
-	for(size_t t=1; t<=tn; ++t) run_case(t);
-	
+	file();
+	fast();
+	int I; cin >> I;
+	while (I--) {
+		int n, m; 
+		cin >> n >> m;
+		vi a(n);
+		for (auto& it : a)
+			cin >> it;
+		ops = vector<OP>(m);
+		vector<vi> fre(n + 1);
+		for (int i = 0; i < m; i++) {
+			cin >> ops[i].e >> ops[i].t >> ops[i].p;
+			fre[ops[i].e].push_back(i);
+		}
+		show.clear();
+		bool ok = true;
+		ll take = 0;
+		for (int i = 1; i <= n; i++) {
+			arr = fre[i];
+			dp = vector<vector<ll>>(sz(fre[i]), vector<ll>(101, -1));
+			ll mn = solve(0, 100);
+			//cout << i << ' ' << mn << endl;
+			if (mn + take > a[i - 1]) {
+				ok = false;
+				break;
+			}
+			build(0, 100);
+		}
+		if (!ok) {
+			cout << "-1\n";
+			continue;
+		}
+		cout << sz(show) << endl;
+		for (auto& it : show)
+			cout << it + 1 << ' ';
+		cout << endl;
+	}
 	return 0;
 }
