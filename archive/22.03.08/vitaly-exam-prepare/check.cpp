@@ -29,13 +29,13 @@ bool readAnswer(InStream& in) {
         auto [e,t,p] = v[j];
         curt += t;
         while (curi <= n && a[curi] < curt) {
-            in.quitif(curp[curi] < 100, _wa, "Vitaly has to prepare for each exam on time");
+            in.quitif(curp[curi] < 100, _wa, "Vitaly has to make all tasks on time");
             curi++;
         }
         curp[e] += p;
     }
     while (curi <= n) {
-        in.quitif(curp[curi] < 100, _wa, "Vitaly has to prepare for all exams");
+        in.quitif(curp[curi] < 100, _wa, "Vitaly has to make all tasks");
         curi++;
     }
     return true;
