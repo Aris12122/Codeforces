@@ -35,23 +35,21 @@ int main(int argc, char* argv[]) {
     int T = 0;
     int sum_n = 0;
     const int MAX = 3000;
- 
-    int nl = opt<int>("nl"), nr = opt<int>("nr");
- 
-    assert(nl >= 1);
-    assert(nr <= MAX);
- 
+    
     t = opt<int>("t");
     assert(0 <= t && t < 100);
-    
+
+    int tt = 0;
     while (T < 500) {
-        int n = rnd.next(nl, nr);
+        int n = ++tt;
         sum_n += n;
         if (sum_n > MAX) break;
         Test t(n);
         tests.emplace_back(t);
         T++;
     }
+ 
+    reverse(tests.begin(),tests.end());
     
     println(T);
     forn(tt, T) {

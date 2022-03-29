@@ -27,22 +27,22 @@ int main(int argc, char* argv[]) {
     vector<Test> tests;
     int T = 0;
     int sum_n = 0;
-    const int MAX = 2000;
+    const int MAX = 3000;
  
     int nl = opt<int>("nl"), nr = opt<int>("nr");
  
     assert(nl >= 1);
     assert(nr <= MAX);
-
+ 
     tests.emplace_back(Test(1));
     tests.emplace_back(Test(100));
-    tests.emplace_back(Test(1000));
+    tests.emplace_back(Test(1500));
     tests.emplace_back(Test(10));
     tests.emplace_back(Test(500));
     T = 5;
-    sum_n = 1000 + 500 + 100 + 10 + 1;
+    sum_n = 1500 + 500 + 100 + 10 + 1;
     
-    while (T < 1000) {
+    while (T < 500) {
         int n = rnd.next(nl, nr);
         sum_n += n;
         if (sum_n > MAX) break;
@@ -50,7 +50,7 @@ int main(int argc, char* argv[]) {
         tests.emplace_back(t);
         T++;
     }
-
+ 
     reverse(tests.begin(),tests.end());
     
     println(T);

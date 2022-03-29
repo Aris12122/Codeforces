@@ -34,24 +34,22 @@ int main(int argc, char* argv[]) {
     vector<Test> tests;
     int T = 0;
     int sum_n = 0;
-    const int MAX = 3000;
- 
-    int nl = opt<int>("nl"), nr = opt<int>("nr");
- 
-    assert(nl >= 1);
-    assert(nr <= MAX);
- 
+    const int MAX = 200'000;
+    
     t = opt<int>("t");
     assert(0 <= t && t < 100);
-    
-    while (T < 500) {
-        int n = rnd.next(nl, nr);
+
+    int tt = 0;
+    while (T < 10'000) {
+        int n = ++tt;
         sum_n += n;
         if (sum_n > MAX) break;
         Test t(n);
         tests.emplace_back(t);
         T++;
     }
+ 
+    reverse(tests.begin(),tests.end());
     
     println(T);
     forn(tt, T) {
