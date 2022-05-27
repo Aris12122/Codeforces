@@ -1,0 +1,20001 @@
+10000
+7 10
+dfddfee
+4 8
+edfd
+6 1
+ededee
+4 5
+ddfe
+7 10
+eeeefed
+3 1
+fff
+5 10
+fdfdd
+5 4
+fdfdd
+5 8
+eeede
+1 3
+f
+2 4
+df
+1 1
+e
+1 4
+f
+7 7
+fddffee
+7 2
+fddfdef
+2 5
+ef
+2 3
+df
+3 3
+fef
+3 8
+def
+3 4
+ded
+3 6
+dfd
+2 1
+dd
+7 3
+edefded
+2 9
+ed
+6 2
+fddffd
+5 7
+fdfde
+4 7
+deed
+2 9
+dd
+5 9
+eefde
+3 2
+edf
+6 10
+fededf
+7 7
+ffedfde
+4 5
+dedf
+3 9
+efd
+7 8
+deeddff
+4 10
+fedd
+4 6
+dfdf
+2 5
+fd
+2 5
+df
+2 1
+ff
+4 1
+edef
+5 5
+eddfe
+2 10
+df
+3 2
+eee
+3 8
+fdf
+4 10
+eedf
+1 7
+d
+2 4
+ed
+7 1
+dffeeef
+4 2
+eedf
+3 7
+ddf
+1 9
+e
+4 1
+dfdd
+2 7
+fd
+7 9
+ffeedde
+4 6
+edfe
+2 4
+ef
+1 7
+d
+7 3
+dedfdfd
+4 1
+edfe
+7 8
+dddddee
+2 5
+ef
+3 3
+dee
+4 9
+efed
+7 1
+eeffeff
+3 1
+efd
+4 2
+ddee
+1 3
+f
+3 3
+fff
+1 1
+d
+7 5
+fedfedd
+5 2
+deedf
+2 6
+fd
+5 3
+fdfff
+3 2
+eee
+7 3
+defdfed
+5 8
+fdeed
+7 9
+eeefdee
+6 1
+dffdfe
+2 4
+dd
+5 6
+fffff
+1 4
+d
+6 4
+eefddf
+4 6
+dfdf
+4 3
+dffe
+5 8
+edfed
+2 4
+ef
+2 1
+de
+1 8
+d
+7 8
+ededfef
+6 1
+fdfedd
+4 9
+dffd
+1 10
+f
+1 1
+d
+7 2
+eefdfdd
+2 1
+de
+4 2
+dffd
+1 7
+f
+7 5
+eefdeff
+1 8
+f
+1 2
+f
+1 8
+f
+6 2
+dffdde
+1 6
+e
+3 6
+fff
+4 9
+eefe
+4 1
+fdee
+5 9
+fffef
+4 8
+dffe
+4 3
+ffdd
+1 3
+d
+6 5
+fedfff
+2 2
+df
+2 10
+de
+4 4
+eedf
+5 2
+fedef
+6 6
+ffdefe
+5 10
+defff
+4 9
+fedf
+4 9
+eded
+2 10
+ff
+3 7
+fee
+7 1
+efdfdfe
+1 6
+f
+2 1
+ff
+1 9
+f
+1 1
+e
+6 1
+deefff
+4 9
+eedd
+4 8
+eddd
+3 5
+edf
+7 7
+ffeedfd
+3 5
+ddd
+5 10
+feddd
+6 2
+ddddff
+4 1
+feef
+5 10
+eedff
+6 3
+eeddef
+5 6
+fefdf
+4 3
+efef
+3 10
+ddf
+5 10
+ddeee
+2 1
+ed
+1 10
+e
+6 2
+fefdde
+7 10
+ddefede
+5 1
+fddff
+2 4
+dd
+1 9
+f
+2 4
+dd
+1 10
+d
+5 8
+dfedf
+5 7
+fddff
+2 10
+df
+4 6
+ddef
+6 3
+eedfef
+2 3
+fd
+3 1
+fff
+2 9
+de
+5 7
+edffe
+1 7
+f
+3 4
+dfd
+6 8
+defeef
+6 10
+eeedfd
+7 6
+dffdeee
+2 10
+fd
+5 3
+fedde
+1 6
+f
+5 3
+dedde
+4 1
+dfef
+7 10
+efddeef
+7 1
+efefeef
+3 9
+ede
+1 4
+f
+4 4
+fdee
+6 6
+dfdfdf
+4 9
+fffe
+5 9
+effee
+7 7
+feeffde
+3 7
+ddf
+1 1
+f
+1 1
+d
+6 7
+fddeee
+3 1
+dfe
+4 5
+eedd
+3 10
+efe
+7 9
+edfeddd
+4 8
+ffde
+1 9
+d
+3 6
+ddf
+6 10
+eeeddd
+2 10
+ff
+6 8
+eedeef
+7 5
+ffeedfe
+2 5
+ff
+4 7
+ffdf
+5 2
+fefdf
+7 1
+fdfeedd
+5 9
+effde
+7 8
+fdeeeed
+6 4
+ddeefe
+4 10
+dfdf
+6 3
+edeefe
+1 6
+e
+4 6
+eede
+7 8
+eefddff
+5 2
+fdfdf
+3 1
+fee
+1 4
+e
+3 5
+dff
+6 8
+fddeff
+7 10
+ddefdee
+3 10
+fed
+5 4
+fffdd
+2 8
+dd
+2 2
+df
+6 6
+edeedf
+5 5
+efdde
+7 2
+eeeeddf
+1 4
+d
+5 6
+dddfe
+7 3
+deffefe
+1 1
+f
+1 2
+d
+4 8
+eeff
+7 8
+efffdef
+3 7
+fdd
+5 7
+effdf
+5 9
+eefef
+5 9
+ddfdf
+3 4
+ede
+1 10
+f
+7 6
+ffddfdf
+2 1
+fe
+3 7
+ede
+7 7
+fefefdf
+4 6
+dfdd
+1 7
+f
+4 6
+ddfe
+1 10
+d
+1 9
+e
+7 5
+fdfdede
+5 3
+ffdff
+1 3
+e
+6 3
+efdeff
+3 7
+dff
+4 7
+fdff
+6 8
+efdfdf
+7 5
+eedffef
+4 4
+fded
+6 2
+deedde
+2 8
+dd
+4 6
+ddef
+1 5
+f
+5 6
+fdded
+7 10
+dfffeed
+1 4
+e
+7 7
+fefedff
+4 2
+dfff
+5 3
+efddd
+7 6
+deeeeee
+3 9
+eef
+4 3
+feef
+1 3
+e
+3 3
+dfd
+6 1
+dfdfdd
+4 4
+efef
+7 1
+ddfdeff
+4 10
+effe
+7 6
+edeefdd
+2 8
+ef
+7 4
+fdeddfd
+6 4
+fedeef
+4 3
+fefd
+1 10
+d
+4 8
+efef
+1 8
+d
+5 6
+eefff
+4 7
+ddef
+2 2
+ed
+7 2
+efddddd
+1 1
+f
+1 2
+f
+5 5
+fdeee
+7 7
+edeeddd
+3 1
+dfe
+4 5
+eedd
+1 6
+e
+5 4
+dffff
+5 8
+ddfef
+3 2
+ffd
+2 5
+ee
+3 5
+fdf
+3 1
+edd
+2 4
+ed
+4 6
+feed
+5 8
+ddfff
+7 6
+eeffedd
+5 7
+efefe
+6 8
+defefe
+6 2
+deeddf
+1 9
+e
+1 7
+e
+3 9
+ddf
+5 4
+ddddf
+4 7
+ffde
+7 3
+effdede
+5 9
+efdde
+4 9
+efed
+6 7
+eeeedd
+2 3
+fd
+2 4
+fd
+2 5
+ee
+1 9
+e
+6 6
+fdddde
+7 4
+ffeffff
+6 7
+fdeedf
+5 8
+dfddf
+5 10
+fdeee
+4 3
+effd
+6 6
+deedfe
+6 5
+fddfee
+1 1
+d
+4 2
+dded
+4 9
+ddde
+4 2
+ddef
+1 8
+d
+5 3
+dfefd
+2 7
+dd
+6 10
+edefee
+5 10
+eeeed
+7 3
+eedeeee
+3 1
+ffe
+5 4
+eedef
+2 6
+df
+3 7
+fde
+3 7
+ddd
+4 9
+deef
+7 2
+fefdfde
+7 10
+dfeefee
+1 9
+f
+7 6
+dddefef
+4 10
+eedd
+4 3
+eddf
+7 2
+ddfdedf
+3 1
+ded
+2 6
+fd
+1 9
+e
+6 4
+fddefe
+6 3
+dfedee
+4 5
+fedf
+4 8
+dfdd
+6 7
+dfdddd
+2 8
+de
+6 1
+edffff
+1 9
+d
+4 8
+dfdf
+1 7
+d
+1 2
+e
+3 5
+dde
+1 9
+f
+3 4
+efd
+7 9
+eddeeee
+5 5
+fdfdf
+5 9
+deeed
+3 3
+ffe
+1 1
+d
+5 9
+deddf
+7 7
+fddeedf
+6 9
+dedfdf
+4 7
+ddde
+6 8
+fddfff
+3 1
+ffe
+1 3
+d
+7 3
+edddfef
+6 6
+fffeed
+3 6
+fdd
+3 6
+ddd
+5 4
+eeffe
+2 10
+dd
+2 8
+fd
+5 6
+ddefe
+4 8
+eedd
+5 6
+effee
+2 10
+dd
+5 10
+ddded
+1 3
+d
+6 7
+eedeee
+2 1
+ed
+1 7
+f
+2 9
+fd
+6 10
+ffedfd
+1 4
+f
+6 10
+eeddfd
+5 6
+efeee
+2 8
+ff
+1 3
+d
+1 5
+d
+4 5
+ddfe
+1 8
+d
+3 4
+edf
+1 7
+f
+3 8
+ede
+7 8
+dfefffe
+6 3
+defeef
+4 6
+ddee
+3 6
+ffd
+6 5
+ffdeef
+3 2
+dfd
+3 7
+fdd
+7 8
+edfedde
+7 7
+eefdded
+6 6
+fdfedd
+2 10
+fe
+4 1
+dffd
+7 1
+defffdf
+4 2
+feee
+3 4
+ddd
+7 2
+fddfefd
+1 8
+d
+4 8
+deee
+4 4
+fefd
+3 5
+edf
+5 8
+fdeff
+1 1
+d
+1 7
+f
+2 5
+ef
+3 2
+fed
+5 4
+ffdde
+5 2
+edefd
+4 7
+deee
+7 8
+dddeeed
+4 6
+fedf
+3 7
+eee
+7 6
+effeeef
+4 6
+edef
+1 4
+e
+2 10
+dd
+1 5
+e
+4 2
+dded
+7 3
+dddddee
+4 7
+efef
+2 9
+ee
+2 5
+ed
+2 5
+ff
+7 1
+fefeeff
+7 7
+ffeefed
+3 10
+fef
+4 8
+fdfe
+3 8
+dee
+6 9
+eeffff
+6 1
+ffdeef
+6 7
+edefef
+6 9
+dfefdf
+5 1
+ddedd
+1 5
+e
+2 4
+ff
+3 4
+ddd
+1 9
+e
+2 7
+ff
+1 6
+d
+6 4
+fedfde
+1 7
+e
+5 1
+ededd
+5 4
+ffeed
+1 6
+f
+1 3
+e
+7 3
+ffedede
+2 7
+fe
+3 8
+ddd
+3 6
+dfd
+3 6
+fff
+2 6
+df
+5 7
+edddf
+4 8
+dddf
+7 3
+efddddd
+1 9
+d
+7 5
+ffddfed
+5 6
+deede
+3 9
+efe
+2 3
+ed
+6 7
+ddeeef
+3 6
+edf
+3 10
+fde
+4 4
+ddfe
+1 4
+e
+7 4
+dffddef
+1 5
+e
+2 1
+de
+2 3
+ef
+4 10
+dfed
+4 3
+ddde
+4 8
+efee
+5 7
+edfed
+6 10
+edfeff
+7 2
+fddffdd
+2 10
+ff
+7 6
+dfeedde
+5 1
+eeded
+6 6
+fdfdee
+1 10
+f
+4 9
+eefd
+2 4
+fd
+2 3
+dd
+2 5
+ef
+6 4
+effefe
+6 1
+dffeed
+4 10
+dddd
+2 2
+df
+2 9
+fd
+6 4
+eeefdd
+5 5
+efedd
+3 7
+ede
+3 8
+fde
+6 6
+dfeefe
+1 10
+f
+2 6
+de
+5 10
+efdff
+5 1
+dddfe
+3 4
+efd
+3 8
+ffd
+3 4
+eef
+1 9
+f
+2 5
+ef
+6 1
+feedfe
+1 5
+d
+3 6
+eee
+1 1
+e
+1 6
+f
+5 10
+dfdfe
+6 7
+dddfff
+6 3
+edddfd
+4 10
+eddd
+5 10
+eedde
+1 1
+e
+4 10
+edef
+7 9
+efeefdd
+2 6
+fd
+7 1
+edffeef
+1 4
+e
+6 10
+eefdef
+3 6
+fed
+4 7
+edde
+6 9
+effdef
+6 6
+eefffd
+7 9
+dfefdfe
+6 4
+efdeee
+1 7
+f
+4 4
+dfef
+4 3
+ffee
+1 3
+d
+3 3
+dfe
+4 10
+dffe
+7 8
+fefdfde
+5 3
+fdddf
+1 3
+d
+7 10
+dfeeedf
+5 10
+efffe
+7 7
+dddedfe
+1 6
+f
+5 8
+ffffe
+7 7
+dfdeeef
+2 7
+ff
+4 1
+feff
+4 9
+fded
+4 10
+fffe
+2 1
+ee
+3 5
+fed
+3 2
+efd
+3 10
+dfd
+5 4
+dfedd
+7 2
+dddeddf
+4 7
+fefe
+5 1
+ffefe
+5 6
+ddefe
+2 3
+df
+3 2
+eef
+4 1
+ddff
+4 7
+fddd
+5 3
+dfffd
+1 10
+e
+7 5
+ddfddfd
+4 8
+dfee
+3 8
+edf
+3 8
+ddf
+4 9
+edee
+6 4
+dfdefd
+3 3
+eee
+2 2
+dd
+5 8
+ddfff
+3 6
+dfd
+5 9
+fefdf
+5 4
+edfed
+5 4
+fffde
+4 4
+effe
+3 8
+dff
+2 5
+dd
+5 1
+effdd
+6 9
+ddffef
+3 4
+ded
+3 3
+def
+1 5
+f
+7 6
+ffdeffd
+5 1
+defff
+1 1
+f
+2 8
+fe
+2 10
+dd
+1 6
+d
+7 8
+fffffdd
+2 4
+dd
+6 3
+fdffed
+3 4
+eed
+1 7
+f
+3 5
+ede
+6 6
+ddddfe
+7 3
+ededdfd
+4 1
+eeff
+2 8
+ef
+1 8
+e
+4 4
+dded
+2 9
+df
+3 6
+edd
+5 2
+fdded
+4 5
+ddef
+7 5
+edeefee
+1 2
+e
+3 6
+eef
+5 4
+ffdff
+6 5
+dfedde
+5 5
+dedfe
+5 7
+feedd
+6 9
+edeeff
+3 10
+ede
+1 7
+f
+6 10
+dfefef
+3 2
+eef
+2 6
+fe
+6 5
+defeed
+6 9
+defefe
+6 4
+dddddf
+5 4
+defed
+6 7
+fddeee
+2 5
+fd
+4 1
+efed
+1 9
+f
+1 10
+d
+6 6
+ddfefd
+5 7
+eedfe
+5 6
+edffe
+1 1
+d
+2 6
+df
+7 9
+eeeddff
+1 5
+f
+1 3
+e
+1 3
+e
+2 9
+fd
+6 6
+dddefe
+5 1
+dfdfe
+6 8
+eeddfd
+2 4
+ef
+5 9
+fefff
+7 1
+edeefdd
+5 9
+dddfd
+7 6
+efeefed
+6 6
+deedef
+5 2
+eeeef
+4 7
+dfdd
+1 3
+f
+4 9
+edfd
+3 2
+ddf
+1 10
+f
+4 8
+fdff
+7 2
+eeefddf
+5 9
+eeffe
+3 1
+eef
+4 7
+ddde
+1 3
+e
+7 2
+fdffeff
+3 2
+fde
+1 4
+d
+6 2
+ffdffd
+6 2
+eeeddd
+4 8
+fdef
+6 10
+edfdef
+7 2
+dfddfef
+6 2
+fedfdf
+6 7
+deeedd
+2 6
+ee
+7 2
+dffefef
+1 2
+f
+3 2
+edd
+7 9
+dddfefe
+3 10
+fdf
+4 9
+fede
+6 10
+dfdedf
+5 3
+efdfd
+3 2
+ffe
+7 9
+fddfeee
+5 7
+eeffe
+6 1
+ddffde
+7 6
+fdeefff
+1 1
+e
+3 2
+ffd
+2 5
+de
+2 8
+fd
+3 1
+fff
+2 2
+ee
+4 7
+eded
+2 5
+dd
+1 1
+e
+6 8
+fddedf
+3 2
+ede
+6 3
+eddffd
+7 4
+dfddddd
+7 6
+ffddfef
+1 7
+f
+6 5
+fdffee
+3 5
+fff
+7 8
+fdfeffd
+6 3
+edeffd
+7 1
+efeedff
+3 10
+dff
+2 5
+df
+6 2
+dddffe
+2 2
+ef
+5 1
+efdfd
+2 8
+df
+6 7
+fdddee
+7 1
+ddddede
+1 3
+f
+6 8
+ffdeff
+2 9
+dd
+7 7
+eeefedf
+5 5
+ddeff
+1 9
+f
+6 7
+dddefe
+6 10
+deedee
+2 5
+ef
+1 5
+e
+6 6
+efeeef
+2 8
+fe
+1 5
+e
+4 8
+ddef
+6 4
+fdfddd
+7 9
+dedeefd
+2 8
+fe
+1 1
+e
+6 10
+eddfed
+1 10
+d
+4 2
+fddd
+5 1
+fdddd
+4 1
+ddfe
+2 8
+fd
+5 8
+defdf
+2 8
+de
+4 6
+fded
+5 1
+feede
+3 10
+ddf
+7 1
+fdfdede
+3 1
+fff
+4 10
+ffee
+6 8
+deffed
+6 1
+dfddfe
+7 9
+dffddde
+7 2
+dfeddde
+6 3
+efefdd
+7 5
+ededddf
+6 10
+dddfdd
+3 8
+ddf
+4 3
+dfdf
+5 10
+dddde
+4 3
+eefd
+5 2
+efdfe
+3 10
+dee
+6 8
+fddeef
+5 8
+dfdfd
+4 6
+dfff
+7 6
+feedeef
+4 2
+eede
+7 1
+effdfee
+7 2
+dddedfd
+5 5
+fedfd
+7 1
+dfdffdd
+7 1
+effdffd
+2 4
+fd
+2 9
+fe
+6 1
+efdedd
+1 7
+e
+1 3
+d
+6 9
+deedff
+7 7
+edfddee
+4 1
+edee
+5 1
+fddef
+2 8
+ff
+5 3
+ddefd
+4 2
+deff
+2 7
+fe
+2 4
+fd
+5 9
+feeff
+7 3
+ffffded
+4 3
+fddf
+3 3
+ddd
+4 3
+deee
+3 7
+fee
+7 9
+ffddeed
+3 4
+efd
+2 3
+dd
+4 3
+eeee
+6 10
+ddedfe
+6 3
+fdeefe
+5 3
+eddde
+6 9
+dffded
+3 10
+eed
+6 5
+ffdffe
+5 9
+ffefe
+1 4
+f
+7 5
+efeeeff
+5 6
+dffde
+3 6
+eee
+5 1
+eddfd
+2 2
+ef
+2 9
+ef
+5 4
+efded
+2 3
+de
+1 3
+f
+3 3
+eee
+2 8
+de
+4 2
+fedd
+5 4
+dfeef
+2 9
+de
+5 4
+ffeef
+4 7
+ffdf
+2 4
+ed
+5 1
+effee
+7 7
+feedfde
+7 4
+defdfef
+7 3
+ffddffe
+7 4
+ddfeffd
+2 1
+df
+2 6
+de
+7 2
+deefffd
+2 9
+fd
+7 4
+dfffded
+7 9
+ffeddfd
+6 6
+eefedf
+1 5
+f
+6 4
+fdefee
+5 8
+edfff
+1 2
+d
+7 3
+ffdeffe
+6 7
+dddffe
+4 1
+edef
+1 1
+f
+2 5
+ef
+4 9
+ddfe
+5 2
+efedd
+4 8
+ffee
+2 7
+ff
+1 2
+d
+1 8
+e
+2 7
+ff
+3 2
+fde
+5 6
+deddd
+5 1
+fedde
+2 3
+ed
+5 2
+eefef
+6 9
+fddfef
+7 9
+fdfeeef
+7 4
+ffeffed
+3 10
+dde
+4 8
+eedd
+4 9
+fdfd
+5 3
+fdfdd
+4 6
+dfdf
+2 2
+dd
+5 10
+ffede
+4 3
+deed
+3 5
+dee
+1 10
+f
+2 9
+df
+2 6
+df
+6 3
+fdeefd
+7 2
+effffdd
+2 6
+fd
+2 3
+de
+2 4
+fe
+4 2
+ddef
+1 7
+d
+2 9
+df
+1 8
+e
+3 7
+ffe
+2 6
+fd
+7 7
+eeefeef
+2 7
+ff
+6 8
+eeddee
+1 9
+f
+7 1
+fdedffd
+7 2
+fddfdff
+1 10
+f
+7 2
+fefddee
+5 1
+efeff
+3 9
+eee
+3 6
+fef
+6 5
+ddeeff
+5 5
+deffe
+4 7
+dffd
+6 6
+eddeef
+1 4
+d
+6 8
+fdddff
+7 7
+efddddd
+5 6
+fdddd
+2 1
+ee
+5 10
+eedef
+4 7
+deee
+1 9
+f
+7 6
+feddedf
+6 9
+ddfddf
+4 2
+fede
+5 9
+deeee
+4 4
+eded
+5 7
+edfde
+4 7
+fdfe
+2 3
+ef
+7 5
+ffdfdfd
+2 1
+ef
+7 4
+eeedeff
+3 10
+def
+4 1
+ffef
+1 10
+e
+7 1
+eeddddd
+6 1
+ddedde
+7 9
+dfedddd
+3 6
+dff
+7 5
+edfedfd
+3 1
+ede
+2 9
+ee
+2 8
+ee
+6 6
+ffdeed
+6 3
+eeffed
+4 4
+feee
+7 3
+dddffde
+6 7
+feffff
+7 6
+edfdded
+2 5
+ef
+4 7
+efff
+6 5
+feddfd
+7 6
+fdeeefe
+4 2
+ddff
+6 7
+ffdfed
+7 10
+fdfedfd
+1 3
+d
+4 8
+eede
+4 5
+dffd
+7 7
+fdeeeff
+5 3
+ddede
+7 5
+ffeefdd
+7 6
+edddded
+7 1
+feddefe
+4 9
+eefd
+3 7
+fdd
+6 10
+dfffdd
+2 7
+df
+3 2
+dee
+1 10
+e
+2 4
+ed
+6 8
+fefded
+7 6
+efeddee
+3 1
+dde
+4 1
+ddfd
+7 7
+ffdfffd
+1 4
+f
+2 2
+ee
+7 1
+ddededf
+4 5
+fefe
+5 8
+eeddd
+4 8
+dede
+5 4
+feeef
+2 2
+ff
+4 5
+fedd
+6 1
+eefdee
+4 1
+defd
+2 5
+dd
+7 3
+eeedddf
+3 6
+ffd
+7 2
+dfdffdf
+3 3
+fde
+4 7
+feff
+5 9
+edede
+3 3
+eed
+7 7
+ffdefde
+4 7
+dded
+2 8
+df
+5 6
+edddf
+3 6
+ddf
+3 5
+fff
+3 3
+eee
+3 9
+ddd
+6 1
+fedffd
+4 7
+eeff
+5 9
+efddf
+7 9
+ffedede
+2 5
+fd
+1 6
+d
+3 9
+efe
+2 1
+ff
+7 5
+ffddffe
+7 6
+feddfed
+3 1
+eed
+6 4
+feedfd
+1 10
+d
+7 4
+fffdfee
+7 10
+defeded
+3 7
+fff
+2 10
+dd
+4 5
+dede
+2 6
+de
+2 8
+ed
+6 1
+dffeef
+4 10
+ddfe
+6 7
+dfffdf
+1 9
+f
+4 2
+eedf
+3 6
+eee
+3 9
+ddf
+3 3
+efe
+3 2
+ede
+5 9
+dddee
+5 10
+feddd
+6 1
+ddeded
+5 3
+ffeee
+5 2
+feeff
+7 8
+dfefedf
+5 5
+ddedf
+2 8
+ee
+1 6
+d
+6 2
+ddefde
+3 2
+fde
+6 3
+ddddff
+1 5
+d
+6 1
+dfefff
+3 2
+ede
+2 7
+ed
+3 5
+dff
+5 4
+eeddf
+1 1
+d
+6 2
+ffddff
+3 7
+fef
+5 2
+edeee
+5 10
+edddd
+6 4
+deefdd
+5 4
+edede
+5 7
+fefef
+7 5
+deeedde
+7 6
+ffdddfe
+2 4
+fd
+7 9
+deddefd
+6 6
+effedf
+1 6
+f
+7 2
+edefdff
+6 1
+fdddef
+4 6
+feed
+4 3
+fede
+5 8
+effff
+1 4
+e
+5 3
+ffeef
+2 2
+fd
+7 9
+defffef
+2 2
+de
+2 8
+fd
+4 10
+ddef
+6 1
+efdeef
+1 5
+e
+5 10
+ffdfe
+5 9
+feedd
+5 4
+ddfee
+3 6
+fdf
+5 4
+dfeef
+5 7
+dfeed
+7 10
+edfffdd
+3 9
+ddf
+5 6
+fffef
+7 5
+fdffffd
+4 2
+ffed
+7 4
+deffddf
+7 6
+dfddefe
+4 1
+deee
+1 6
+d
+7 5
+effdedf
+1 3
+f
+7 9
+feededd
+5 10
+efdef
+3 3
+fdd
+5 8
+efefd
+2 3
+ff
+1 10
+d
+4 2
+edfe
+3 7
+eee
+6 3
+eddefd
+5 6
+eddfd
+5 3
+edded
+7 6
+efdefef
+2 1
+fd
+2 8
+de
+7 5
+deeeddf
+3 3
+dff
+6 7
+efedff
+4 6
+feff
+7 4
+edfefee
+6 5
+eedfdd
+1 4
+f
+4 5
+fdfe
+3 7
+ddf
+1 7
+d
+5 8
+fedde
+2 4
+fd
+5 6
+deddd
+4 2
+eeff
+7 5
+ffdddfd
+3 10
+def
+4 1
+efdf
+4 4
+dfdd
+4 4
+eeff
+6 2
+fddeed
+1 1
+e
+3 4
+fff
+5 6
+edede
+5 5
+efeef
+7 8
+edeeddd
+2 2
+de
+5 6
+fdfdd
+4 3
+ffee
+2 5
+dd
+7 3
+ededdee
+5 3
+dddde
+5 9
+feffd
+7 8
+ffeeede
+7 7
+eeffffe
+3 5
+fde
+1 6
+d
+3 8
+ded
+7 2
+ddfeded
+7 10
+edddeff
+3 3
+ffd
+5 2
+eeede
+1 3
+e
+7 2
+eddfdff
+1 2
+f
+5 8
+fedff
+6 8
+dddffd
+1 2
+e
+1 8
+f
+6 5
+fdeedf
+1 7
+e
+2 2
+df
+6 8
+dfefed
+3 6
+edd
+6 10
+ddfdee
+5 4
+dddfe
+7 9
+ddeedee
+4 7
+dded
+6 7
+eedffd
+1 9
+f
+1 8
+f
+5 2
+dddfd
+5 5
+dddff
+3 3
+fff
+7 9
+feeeeff
+4 7
+fefe
+5 8
+eedff
+4 8
+effd
+5 4
+dfedd
+5 8
+dfffe
+7 3
+defdfdd
+1 8
+e
+5 5
+dffed
+7 4
+dffdfef
+4 5
+effd
+7 10
+dedfeed
+7 9
+dfddffd
+1 1
+d
+7 9
+fedfddf
+5 2
+dfeee
+3 3
+dde
+5 9
+edfde
+6 1
+fdefff
+1 9
+f
+4 9
+dfed
+4 1
+eddf
+2 7
+df
+3 7
+dfd
+7 6
+efddffe
+7 1
+eefdfef
+5 1
+defff
+5 7
+efdde
+1 10
+e
+6 10
+feffde
+6 5
+efffde
+6 6
+eefdde
+4 8
+ddff
+5 3
+fdeed
+2 9
+de
+3 3
+eee
+3 8
+ded
+7 10
+efdffed
+4 3
+efee
+1 3
+e
+5 7
+fdeee
+5 1
+fddfd
+1 1
+f
+6 4
+dddeef
+6 8
+efeefe
+2 8
+ff
+6 4
+edeefd
+2 1
+de
+1 5
+f
+7 4
+dfdeded
+4 1
+ddfd
+5 10
+fddfd
+3 10
+def
+7 7
+feeddde
+5 1
+eefde
+6 1
+edeefd
+6 3
+dfffde
+3 7
+edd
+4 5
+ffde
+2 5
+ee
+4 10
+dddd
+7 1
+fdfefee
+5 10
+eeffe
+6 10
+efdeef
+2 7
+ff
+6 10
+fddded
+4 7
+fefe
+5 7
+dfffd
+5 1
+fdeed
+7 6
+ddeffde
+1 4
+f
+1 1
+f
+6 7
+edfdee
+3 4
+efd
+7 3
+ddeeeee
+6 7
+efdeef
+1 10
+e
+7 9
+dfeeddf
+4 5
+deed
+7 3
+dddfedf
+2 1
+ff
+3 1
+fed
+4 9
+fede
+5 9
+eeeff
+2 8
+ff
+1 5
+d
+2 3
+df
+5 8
+dffee
+4 2
+edde
+4 2
+edef
+4 2
+feff
+3 5
+ffe
+2 3
+ef
+1 1
+e
+6 3
+efeede
+5 7
+fefef
+6 9
+edffef
+3 6
+eef
+6 8
+eeefee
+7 10
+dffdfff
+5 9
+dedee
+1 3
+f
+7 1
+fedddef
+2 2
+ee
+4 1
+eeee
+4 6
+defe
+6 10
+defdfe
+4 8
+edee
+1 4
+f
+3 5
+edf
+7 3
+ddeedef
+1 3
+e
+6 8
+fddfde
+5 6
+efdfe
+3 7
+eff
+6 6
+dfdfed
+7 1
+fedfeed
+4 6
+feee
+4 6
+eedf
+1 7
+f
+2 9
+dd
+6 10
+deeedd
+6 9
+dffded
+2 1
+ed
+4 4
+fdde
+6 5
+efdfff
+7 7
+fffffed
+1 3
+d
+1 10
+f
+3 4
+edf
+1 8
+f
+6 4
+dedfee
+7 4
+feefdee
+6 6
+defffd
+3 7
+ddd
+3 4
+ddf
+5 6
+eefde
+6 4
+dfeefe
+5 6
+fefef
+6 2
+deddff
+7 8
+ffddfef
+6 2
+eededf
+1 10
+e
+6 2
+dedeff
+2 10
+df
+5 4
+fdeef
+1 4
+d
+5 7
+defed
+2 4
+ef
+7 1
+fdfddfd
+2 9
+fd
+5 9
+ddefe
+4 7
+ffdd
+3 6
+fef
+1 10
+d
+4 2
+feef
+1 6
+f
+4 1
+edfe
+4 3
+deef
+5 4
+eddde
+6 8
+edddff
+6 5
+ddfeee
+2 7
+fe
+3 6
+efe
+6 5
+dffedf
+5 2
+ffddf
+6 3
+eefddd
+3 4
+efd
+7 3
+dffffff
+4 8
+dfee
+5 2
+eeddd
+4 10
+fdee
+1 4
+f
+5 1
+feedd
+6 4
+ffddef
+2 1
+df
+3 2
+eef
+5 2
+efddd
+2 8
+ef
+3 3
+eed
+4 6
+deef
+6 8
+fddeff
+2 8
+de
+6 8
+eedffe
+2 3
+dd
+1 10
+f
+3 4
+fef
+4 4
+eeed
+2 2
+dd
+6 5
+ddedde
+7 10
+fdefdfe
+7 7
+ddddeed
+4 1
+fedf
+6 9
+eedeef
+2 6
+dd
+2 7
+fd
+3 3
+fee
+1 7
+e
+6 7
+feeffd
+6 7
+dfdefd
+3 9
+ddd
+3 4
+fed
+3 3
+edd
+4 2
+dfde
+1 5
+e
+3 6
+dfd
+4 3
+fddf
+7 2
+efdddee
+1 8
+f
+3 8
+dfe
+6 4
+ededfe
+2 2
+fe
+5 7
+edfff
+2 6
+df
+6 3
+dddefd
+3 4
+eed
+3 7
+fef
+7 6
+eeedfde
+3 7
+dff
+3 2
+ede
+5 4
+dffff
+2 1
+ff
+2 7
+fd
+5 4
+feded
+2 4
+ed
+5 4
+edfdd
+6 6
+ffedff
+3 3
+dde
+5 4
+ededd
+1 3
+d
+6 10
+feeefe
+4 3
+ddfd
+6 4
+dedeff
+4 6
+dfdd
+7 1
+dfdeffd
+3 10
+dfd
+7 9
+deddfdd
+6 9
+ffeeef
+4 5
+dfdf
+4 6
+dffd
+2 6
+df
+6 5
+fdfefd
+7 4
+fffdddd
+3 9
+eee
+2 2
+ff
+1 3
+e
+3 6
+dfe
+2 6
+fd
+2 10
+fe
+4 6
+fdef
+1 10
+d
+3 8
+fee
+4 3
+ffed
+1 1
+f
+6 2
+dedffe
+6 2
+fedddf
+4 10
+eded
+4 3
+ddfe
+6 3
+dfddef
+5 1
+ddfff
+7 10
+fddfffe
+2 8
+ed
+6 8
+fddffd
+3 3
+def
+4 6
+edfe
+6 2
+effedf
+3 5
+edd
+3 3
+fed
+4 2
+dfdd
+4 7
+efed
+4 2
+ffde
+2 2
+ff
+6 10
+efdefd
+6 5
+fdeedd
+6 1
+ffddff
+2 9
+fd
+4 4
+dedd
+2 10
+fd
+3 3
+efe
+2 2
+ef
+1 9
+e
+2 4
+ef
+2 4
+ef
+2 8
+fe
+2 7
+fe
+4 7
+ddfe
+1 8
+d
+5 5
+feeed
+7 1
+dfdedfe
+3 7
+eff
+1 10
+d
+4 8
+dfdd
+7 9
+eedddee
+6 5
+ddfdef
+7 7
+deeeeee
+3 9
+dee
+2 2
+fe
+4 6
+ddfe
+5 6
+efddd
+2 4
+fe
+6 9
+fdeffe
+7 4
+ddedfff
+4 1
+dfef
+7 9
+dedfeed
+1 4
+d
+3 4
+fdf
+2 7
+ed
+4 5
+fdde
+4 2
+fedd
+4 3
+eede
+3 3
+fed
+4 4
+dffd
+3 4
+dde
+3 3
+fde
+4 3
+fefe
+3 7
+eef
+2 6
+de
+3 2
+fee
+6 7
+dddfef
+3 10
+eee
+5 3
+fdedd
+5 6
+eedfd
+4 4
+ffde
+5 8
+deede
+5 10
+edefd
+2 4
+fe
+6 8
+ffdddd
+3 7
+efd
+3 9
+eff
+1 1
+d
+6 10
+ffdedd
+7 6
+dfeddef
+7 6
+eddfdde
+7 8
+efeeedf
+2 3
+ff
+4 1
+fdfd
+2 5
+fe
+6 5
+edfdee
+3 10
+fee
+7 3
+fdffdfe
+7 7
+ddeeffd
+2 5
+de
+4 10
+fded
+5 10
+dfdff
+6 7
+dffeef
+1 1
+e
+5 2
+defde
+5 3
+dedef
+3 10
+fee
+3 5
+ded
+5 7
+deddf
+3 4
+def
+2 6
+df
+4 8
+dfdf
+3 9
+ede
+5 8
+efede
+5 5
+edede
+2 4
+ee
+5 2
+ddfef
+1 2
+e
+4 4
+dffd
+6 5
+ffffde
+3 4
+fed
+1 3
+f
+1 1
+d
+1 6
+d
+3 8
+ede
+6 2
+edfeff
+6 4
+fdfefd
+7 7
+fefeeff
+7 2
+dfeddff
+4 5
+eefd
+6 4
+fdffee
+2 1
+ef
+1 5
+f
+2 8
+df
+5 9
+eeede
+7 10
+edefefe
+7 3
+dfddfde
+4 5
+dfdf
+4 9
+ddfd
+3 10
+eef
+5 6
+dfeed
+2 8
+dd
+5 1
+ffffe
+3 1
+edf
+1 6
+d
+6 8
+feefdf
+6 7
+deddee
+6 7
+ddeded
+2 10
+ed
+2 4
+dd
+7 6
+dffdfee
+6 6
+fdefdd
+4 5
+feed
+2 5
+ef
+4 3
+deee
+5 5
+efdfe
+3 3
+dff
+7 9
+eeeedfd
+2 4
+de
+7 5
+eeddfde
+3 3
+fed
+4 5
+fddf
+4 5
+eede
+5 3
+edfef
+6 1
+effdfe
+7 6
+ffefdef
+4 1
+fdfe
+5 2
+efefd
+4 4
+dfed
+1 5
+f
+7 7
+fddfede
+7 10
+fffefde
+6 10
+eededd
+7 4
+ddfeded
+6 4
+eeefde
+2 7
+ef
+2 5
+fd
+7 6
+fdeefdd
+4 1
+defd
+3 9
+ede
+4 9
+fedd
+1 3
+e
+7 9
+dfffdee
+3 1
+ddd
+6 7
+dfeddf
+1 8
+e
+7 4
+edfdefd
+1 9
+e
+3 6
+edf
+1 6
+d
+7 3
+efdeeef
+4 1
+edfd
+3 2
+dee
+6 5
+fddfef
+2 6
+de
+6 6
+fedfde
+2 3
+ee
+3 1
+dde
+5 3
+ffefe
+7 5
+fddfeef
+7 4
+fffefdf
+5 9
+dffff
+1 4
+d
+6 2
+feeddf
+1 3
+f
+1 4
+f
+7 10
+feefefd
+4 6
+feff
+3 10
+ede
+5 10
+dfefe
+4 9
+efef
+7 10
+dfffedf
+3 9
+fdf
+6 5
+dfdede
+2 1
+fd
+2 8
+ed
+7 2
+edfefef
+4 10
+dfff
+7 1
+fffdfff
+1 10
+e
+6 1
+fddefe
+1 8
+f
+5 1
+dfdde
+1 1
+e
+6 7
+ffeeed
+1 2
+f
+4 5
+edff
+6 4
+fedefd
+4 7
+eeff
+7 7
+dfdddde
+6 4
+edfdee
+4 10
+ddfe
+3 4
+efe
+2 7
+ef
+5 6
+fedde
+6 1
+deeddd
+6 3
+fddfde
+5 1
+effef
+5 6
+dfdee
+7 7
+dffdfdd
+4 6
+eedf
+3 2
+eef
+4 10
+ddfd
+4 3
+eded
+5 2
+feddf
+5 9
+fffdd
+3 1
+ded
+5 10
+dffdd
+2 10
+ed
+5 10
+efefe
+6 4
+deffed
+7 8
+fefefdd
+1 2
+f
+7 5
+deeffdd
+1 3
+d
+2 4
+fd
+5 10
+fefdf
+3 4
+ede
+1 4
+f
+7 9
+ddedfdd
+2 10
+fd
+2 8
+ee
+5 6
+ffffe
+3 4
+fde
+6 6
+dedddf
+6 4
+ffefdf
+4 8
+dfff
+7 9
+eeededf
+4 3
+edde
+3 4
+dee
+6 6
+deeede
+1 9
+e
+7 10
+fffdded
+3 2
+efd
+2 3
+ef
+7 2
+fdffdfe
+5 6
+fffde
+5 1
+dfdff
+5 9
+fefff
+4 1
+dddd
+1 7
+d
+5 7
+dffdd
+6 3
+ffeeff
+7 7
+fedefdd
+6 6
+dfedfd
+1 7
+e
+2 7
+df
+4 8
+dedd
+3 1
+ffd
+6 9
+edefef
+7 2
+dfedfdd
+7 10
+efeefff
+4 10
+ffed
+7 4
+ddfffed
+1 10
+f
+4 8
+fede
+6 9
+dfeedf
+4 9
+eeef
+7 3
+edfdfdf
+2 7
+de
+7 3
+dfdfeee
+5 8
+ddefe
+4 5
+fdee
+7 8
+ffeeedf
+2 5
+ef
+2 8
+de
+1 8
+e
+2 3
+df
+1 2
+f
+2 5
+ef
+2 2
+ff
+6 8
+efdfee
+1 8
+d
+7 2
+ffedfef
+5 1
+ffddf
+3 4
+eef
+5 5
+dfefe
+2 9
+ef
+1 8
+e
+7 7
+dfdddff
+5 5
+fedff
+1 7
+f
+1 3
+d
+5 1
+eddee
+4 1
+ffde
+2 9
+fe
+6 2
+ffedfd
+1 3
+d
+3 3
+dde
+1 2
+f
+7 1
+eeefdfd
+5 2
+eddde
+1 10
+e
+6 7
+feefde
+3 4
+def
+5 2
+ffede
+1 1
+f
+2 6
+fe
+1 9
+d
+4 4
+edfe
+5 9
+dedde
+2 2
+de
+1 1
+f
+3 4
+dee
+6 5
+ffeefd
+7 9
+eefeddd
+3 3
+eef
+7 1
+dffdfdf
+3 5
+dfd
+1 5
+f
+3 1
+fdd
+6 10
+edffdd
+5 9
+ddeed
+2 8
+df
+7 7
+effefee
+2 8
+ef
+5 2
+deefd
+2 10
+df
+7 1
+dfefdff
+4 9
+ddfe
+5 1
+fefdd
+7 10
+dddfdef
+1 9
+e
+7 7
+dfeedef
+7 1
+fddefdd
+5 9
+eefed
+4 6
+dfed
+3 10
+fdd
+4 4
+dfee
+4 3
+eefd
+1 10
+f
+4 8
+fefe
+1 9
+f
+2 7
+de
+2 4
+ed
+7 9
+defefde
+2 5
+ef
+5 2
+fdeef
+6 10
+fdfeed
+2 5
+ef
+2 6
+de
+7 10
+ffefdfe
+6 2
+dfdede
+1 4
+f
+3 5
+edd
+5 5
+deedf
+2 9
+ef
+3 9
+ffe
+6 5
+eeeffd
+3 8
+eee
+3 6
+dff
+7 9
+fdedfdd
+6 10
+edffdd
+2 3
+ff
+5 5
+fefff
+2 8
+ed
+1 1
+d
+2 5
+de
+4 8
+edfe
+7 3
+fdeeffe
+2 9
+de
+4 3
+fede
+1 1
+f
+3 1
+edd
+7 4
+efedded
+4 9
+fefd
+7 7
+eededfe
+4 9
+dfde
+2 1
+ee
+3 5
+dfd
+7 8
+feedded
+1 5
+e
+2 5
+ff
+5 9
+ffefd
+3 7
+ddd
+6 4
+ddfdfd
+4 8
+efed
+1 7
+d
+4 5
+fedd
+6 8
+eedddf
+7 3
+ffffffe
+4 5
+fddd
+7 3
+feddfdf
+1 1
+d
+2 8
+ee
+3 6
+def
+3 5
+eee
+4 4
+efdd
+2 3
+ef
+2 9
+df
+4 1
+eefe
+7 10
+dfdfdfe
+3 10
+fef
+2 8
+ef
+4 4
+edef
+1 2
+e
+7 8
+ffdfddf
+1 3
+e
+5 2
+effed
+7 6
+deefeed
+5 1
+efdef
+2 1
+dd
+2 10
+ff
+4 6
+eddd
+2 6
+fd
+2 7
+de
+1 4
+d
+1 3
+e
+2 1
+fe
+5 4
+fdeff
+7 5
+dffedfe
+2 9
+df
+6 7
+ededdd
+3 10
+fdd
+3 6
+ddd
+1 4
+e
+1 8
+f
+4 10
+eedd
+7 6
+eefdedf
+2 8
+dd
+5 7
+ffddd
+1 6
+f
+2 7
+fd
+2 6
+ff
+5 2
+edfde
+4 2
+dddd
+6 8
+eefeef
+3 2
+fef
+3 6
+edd
+6 8
+fffede
+5 10
+deddf
+4 2
+effd
+3 5
+eff
+4 4
+ddef
+7 6
+ffddddd
+3 3
+edf
+5 3
+dfdee
+7 8
+dddedde
+7 10
+efeffed
+4 6
+eddd
+6 6
+fedfee
+7 5
+ffefefd
+7 5
+deeedde
+5 1
+eefed
+2 2
+ff
+4 5
+deed
+6 7
+eeedff
+5 8
+efeef
+4 6
+eefe
+7 9
+dffedee
+5 1
+dfedf
+4 2
+deed
+3 4
+eff
+4 5
+feff
+7 9
+feffdee
+2 4
+ef
+2 1
+dd
+7 2
+feefffd
+7 7
+deedefe
+2 10
+ed
+4 6
+ddfe
+4 4
+fedf
+6 3
+feedff
+5 6
+ddffe
+1 5
+d
+1 5
+d
+1 10
+f
+7 5
+ddeffee
+2 6
+ee
+7 5
+dfddfee
+7 9
+fdeddee
+4 10
+deed
+7 5
+ddffedd
+4 1
+deef
+3 1
+ddf
+3 3
+fdd
+5 4
+dfdef
+5 5
+edfff
+2 6
+dd
+2 7
+ee
+1 6
+f
+4 9
+feff
+2 10
+fd
+5 6
+edefe
+2 8
+fe
+6 3
+eddfde
+7 4
+dfdeedd
+6 8
+fefedf
+7 5
+eedffed
+7 2
+efefeef
+5 6
+dffee
+2 7
+ee
+4 10
+fddf
+6 7
+fdfedd
+4 2
+feef
+7 9
+efdeffe
+7 6
+deeeffe
+2 1
+de
+5 4
+dfdff
+3 10
+eed
+3 7
+fef
+1 2
+e
+4 3
+defd
+2 9
+ee
+6 1
+fdeeed
+3 1
+fde
+4 2
+fedf
+4 7
+fede
+5 5
+effde
+4 10
+dfee
+1 7
+f
+4 4
+edff
+4 7
+dffe
+7 10
+effeedd
+4 10
+fefd
+1 8
+e
+4 3
+efff
+3 4
+ffe
+4 7
+feee
+4 2
+feff
+4 1
+fffd
+4 2
+dfdf
+7 8
+efddfff
+4 5
+eddf
+7 3
+dfdefef
+5 2
+eefef
+1 10
+f
+2 1
+ed
+6 8
+efdedd
+7 5
+edfdddf
+3 2
+eff
+5 8
+feded
+7 2
+fddedef
+4 1
+fffe
+1 2
+e
+7 1
+edddfef
+1 10
+f
+2 3
+fd
+2 6
+ff
+5 4
+ddefd
+2 2
+ef
+5 2
+ffdff
+7 8
+fdffeff
+1 3
+f
+1 4
+f
+1 2
+d
+7 1
+ffdffde
+4 1
+feee
+4 8
+fdff
+3 4
+ddd
+5 9
+dddff
+4 2
+ffee
+2 6
+dd
+2 3
+ff
+2 9
+de
+7 4
+ddddddd
+1 6
+d
+7 4
+efdfffe
+5 2
+eedee
+3 8
+efe
+3 4
+edf
+5 1
+fefef
+3 7
+dff
+3 10
+efe
+1 2
+f
+5 9
+edded
+7 10
+feeddfe
+7 7
+fefdefe
+7 2
+dddffff
+2 6
+ee
+2 5
+de
+5 10
+feffd
+3 9
+dfd
+4 10
+ffef
+3 6
+ddd
+2 2
+dd
+3 5
+dff
+7 7
+eefefed
+5 9
+eedde
+3 10
+fee
+6 1
+fdeede
+4 4
+deed
+7 5
+ddededf
+2 5
+ee
+6 9
+dfdefe
+5 3
+fdefd
+7 6
+ddeffdd
+1 9
+e
+2 1
+ee
+3 7
+fff
+4 9
+ddfd
+5 2
+efdfe
+7 3
+eddddef
+4 9
+ddde
+7 3
+fddfedf
+2 3
+fd
+3 3
+fed
+7 6
+dddffde
+1 3
+f
+2 5
+df
+6 5
+dfeefd
+7 1
+dedeefd
+2 3
+fe
+5 10
+eddef
+1 4
+e
+7 10
+effddfe
+2 1
+df
+1 3
+d
+4 8
+edef
+6 1
+eefdee
+2 7
+fe
+3 7
+dfe
+4 6
+deff
+5 5
+defdd
+3 2
+edf
+2 3
+fe
+4 10
+deef
+2 10
+ee
+5 10
+ffede
+6 3
+eddefe
+4 10
+dfed
+5 4
+efddd
+7 7
+dffdded
+4 4
+eefd
+6 9
+ddffdf
+2 7
+de
+6 1
+ffdfee
+1 3
+d
+2 3
+dd
+6 5
+dfffed
+2 10
+ff
+3 10
+fde
+5 10
+feddf
+2 6
+de
+5 1
+eddef
+6 10
+edfdee
+3 8
+fdd
+3 1
+edd
+4 7
+edde
+2 2
+ff
+3 6
+def
+6 6
+ddedfd
+6 10
+eddfef
+3 8
+ded
+6 7
+fdeded
+4 7
+deef
+5 5
+eeeee
+1 10
+d
+1 6
+d
+3 7
+fdd
+4 1
+feff
+6 2
+ddfddd
+2 3
+fe
+5 3
+feeee
+6 4
+ddeedf
+1 6
+f
+5 10
+efeee
+4 2
+ffed
+5 8
+ddfed
+4 2
+dfde
+3 4
+ede
+1 10
+f
+5 10
+efeed
+1 1
+d
+2 4
+de
+7 7
+deddddd
+3 5
+def
+2 7
+de
+3 2
+fdf
+6 3
+ddefef
+1 10
+d
+4 3
+edde
+1 2
+f
+7 7
+fdddfff
+2 4
+ef
+7 5
+ffedfdd
+2 1
+df
+7 8
+efdfddf
+3 7
+ffd
+2 2
+ed
+2 3
+df
+2 3
+fe
+7 10
+edefdef
+5 6
+efdfe
+1 6
+d
+1 9
+d
+5 10
+ededf
+3 9
+ffd
+3 6
+fee
+3 9
+ded
+5 3
+eddff
+4 5
+efdf
+4 9
+fdff
+1 4
+d
+3 4
+dee
+3 7
+efe
+4 9
+edfd
+4 10
+dfee
+7 8
+ffedffd
+4 4
+fefd
+5 7
+dedfe
+6 3
+ffeffe
+4 9
+dffe
+5 1
+dedfd
+3 9
+fed
+2 8
+ef
+2 2
+ef
+6 10
+fefedf
+1 6
+f
+7 7
+eeeeefe
+1 10
+f
+3 2
+fed
+7 8
+edefdfd
+7 7
+eeddedf
+7 5
+dfdfded
+3 1
+ddd
+5 5
+feede
+5 4
+efefd
+7 2
+dddfffd
+5 6
+feeee
+6 2
+effefd
+5 7
+eeefd
+5 6
+dffdf
+3 5
+ddf
+7 5
+fdfefef
+5 5
+edfee
+7 10
+edfddfe
+2 9
+ed
+3 10
+dfd
+3 2
+fee
+6 1
+deeede
+6 9
+ffdffe
+6 6
+eeddff
+2 9
+ef
+3 4
+dde
+3 3
+ddf
+3 2
+ddf
+6 3
+ffeded
+6 3
+eeffde
+3 9
+ddf
+3 9
+dfd
+1 7
+f
+2 3
+ee
+3 10
+edf
+2 4
+ff
+6 7
+edfedf
+4 5
+eddf
+6 7
+feedff
+5 10
+fedff
+6 6
+dddfde
+1 8
+f
+3 4
+fff
+5 9
+ddfff
+1 1
+f
+5 6
+eefdf
+7 6
+efeedfd
+7 7
+eeeddee
+5 3
+efdff
+7 5
+efedffe
+3 7
+efd
+3 7
+ede
+2 6
+ed
+3 7
+efe
+2 8
+ff
+7 3
+edeeddd
+3 4
+fdf
+3 8
+ede
+5 4
+dfefd
+5 7
+effee
+7 3
+ddffedd
+5 10
+ddedd
+1 1
+e
+2 4
+fd
+7 9
+fdfddee
+7 8
+fedddef
+5 1
+effed
+4 8
+fede
+5 7
+dffef
+2 2
+de
+4 2
+edee
+4 4
+eddf
+6 9
+dddfee
+3 4
+efd
+5 6
+efefd
+6 7
+fddefd
+3 3
+ded
+1 3
+e
+4 9
+effd
+1 5
+f
+1 5
+e
+2 6
+ff
+6 9
+feefdf
+2 6
+dd
+6 6
+edfdfd
+3 9
+ddd
+4 8
+edef
+4 7
+dedf
+1 5
+e
+4 3
+defe
+1 8
+d
+5 9
+fdedf
+2 3
+fe
+1 10
+f
+4 4
+deed
+4 6
+deee
+4 5
+ffef
+2 7
+dd
+3 3
+fde
+4 3
+eeee
+4 2
+fefe
+1 6
+d
+1 2
+f
+4 4
+deef
+2 10
+dd
+4 7
+fdff
+6 6
+ddeefe
+7 4
+deefefd
+6 6
+dfffde
+1 6
+e
+1 4
+d
+5 8
+ffeee
+1 10
+e
+4 4
+eede
+7 10
+fdffefd
+2 5
+fd
+4 2
+eddf
+5 4
+eefff
+1 2
+d
+7 7
+deffeee
+7 9
+ffffedf
+2 5
+df
+3 4
+fee
+1 8
+f
+1 6
+f
+3 8
+fde
+4 7
+dddd
+6 4
+ffffdf
+5 4
+effff
+2 10
+df
+2 2
+dd
+2 4
+ef
+3 5
+fdd
+3 4
+fee
+1 9
+d
+3 5
+edf
+6 8
+dffdef
+3 1
+edd
+7 4
+ddfeefd
+3 9
+eef
+7 9
+ddedfed
+7 6
+ddeedee
+5 10
+efefd
+2 7
+ff
+1 8
+f
+3 1
+fde
+6 9
+edeeff
+4 1
+eeff
+4 10
+ddde
+6 9
+fddefe
+5 10
+ffffe
+2 5
+ef
+2 3
+de
+6 9
+dddeed
+1 8
+d
+4 9
+ddef
+2 1
+dd
+7 9
+eedeeee
+5 1
+dddde
+6 2
+eddfed
+1 10
+e
+3 4
+ddf
+7 6
+efeedfe
+5 9
+eedde
+6 6
+efddee
+5 8
+feffd
+2 6
+ed
+6 7
+eedfef
+3 9
+def
+6 3
+fdfded
+5 9
+ddfde
+1 5
+e
+1 5
+e
+1 5
+f
+7 5
+ddffffe
+4 9
+eede
+4 7
+fdfe
+6 9
+fdddfd
+6 1
+dffedd
+3 10
+ede
+3 8
+ffe
+1 9
+d
+2 6
+ff
+7 3
+edddfff
+5 6
+fdeff
+6 6
+ddfefe
+3 5
+fff
+7 8
+ddeeeff
+5 4
+eefee
+6 6
+deedee
+3 3
+eef
+4 3
+dfde
+6 6
+ddedff
+4 1
+eefd
+2 10
+fe
+6 2
+ddfddd
+7 1
+fddefdd
+4 10
+ddff
+4 7
+eeed
+7 1
+fdfefdd
+6 6
+efffed
+1 2
+e
+4 6
+fdef
+2 10
+ee
+1 5
+e
+6 6
+ffefed
+7 9
+dedeeef
+5 5
+effef
+1 1
+e
+6 1
+fdddde
+7 9
+fdffffd
+3 9
+fef
+6 6
+efefef
+1 3
+d
+6 4
+eddedd
+7 3
+defffef
+7 4
+ddfeefd
+5 7
+eddde
+5 5
+dedfd
+1 10
+e
+6 7
+ededef
+5 2
+dfdfd
+5 6
+effde
+5 3
+feede
+5 3
+dedff
+6 2
+edefff
+2 3
+ef
+7 8
+dfeeede
+6 8
+fefdfe
+6 9
+ffeddd
+1 9
+f
+6 1
+edfffe
+7 8
+ddefeff
+3 7
+dde
+2 2
+df
+1 4
+e
+7 1
+fdfefdf
+4 6
+edff
+5 8
+ddeef
+7 8
+fedeedf
+7 5
+ddffedd
+7 10
+ffffded
+5 8
+eddef
+3 5
+dfe
+1 5
+d
+2 4
+ff
+4 5
+deed
+1 6
+e
+7 7
+ffeeeed
+5 9
+feffd
+4 6
+dfed
+5 3
+efdde
+5 10
+ffefd
+2 4
+fe
+7 10
+dddfefd
+3 6
+fdf
+7 8
+efddded
+4 2
+fdfd
+3 8
+efe
+7 1
+dddfefd
+1 8
+d
+4 5
+edef
+2 3
+ed
+6 5
+fddefe
+2 3
+ee
+4 2
+efed
+3 3
+edd
+6 3
+eedeee
+1 1
+e
+3 2
+fde
+7 8
+edeeeff
+5 4
+edede
+6 4
+efddfe
+5 5
+dddde
+6 2
+dfdfff
+4 6
+deed
+4 8
+eede
+5 6
+dddfe
+1 9
+d
+4 3
+fefe
+4 2
+eeef
+7 2
+ddeeedf
+2 5
+ef
+4 3
+deff
+1 1
+e
+4 2
+edff
+7 5
+eefefde
+4 4
+fdfd
+7 2
+eefffdd
+5 7
+dffff
+3 6
+efd
+5 3
+fdeef
+3 4
+ddd
+6 10
+dedfee
+5 2
+ffdef
+4 1
+eefe
+2 3
+ee
+3 8
+fff
+1 7
+f
+4 6
+dffd
+5 9
+efdff
+1 3
+e
+6 9
+ddffff
+3 5
+fde
+6 3
+fedefe
+7 4
+ffeefed
+6 6
+eddfed
+3 4
+fdf
+1 1
+d
+3 3
+efe
+4 3
+dfff
+3 4
+edf
+3 3
+edd
+4 7
+defd
+4 4
+edfe
+5 7
+ffeed
+6 3
+efffde
+2 8
+ff
+1 5
+f
+5 10
+edeff
+3 4
+fff
+3 8
+eef
+1 5
+d
+7 7
+edeedde
+4 1
+dfee
+6 1
+ddfefe
+3 2
+eef
+7 1
+ddeffde
+7 5
+eefeeff
+5 3
+efedf
+1 1
+e
+4 2
+ddde
+3 10
+ffd
+2 6
+ed
+4 6
+defd
+4 9
+eeff
+2 1
+fe
+4 1
+eede
+5 3
+dffff
+3 4
+ddd
+6 9
+fffdfd
+6 8
+dfeede
+2 9
+ef
+2 7
+ff
+2 10
+fd
+4 7
+fffd
+1 3
+e
+5 2
+efefd
+4 1
+edee
+6 7
+deeede
+1 6
+d
+7 10
+eddefdd
+2 4
+ed
+3 5
+eff
+3 9
+ede
+7 6
+fefeefd
+6 3
+ddfeef
+3 3
+fdf
+4 7
+ddef
+5 4
+eeefd
+2 5
+fd
+1 7
+e
+5 10
+feffe
+2 2
+fe
+2 4
+ef
+3 10
+fee
+2 9
+ed
+2 9
+df
+7 7
+eeeddde
+2 9
+ed
+1 2
+f
+3 1
+efd
+2 9
+df
+1 6
+f
+1 2
+d
+2 9
+fd
+3 3
+eef
+6 2
+efdded
+3 5
+ded
+7 9
+eedffef
+1 2
+f
+5 10
+fefdd
+2 6
+df
+5 5
+dedef
+7 3
+dddfede
+4 2
+efdf
+4 6
+dfdf
+7 6
+deffefe
+5 3
+eeeff
+6 2
+ddefdf
+3 3
+edf
+6 4
+deefdd
+1 9
+e
+2 3
+ed
+4 2
+eede
+4 6
+dfed
+1 10
+d
+5 8
+ddedf
+5 10
+dddee
+6 10
+dffddd
+4 6
+fedf
+3 4
+ded
+7 3
+dfdffff
+7 10
+ffdffed
+1 7
+e
+1 10
+f
+1 8
+d
+3 9
+eef
+4 4
+dfee
+4 5
+edde
+6 1
+dffddf
+6 5
+eeddef
+3 8
+ddf
+7 9
+ddedeee
+5 4
+efeee
+1 6
+f
+3 5
+edf
+4 9
+dfdd
+7 7
+ddefeff
+4 1
+effd
+5 9
+fdeee
+1 9
+f
+6 4
+fffeff
+5 10
+dfded
+3 5
+dde
+4 8
+fefd
+1 7
+f
+7 8
+efefdfe
+1 7
+e
+2 1
+ff
+2 8
+dd
+6 3
+feefdd
+2 1
+ed
+3 8
+dde
+2 5
+ee
+2 1
+df
+7 6
+efeffff
+7 7
+dfeeeef
+7 9
+dedfffd
+4 1
+dede
+3 5
+edd
+1 1
+e
+1 10
+d
+7 7
+effdded
+7 8
+fefefdd
+3 8
+fed
+6 6
+ffefee
+7 2
+dffdffe
+5 4
+edfed
+7 9
+dfefdfe
+5 6
+dfefe
+4 1
+fdfd
+4 5
+fddd
+4 2
+deee
+1 5
+f
+2 4
+df
+6 2
+eeffde
+7 5
+fdedded
+7 9
+fedeefe
+5 9
+dfdff
+2 3
+fd
+4 2
+fdfd
+4 8
+edef
+1 9
+d
+3 10
+efd
+6 9
+feeffe
+7 9
+efffedf
+7 6
+fefefef
+5 9
+edeff
+2 7
+dd
+3 9
+dfd
+7 7
+dfddfed
+6 9
+fffffe
+2 2
+de
+4 6
+fdfe
+6 9
+efdfdf
+2 10
+ef
+3 8
+ded
+7 10
+dfefdee
+4 6
+eeef
+1 2
+e
+7 7
+dedefed
+2 1
+fd
+6 4
+ffdedf
+2 5
+ff
+1 10
+e
+1 6
+e
+5 5
+fefdd
+1 7
+e
+6 9
+eeeefd
+2 10
+fd
+1 1
+f
+1 10
+e
+7 4
+eeddfee
+5 5
+fdfdd
+5 2
+efefe
+7 1
+efffdfd
+1 8
+e
+5 5
+ddeff
+1 4
+e
+3 1
+dfe
+7 8
+fdeddef
+6 7
+fffeed
+3 5
+fdf
+4 8
+feee
+6 4
+eeedde
+5 9
+effef
+1 8
+e
+5 1
+ddfef
+5 9
+ddeee
+6 5
+fddfdd
+3 10
+fdd
+4 7
+dffd
+2 10
+fd
+7 1
+edfddfd
+7 3
+efdefde
+2 2
+ff
+2 10
+dd
+1 2
+d
+2 5
+fd
+2 9
+fd
+7 7
+efdefee
+3 5
+ffd
+3 10
+eff
+7 1
+fdddfef
+7 10
+edfdfee
+4 1
+ffed
+5 10
+fefff
+4 8
+ddfd
+2 10
+ed
+7 10
+deffefe
+3 2
+eee
+4 6
+fffe
+3 6
+ddf
+1 6
+f
+6 8
+dfeefd
+4 6
+fede
+4 9
+dedd
+7 2
+dfefdef
+7 2
+fdeddfe
+7 1
+feeedee
+3 2
+efd
+6 4
+fdffde
+4 9
+ffdd
+2 7
+ed
+6 10
+dfeeee
+7 2
+eddfdff
+3 6
+dfe
+5 5
+deeee
+7 9
+eddefee
+6 7
+eeeefe
+5 9
+ffdfd
+5 8
+edefd
+5 1
+edfef
+2 9
+ff
+3 6
+ede
+3 7
+ffe
+7 2
+dfefeee
+4 7
+edfe
+4 9
+fdff
+5 4
+fdfff
+4 5
+eddd
+4 6
+ffee
+1 8
+e
+4 3
+eeed
+1 3
+d
+1 4
+f
+3 5
+ded
+4 6
+ffef
+1 9
+e
+6 3
+fddfee
+3 8
+fed
+2 9
+ff
+2 8
+ff
+4 1
+dede
+5 7
+defdf
+5 3
+dfede
+1 5
+e
+2 9
+df
+1 6
+f
+6 5
+eeedef
+2 2
+de
+2 1
+fe
+3 9
+edd
+3 7
+fff
+3 4
+dfd
+3 8
+efe
+6 9
+fefdde
+7 8
+fffdfff
+6 3
+efeedd
+1 8
+d
+3 1
+ede
+1 10
+f
+4 2
+fffe
+7 4
+feedddf
+4 9
+effd
+2 10
+dd
+7 1
+efddddf
+5 4
+effee
+2 4
+de
+3 10
+ffe
+5 10
+eddde
+4 10
+eeff
+7 1
+ddeddfd
+3 9
+dfd
+7 10
+ffdefde
+7 3
+feefefe
+3 9
+fed
+7 1
+dedffde
+3 4
+dff
+7 4
+dffdffe
+1 3
+f
+3 5
+dee
+5 9
+ffeef
+7 5
+edddeed
+6 2
+dedddf
+5 3
+deefe
+2 6
+dd
+4 1
+efff
+5 8
+eddde
+3 9
+fff
+2 5
+ef
+1 5
+e
+5 4
+ddfef
+3 6
+dde
+4 6
+ffdd
+7 8
+dedeeef
+2 9
+fd
+4 7
+ffdd
+4 4
+efed
+5 9
+effed
+5 9
+defdf
+3 4
+fee
+7 6
+ededffd
+2 4
+ef
+7 6
+fedddde
+7 5
+eefeefd
+5 7
+ddfff
+5 2
+ddddf
+5 7
+ddeef
+7 3
+fdffdff
+4 4
+efdd
+7 2
+fdddffe
+1 6
+d
+2 6
+df
+1 6
+d
+5 5
+eeede
+4 2
+fddf
+6 3
+ddffee
+1 9
+e
+1 9
+f
+1 4
+d
+6 3
+dedfde
+3 7
+ede
+6 1
+efeedf
+5 6
+ddddf
+4 2
+dfde
+1 2
+e
+6 3
+ffdfed
+6 7
+dddddf
+4 8
+ddfe
+5 2
+dffee
+7 9
+dfdddff
+1 9
+e
+5 3
+dfefd
+6 5
+dfefef
+3 5
+ffe
+6 5
+fddffd
+2 4
+ef
+3 2
+eef
+2 6
+fe
+6 1
+defeff
+1 9
+f
+4 8
+fefe
+5 5
+fdefd
+7 8
+ddeddfe
+3 8
+eff
+2 10
+ff
+7 3
+effddde
+5 3
+deefd
+3 9
+fee
+7 9
+dfeedee
+1 3
+e
+4 1
+fdee
+4 2
+eeee
+7 6
+fffdedf
+6 3
+effefd
+5 7
+ddedd
+5 1
+edeee
+4 5
+dddf
+4 3
+deee
+2 5
+fd
+4 3
+defd
+7 5
+ffefeee
+1 10
+d
+7 1
+efefded
+4 10
+dfff
+4 1
+ffde
+3 2
+ffd
+5 1
+fedfe
+3 8
+fdf
+6 2
+fefdfd
+5 1
+fdfff
+5 3
+eeeef
+2 2
+fd
+5 3
+eedfe
+4 3
+fded
+6 3
+eedddf
+7 8
+fdfddee
+2 9
+fe
+1 4
+f
+6 2
+ededfe
+5 5
+eeeff
+2 3
+ee
+3 10
+eff
+5 10
+feddd
+2 5
+fd
+1 4
+e
+5 9
+feedd
+1 9
+d
+6 4
+dfeeff
+2 8
+dd
+2 8
+dd
+2 6
+ed
+6 2
+deddfd
+5 9
+fedde
+5 4
+deedd
+3 7
+fee
+7 1
+fffffde
+2 2
+de
+6 7
+fdffdd
+5 5
+fdded
+6 10
+edffee
+6 3
+dfefdd
+5 6
+dffff
+6 10
+deefdf
+1 6
+d
+6 3
+eedfed
+5 1
+eddfe
+6 7
+fefedd
+4 7
+feff
+1 4
+e
+1 6
+f
+7 2
+fefeffd
+4 7
+effe
+3 3
+fff
+2 10
+ed
+6 7
+ffdffe
+1 5
+e
+6 5
+fefdff
+2 4
+df
+7 3
+fdfffde
+2 5
+de
+7 3
+fffddee
+5 6
+eeded
+1 10
+f
+2 7
+fd
+3 2
+eed
+1 7
+e
+3 4
+dff
+3 1
+dfd
+3 4
+dfd
+7 5
+dfeedef
+5 9
+ddddd
+6 8
+ffdfdf
+1 5
+f
+5 5
+eeeee
+2 9
+fd
+4 8
+efee
+6 1
+fdfddd
+3 6
+dee
+2 10
+de
+2 9
+fd
+2 8
+ed
+1 2
+e
+6 10
+fdeefe
+5 8
+fefde
+7 9
+ffeffed
+2 3
+dd
+1 2
+d
+3 10
+ffd
+3 3
+dfd
+4 3
+eefd
+3 1
+def
+1 7
+d
+3 3
+eed
+7 1
+fddeefd
+7 2
+eeefedf
+3 8
+eed
+1 8
+f
+1 2
+e
+1 4
+d
+6 7
+efffdf
+5 9
+fedfe
+4 2
+feef
+2 7
+fe
+1 10
+f
+1 8
+d
+7 9
+feefedf
+3 5
+fef
+1 7
+d
+2 7
+ed
+4 5
+fdfd
+7 6
+eddfffd
+2 4
+df
+7 5
+deefeee
+7 3
+fdfedfd
+5 3
+eedde
+6 7
+eddfff
+6 3
+eeeede
+5 8
+dffdd
+2 6
+fe
+3 1
+efd
+1 1
+d
+4 9
+fddf
+3 5
+efd
+3 4
+edd
+3 3
+eef
+3 10
+eee
+5 1
+effed
+5 5
+ddfdf
+6 3
+dfeefe
+6 9
+edeffe
+3 2
+fde
+1 4
+f
+5 3
+eedee
+2 9
+de
+6 1
+fefded
+6 2
+ffddfe
+5 2
+dffdf
+1 4
+d
+4 2
+efde
+2 8
+fd
+4 10
+efde
+5 1
+fffed
+2 2
+ee
+3 2
+edd
+4 6
+efde
+6 5
+efdfee
+6 2
+dfdede
+6 4
+deeeee
+1 6
+f
+5 10
+eeded
+4 4
+feee
+6 2
+fefeff
+3 2
+edf
+1 10
+d
+7 1
+dfdffdd
+3 10
+ddf
+5 3
+eddee
+3 5
+fed
+5 9
+defdf
+2 5
+ef
+6 10
+defdee
+4 6
+deff
+7 5
+dfefede
+3 6
+fed
+5 8
+eedee
+7 4
+fdfdfdf
+7 1
+fffddfe
+4 8
+fedf
+7 10
+ffddfff
+6 7
+dededd
+2 4
+de
+1 7
+d
+2 10
+ef
+2 7
+df
+6 3
+effdee
+3 8
+fdd
+6 2
+defddf
+1 3
+d
+5 5
+fefdd
+5 5
+fdefd
+5 10
+fedee
+2 5
+dd
+4 8
+dddd
+5 10
+ddffd
+7 5
+efeffed
+2 1
+df
+7 1
+dfdfddf
+4 5
+dfde
+7 8
+fddeeff
+4 8
+dfee
+3 7
+eef
+1 2
+e
+4 10
+edef
+1 10
+d
+5 1
+edffd
+2 9
+fe
+7 4
+fdefeef
+5 8
+fdfff
+4 7
+ffed
+1 6
+d
+2 10
+dd
+7 6
+eeeedee
+1 2
+f
+1 1
+d
+2 1
+fe
+5 2
+dfefd
+3 8
+fed
+3 5
+fed
+4 6
+ffdf
+1 7
+d
+7 10
+edefeef
+5 10
+efddd
+7 9
+ffeefdd
+7 3
+dffeeed
+4 5
+dedd
+7 5
+eefdffd
+6 1
+edeffe
+5 3
+edefd
+2 5
+dd
+2 1
+ee
+6 10
+eefdfe
+7 8
+dffefee
+7 1
+eefeedf
+4 6
+effe
+7 3
+edfedff
+5 7
+dedff
+5 10
+dfeef
+3 9
+dde
+6 2
+ddffdf
+3 8
+eef
+1 9
+d
+4 2
+ffde
+1 1
+d
+7 5
+eededed
+5 7
+eefee
+2 8
+df
+6 9
+eefdff
+4 2
+ddde
+2 3
+df
+2 9
+ee
+6 4
+fddfdf
+6 4
+fddfef
+4 4
+dddf
+1 4
+e
+4 3
+effe
+2 7
+ee
+3 2
+edf
+5 7
+efdfd
+1 2
+e
+5 1
+effdd
+3 7
+efd
+1 10
+e
+5 9
+dfffd
+1 6
+e
+7 6
+ddffeed
+3 4
+dff
+2 2
+ef
+6 6
+dfdedf
+1 2
+e
+2 4
+df
+3 5
+ede
+6 2
+feddfe
+5 9
+edfef
+5 3
+edede
+7 9
+edfddfd
+1 2
+e
+6 6
+ededee
+2 5
+ed
+6 5
+ddefde
+7 10
+fdeeeff
+6 4
+dffddd
+5 8
+efdfe
+5 10
+dfeee
+7 8
+deedffe
+3 4
+eef
+2 7
+dd
+6 5
+feddfd
+3 2
+dde
+1 3
+e
+7 7
+eeddfee
+4 3
+fefd
+4 10
+defd
+7 7
+ddfddff
+6 9
+feeedd
+4 2
+efee
+3 2
+fee
+3 4
+ddd
+2 10
+ef
+5 3
+deddf
+3 3
+dff
+1 4
+e
+5 10
+eefdd
+6 10
+feedff
+4 3
+edde
+5 4
+eedfe
+2 3
+dd
+2 4
+dd
+5 7
+efefe
+7 1
+ededede
+2 9
+de
+4 3
+deef
+5 5
+ffdfe
+6 8
+ffdffd
+3 7
+eef
+5 8
+edefe
+4 4
+fffe
+3 3
+fdd
+1 7
+d
+5 7
+ddfdf
+4 9
+dfed
+2 8
+ee
+2 7
+ee
+1 4
+f
+6 7
+dfddfe
+2 4
+fe
+1 1
+e
+4 4
+dffe
+4 3
+dfde
+7 4
+dffffed
+7 9
+deeefde
+2 5
+dd
+2 7
+fe
+1 3
+d
+3 7
+fde
+2 2
+df
+5 7
+fdeee
+1 3
+e
+2 2
+fe
+4 3
+ffef
+5 1
+dfded
+1 2
+f
+5 3
+ddeef
+5 5
+eeddd
+5 1
+fddef
+4 9
+edfe
+6 4
+dffffd
+6 10
+effedf
+2 4
+fd
+4 3
+edfe
+5 1
+efdee
+6 10
+eededf
+7 7
+feddefe
+4 7
+defd
+2 7
+fe
+6 4
+fddfdd
+7 3
+edfdefe
+4 5
+fedf
+6 1
+defdff
+1 5
+e
+7 9
+eeeefde
+1 1
+e
+6 5
+eeeddd
+4 6
+dfdd
+3 6
+eff
+2 3
+ef
+7 6
+eddffee
+7 6
+edeefef
+6 3
+fedeef
+5 1
+ddeee
+5 9
+eddee
+7 6
+eeffded
+6 7
+eefdff
+4 6
+edfe
+2 4
+ff
+2 7
+de
+1 10
+e
+1 7
+f
+7 2
+ffedffe
+3 7
+ede
+6 10
+ffeffe
+6 7
+eddeff
+4 9
+eeff
+7 10
+eedddde
+7 2
+eddffdd
+7 8
+defefef
+7 7
+dfdddfd
+6 9
+deefdd
+2 3
+de
+1 5
+e
+5 3
+edeee
+6 3
+defede
+2 5
+fd
+7 1
+ddeeeed
+6 1
+efffdd
+6 5
+dffddf
+7 8
+fdefddd
+2 6
+fd
+4 9
+fdde
+5 5
+eddee
+7 10
+ffddeef
+2 2
+ee
+4 7
+fddf
+7 8
+ffddfdf
+3 6
+fde
+3 5
+dde
+6 4
+ddfddd
+1 4
+f
+6 1
+edfefe
+2 7
+ed
+1 4
+d
+3 1
+dfd
+6 9
+fefefe
+2 10
+ff
+1 6
+e
+2 10
+df
+2 2
+fd
+7 4
+edeffde
+7 1
+fefdfde
+1 5
+e
+3 5
+edd
+2 8
+fe
+4 2
+ddfd
+1 4
+e
+5 2
+dedef
+5 6
+ddefd
+2 1
+de
+3 8
+dfe
+5 2
+deeff
+2 4
+ff
+7 8
+dffedde
+7 3
+efefded
+5 4
+eeffe
+2 10
+de
+6 8
+fddeff
+6 9
+fedede
+3 8
+dde
+4 2
+fede
+1 1
+e
+6 5
+effedd
+5 10
+fdeff
+7 3
+edfdede
+6 8
+fedfed
+3 9
+dfd
+6 2
+dedfee
+2 9
+df
+2 4
+de
+7 6
+fddefef
+5 4
+edeff
+1 3
+e
+1 6
+e
+3 9
+edd
+3 5
+dff
+3 4
+edd
+1 8
+e
+1 1
+f
+4 1
+eedd
+5 5
+deddf
+1 2
+d
+2 7
+de
+2 8
+ed
+4 4
+ffde
+6 3
+fddfee
+6 4
+eddeff
+7 4
+fdddeee
+3 3
+def
+7 3
+dfdeeed
+5 3
+ddedf
+6 5
+edfdfd
+7 4
+dfddddd
+6 3
+ffdefd
+6 8
+ffdffd
+7 2
+eeedfed
+1 4
+d
+3 9
+ddd
+4 8
+dfde
+2 3
+df
+7 10
+eeddeee
+2 3
+fd
+7 2
+efdfeed
+3 1
+fef
+6 10
+eeffff
+2 5
+dd
+7 4
+eeeedfe
+2 4
+df
+5 6
+eddff
+5 3
+fedfe
+4 2
+ffde
+6 8
+fefffd
+3 2
+edf
+6 1
+dffede
+2 5
+ed
+4 9
+effe
+1 4
+e
+4 1
+dffd
+6 2
+effffd
+3 10
+fef
+1 8
+f
+2 6
+ed
+3 5
+ded
+3 1
+ded
+1 1
+f
+2 9
+de
+6 4
+fdfeee
+4 5
+dddf
+7 5
+ddfdfed
+3 6
+eee
+3 9
+eff
+6 4
+ddfded
+5 9
+eddfd
+7 8
+fdddffd
+6 6
+eeeefd
+5 1
+eedff
+2 7
+fe
+6 3
+fdefde
+6 8
+edffef
+2 9
+dd
+6 9
+dffefe
+2 1
+ee
+4 8
+edff
+4 7
+fedd
+1 5
+d
+7 9
+fefdfef
+1 1
+d
+1 4
+e
+7 1
+effddfe
+5 1
+dfdfe
+4 3
+deef
+7 4
+fdeefed
+6 10
+eddfff
+7 8
+ddeefdf
+1 2
+f
+6 1
+deedef
+4 6
+ddde
+2 5
+ff
+5 1
+ffffe
+2 6
+dd
+1 5
+d
+6 7
+ffeded
+2 3
+fe
+3 6
+edf
+1 6
+f
+2 6
+df
+2 2
+ee
+1 2
+f
+6 8
+deefff
+1 4
+d
+2 5
+ef
+1 5
+d
+3 4
+fdf
+3 7
+fde
+6 9
+eedfef
+5 8
+eeedf
+5 2
+fdeed
+5 4
+eeefd
+3 2
+ede
+1 9
+f
+5 3
+fffff
+4 10
+effd
+3 8
+eed
+1 8
+f
+1 6
+e
+5 8
+efdfe
+1 2
+d
+2 7
+df
+5 2
+edffd
+4 6
+fefe
+7 5
+fddeeee
+1 3
+d
+2 9
+de
+2 8
+fe
+5 9
+dfdee
+4 5
+dedf
+2 10
+de
+3 2
+fee
+7 3
+eefffdd
+5 8
+ddfff
+3 1
+eef
+1 8
+d
+1 6
+e
+7 5
+efffeef
+3 4
+fff
+1 1
+e
+1 10
+f
+6 3
+efffff
+2 10
+fd
+1 6
+e
+5 6
+eeedf
+5 7
+fedff
+3 8
+fff
+3 7
+ddf
+1 3
+e
+3 5
+fde
+3 4
+edd
+1 2
+e
+5 7
+edfed
+4 9
+eeef
+1 1
+e
+7 2
+eedffef
+2 3
+ee
+5 8
+efdef
+5 6
+fedfd
+6 2
+fefffd
+1 5
+e
+1 1
+f
+5 5
+edfff
+3 1
+fff
+3 3
+def
+3 10
+fee
+6 7
+fedfef
+1 8
+d
+2 6
+ff
+7 8
+eefffff
+2 9
+de
+6 5
+dfedfe
+4 7
+defe
+3 6
+ede
+3 8
+dfd
+4 9
+fdde
+1 10
+d
+7 10
+efedeef
+2 3
+fd
+7 7
+fdeffef
+3 6
+ded
+5 9
+fdefe
+6 9
+fedfee
+4 7
+efef
+1 2
+d
+3 8
+fdf
+6 6
+efdfdd
+4 10
+dddd
+6 2
+ddedfd
+6 5
+ddfddd
+6 10
+fefdff
+2 2
+ef
+6 10
+efdddd
+7 7
+deeddee
+5 6
+feefd
+3 8
+edf
+3 4
+eef
+2 5
+ee
+5 7
+ddeef
+4 3
+feed
+6 9
+efffde
+7 3
+ddeefde
+6 4
+dfdedd
+5 7
+eeefe
+7 1
+fffedfd
+4 1
+efff
+2 3
+ff
+1 8
+f
+7 7
+fededee
+6 1
+fffdff
+5 6
+feeff
+6 4
+ffeefd
+3 9
+fff
+1 5
+f
+2 7
+de
+7 10
+defedfd
+1 5
+e
+6 1
+efffff
+1 6
+d
+2 7
+de
+5 9
+fffee
+3 4
+fdd
+7 6
+eeedefe
+5 9
+deeff
+6 2
+ddfedd
+2 5
+ef
+1 2
+f
+4 9
+edfd
+2 9
+df
+5 3
+dfeff
+2 6
+fe
+2 2
+de
+7 9
+eededff
+2 8
+ef
+5 4
+efddf
+6 4
+deeede
+7 10
+eeedede
+6 4
+eeedff
+4 6
+eefd
+3 10
+edd
+6 10
+eedeed
+6 7
+defeff
+1 6
+e
+7 8
+efefdee
+2 5
+ff
+5 10
+dffff
+2 4
+fe
+1 6
+e
+1 8
+e
+5 5
+efdff
+3 9
+dde
+4 3
+edfd
+4 7
+ffed
+6 8
+ffeeff
+4 6
+edde
+3 4
+efd
+1 5
+d
+5 7
+ffdff
+1 2
+f
+5 4
+fedde
+2 7
+ff
+4 7
+feff
+1 2
+f
+4 7
+fefe
+5 6
+ddfff
+3 1
+dfd
+1 2
+e
+4 6
+fefd
+5 7
+ddfee
+6 2
+fddefe
+3 4
+ddf
+6 10
+dfddef
+3 4
+ede
+7 2
+edfdfee
+4 8
+dfee
+1 7
+d
+3 1
+def
+4 6
+ddee
+3 10
+ddd
+1 10
+e
+1 7
+e
+3 5
+efe
+3 5
+ede
+4 6
+edfd
+7 10
+efffffd
+5 10
+ddffd
+5 4
+dedef
+1 4
+f
+3 1
+eee
+4 1
+dfdf
+7 1
+eededed
+3 6
+ddf
+5 4
+efdde
+6 8
+eedddf
+1 6
+e
+3 3
+efd
+3 8
+fef
+5 3
+ddfed
+2 5
+ef
+2 4
+fd
+2 3
+ef
+7 6
+ddffedf
+1 8
+f
+5 7
+dfdff
+5 7
+dfded
+2 7
+ff
+4 8
+ddfd
+2 5
+ee
+2 1
+ee
+1 9
+d
+2 1
+ef
+3 4
+dff
+3 1
+dee
+3 10
+eff
+5 10
+feeed
+1 4
+e
+7 1
+edddfef
+6 5
+edddee
+3 7
+ddd
+2 2
+ee
+6 1
+eeeeed
+6 2
+dfddfe
+6 8
+efdffd
+3 2
+ded
+6 10
+ddffee
+2 7
+ff
+4 10
+fffe
+5 2
+fffff
+7 1
+deddeef
+2 6
+df
+7 9
+fddfdff
+2 4
+fe
+3 9
+ffd
+2 3
+de
+6 7
+ddddef
+2 3
+ed
+6 3
+ffefed
+6 9
+edfeef
+7 10
+dededff
+3 4
+eed
+2 2
+de
+7 7
+ddfefff
+5 4
+edede
+7 1
+dfdfeff
+7 8
+dedfedd
+7 7
+ddddedf
+3 3
+fff
+5 3
+dfeee
+1 2
+f
+7 4
+fddffef
+7 9
+ddedded
+4 9
+fdef
+7 5
+edddedf
+5 1
+dfeee
+5 6
+ddfdd
+7 7
+fefffde
+7 2
+edeffee
+2 9
+de
+6 4
+fefede
+1 8
+f
+3 4
+fed
+3 9
+ddd
+3 4
+edf
+2 6
+fe
+5 5
+fdddd
+1 5
+d
+7 1
+dfdedfe
+1 9
+e
+7 2
+efdfffd
+5 6
+dddde
+7 9
+ddddfed
+3 8
+fdf
+5 7
+eeddf
+4 2
+edfd
+1 8
+d
+7 9
+fffdefe
+4 8
+ddef
+1 5
+f
+2 7
+ef
+1 9
+d
+4 1
+efed
+6 10
+deffff
+4 6
+deee
+2 8
+ef
+6 8
+feeefd
+6 4
+dfddfe
+2 5
+df
+2 5
+df
+1 10
+f
+3 10
+dee
+4 8
+edfd
+3 2
+dde
+5 10
+ddfff
+4 10
+fdef
+6 5
+eddfff
+2 8
+ef
+7 3
+efedfed
+2 10
+fe
+5 2
+ddedd
+4 6
+fefe
+1 2
+d
+6 3
+eeffdf
+3 7
+fdd
+7 4
+fdfefef
+7 4
+dfeeefe
+5 9
+feede
+5 8
+eeeef
+1 10
+e
+1 3
+d
+5 4
+eeeef
+7 3
+fefdeee
+5 5
+efdff
+7 10
+deeeddd
+7 1
+dfffded
+5 10
+fdedf
+6 10
+fffefe
+3 4
+ffe
+4 10
+dfdd
+1 5
+e
+7 4
+eddeeff
+3 6
+fff
+7 9
+dfdeffe
+5 9
+dfedf
+7 1
+fedefff
+2 9
+df
+3 1
+ffd
+7 6
+eedeefd
+4 4
+ddfe
+2 3
+ef
+7 4
+eedeefd
+4 4
+eeff
+4 2
+dfef
+6 4
+dededd
+1 5
+e
+5 7
+ffdef
+3 3
+ede
+5 10
+eddfe
+2 3
+ff
+2 1
+de
+1 5
+f
+1 10
+d
+7 2
+ffddede
+4 2
+eddf
+4 9
+effd
+5 2
+edfde
+6 2
+eefedf
+4 1
+fdfe
+1 3
+d
+4 4
+efdf
+2 5
+df
+7 6
+efdeedd
+7 3
+eeeefdf
+7 5
+feeefee
+5 9
+feefd
+3 9
+dff
+4 6
+fedf
+5 2
+efdee
+2 7
+fd
+4 1
+ddff
+4 3
+fdfe
+6 10
+dffdef
+6 9
+fddefe
+1 8
+d
+4 2
+edfe
+3 2
+ddf
+5 10
+dfdfe
+5 5
+dfdfd
+6 4
+dfedff
+4 10
+dedf
+6 9
+dfeeee
+5 7
+fffef
+6 6
+deeefe
+6 5
+feedff
+6 3
+eedefd
+6 3
+edfede
+4 1
+efff
+6 1
+dffddd
+4 6
+feed
+2 5
+df
+2 6
+ff
+4 10
+fdde
+7 2
+fededfd
+4 9
+dfed
+7 4
+dfefffe
+2 10
+fd
+5 6
+dfeed
+3 8
+dde
+7 5
+deeedfd
+1 5
+d
+3 5
+eff
+7 6
+fefeeed
+3 1
+efd
+3 6
+fee
+6 9
+eeeddd
+4 10
+eeef
+5 8
+feffe
+7 10
+dddddfd
+4 10
+defd
+3 3
+efd
+2 7
+de
+1 7
+f
+5 1
+eeffe
+5 5
+edfef
+4 2
+deed
+7 9
+fffdefe
+2 6
+fe
+7 7
+eeffefd
+3 3
+eef
+6 2
+effdfe
+2 1
+fe
+5 6
+dfddd
+6 3
+feddef
+7 10
+dddefff
+1 5
+d
+6 6
+fedeff
+1 9
+e
+6 6
+ededdd
+2 6
+de
+2 6
+ef
+2 4
+fe
+4 7
+eedd
+1 6
+e
+2 3
+ef
+3 5
+fff
+3 7
+fdf
+3 3
+edf
+1 9
+e
+2 8
+de
+4 9
+dedf
+7 2
+fdeddef
+6 8
+efdfff
+5 8
+fdedd
+1 6
+e
+1 2
+e
+3 2
+ffd
+3 5
+fef
+4 7
+efef
+5 2
+eeefd
+3 8
+ede
+2 9
+ee
+1 10
+e
+5 6
+dffed
+3 7
+fed
+6 10
+fffddf
+2 7
+df
+6 1
+fefdef
+2 3
+fe
+1 10
+e
+5 5
+ffeee
+4 10
+fdff
+1 3
+d
+1 4
+d
+2 7
+de
+5 3
+dfedf
+5 8
+dfedd
+3 8
+eff
+3 8
+ffd
+2 1
+fd
+7 7
+ffefffd
+1 4
+f
+3 2
+efe
+5 8
+fdfee
+7 9
+fdefdff
+6 4
+fedede
+2 2
+ff
+2 2
+ff
+7 3
+fdfddff
+1 2
+f
+3 9
+ffe
+2 8
+df
+4 7
+dfde
+5 5
+fdded
+2 8
+ed
+1 8
+d
+3 6
+dee
+5 10
+deffd
+6 10
+dedded
+7 4
+fddddfd
+4 2
+ffde
+5 10
+efdee
+6 1
+edfdfd
+6 9
+eedfdd
+5 9
+eeede
+1 5
+e
+6 3
+feffef
+6 9
+efdefd
+1 7
+d
+7 4
+eddedde
+4 1
+ddde
+6 9
+edfdef
+4 5
+edde
+5 6
+dffdd
+7 10
+eddefff
+6 1
+defeff
+4 6
+feee
+2 10
+ef
+6 4
+fddede
+4 10
+eede
+7 1
+edfefde
+7 8
+effffff
+7 8
+fdddefd
+6 3
+fdeefd
+5 7
+feedf
+4 6
+feed
+2 5
+ed
+4 5
+deef
+2 7
+fd
+3 9
+ffe
+4 8
+dffd
+4 9
+eeef
+5 2
+deeff
+2 10
+de
+7 3
+fefdffd
+1 9
+f
+7 9
+eefddef
+3 9
+ffd
+4 3
+ffed
+7 8
+fedfded
+6 2
+efeffd
+3 7
+fef
+2 1
+ef
+3 10
+edd
+5 5
+eedee
+1 5
+d
+3 6
+ddd
+6 6
+dedddf
+3 9
+eed
+6 8
+eeddee
+6 10
+deeddd
+5 9
+ededd
+3 8
+fdf
+4 6
+fddd
+3 8
+def
+7 6
+eddedfd
+6 8
+deddee
+3 6
+edf
+5 10
+ddfed
+6 5
+fffdfd
+5 4
+edefd
+2 3
+ed
+4 9
+efef
+1 1
+d
+6 8
+feefde
+2 7
+fd
+5 8
+feddf
+3 7
+eef
+5 6
+ffeed
+5 1
+fedde
+3 8
+fed
+6 3
+ddfdde
+6 9
+eeedfd
+2 6
+de
+4 6
+dfdf
+1 3
+e
+4 4
+fedf
+7 7
+fefdfff
+6 5
+feeffd
+1 5
+d
+4 2
+ddef
+4 3
+ddfd
+1 5
+e
+3 8
+eff
+6 3
+dfefde
+5 8
+dffee
+4 4
+fdff
+5 3
+deeff
+4 2
+feff
+4 3
+dede
+3 5
+ddd
+6 9
+ffdeee
+3 10
+edd
+4 9
+efef
+6 3
+ffeeed
+4 10
+effd
+7 10
+eeeeede
+2 9
+df
+3 4
+dfe
+3 8
+fde
+5 8
+fedff
+6 7
+efefde
+7 7
+fffefef
+7 5
+fdddfde
+6 4
+dedeee
+7 2
+edeefff
+5 4
+deffd
+1 10
+e
+2 8
+df
+3 2
+fee
+7 5
+ededfde
+2 1
+df
+7 8
+feffdde
+3 6
+fdd
+2 2
+fd
+3 8
+eed
+3 1
+fed
+7 7
+dddefed
+5 8
+feeee
+7 9
+feedfef
+5 2
+eeded
+1 2
+d
+2 2
+df
+1 4
+f
+7 4
+eeeedde
+5 3
+efded
+6 6
+eedefe
+4 3
+efef
+1 4
+e
+6 8
+effedd
+7 4
+fdfdedf
+7 4
+ffdffed
+3 2
+ffe
+4 2
+fdef
+3 2
+def
+4 5
+dedf
+2 2
+ff
+1 3
+e
+7 1
+fdefffe
+7 9
+edeefee
+5 7
+dffdf
+5 6
+dedee
+4 8
+fdde
+2 9
+fe
+6 6
+fddeff
+6 9
+fdedff
+4 1
+eede
+2 6
+ee
+6 10
+fdefdf
+4 3
+efdd
+7 6
+eeffdff
+3 7
+ffd
+6 3
+ffeddf
+6 1
+ddfede
+6 2
+ddfeef
+1 10
+e
+6 10
+feeefd
+7 6
+efddefd
+1 2
+d
+7 8
+eeeffed
+7 9
+fdeedfd
+6 6
+feefee
+7 2
+dedddfe
+7 8
+eefeeef
+2 3
+ee
+5 9
+efeff
+2 1
+fd
+4 7
+dfee
+6 4
+deedef
+2 1
+df
+3 1
+dee
+4 10
+dfff
+7 5
+fdeddff
+1 7
+e
+7 3
+defeedf
+3 3
+fff
+2 5
+de
+4 5
+efee
+7 8
+deeddff
+4 9
+ddfe
+5 1
+fdedd
+3 8
+efe
+5 4
+deeed
+6 1
+dedded
+6 9
+fdffde
+5 2
+ffedf
+3 6
+edd
+5 7
+efeff
+7 7
+eefeeef
+7 3
+efdffef
+4 3
+eeed
+5 10
+edeee
+6 1
+fdddff
+5 6
+effed
+2 7
+ed
+7 7
+fddeffe
+2 6
+ef
+3 4
+fde
+3 2
+eff
+5 8
+ddfdd
+1 7
+f
+6 8
+eeeeee
+2 1
+dd
+3 2
+edf
+6 3
+eddddd
+1 5
+d
+2 6
+ee
+7 10
+fdfffff
+5 5
+ddded
+1 6
+e
+6 7
+fefdfe
+6 6
+fefddd
+7 8
+ffeeffe
+7 2
+ddedddd
+2 6
+de
+2 8
+ff
+5 4
+dfffd
+1 10
+d
+2 6
+ee
+1 3
+d
+3 9
+fde
+1 2
+d
+3 7
+ded
+5 9
+dffde
+3 10
+ffd
+1 9
+d
+7 10
+dfddfef
+4 10
+eefd
+4 6
+ddfe
+3 1
+eed
+1 2
+f
+2 10
+ff
+2 1
+ef
+2 4
+ff
+4 3
+fdef
+5 9
+dfeef
+7 3
+fefedfd
+3 9
+ddf
+3 7
+dde
+4 8
+fddf
+2 7
+df
+6 5
+dedfdf
+1 4
+e
+3 10
+dff
+7 4
+fdffddf
+4 10
+eedf
+2 6
+df
+6 9
+deddde
+3 3
+ded
+7 2
+fdffdff
+5 10
+eedfd
+1 6
+f
+7 5
+edefddd
+6 6
+ffffdf
+1 10
+e
+5 10
+defff
+1 1
+f
+2 10
+ef
+4 9
+eded
+2 6
+dd
+7 2
+dfdeeed
+3 8
+ded
+3 1
+fed
+1 2
+f
+3 8
+eef
+4 4
+eeed
+7 7
+dddffdf
+5 10
+efddd
+7 1
+fdefeef
+4 9
+eeee
+2 7
+de
+1 1
+f
+3 4
+efd
+1 10
+e
+1 8
+f
+4 4
+efdd
+1 3
+e
+6 1
+efedde
+1 4
+f
+4 8
+fdee
+5 5
+dfeed
+7 7
+defddfd
+5 6
+fedfd
+3 2
+ddf
+3 9
+edf
+3 4
+ddf
+2 7
+df
+5 4
+fefde
+1 7
+e
+4 8
+eeee
+3 4
+ffd
+7 3
+feeeeef
+4 5
+dfdf
+2 1
+ed
+1 4
+d
+5 7
+efeff
+2 3
+ee
+1 5
+e
+6 8
+deddef
+5 5
+edeee
+4 10
+ddfd
+6 2
+eeedef
+5 10
+dddff
+7 10
+eeeffdf
+5 8
+eeeef
+3 9
+dfd
+1 6
+e
+3 5
+dde
+1 6
+f
+7 4
+fefedef
+7 2
+deeefdd
+5 2
+eedde
+1 4
+d
+7 7
+edeffee
+3 4
+fee
+3 5
+eed
+4 7
+eeee
+4 4
+dfde
+4 3
+eedd
+6 5
+fefeff
+6 5
+dedfff
+7 7
+feedddf
+2 4
+de
+6 4
+fefffd
+1 4
+d
+1 10
+d
+1 4
+e
+7 7
+feffdef
+3 9
+eef
+6 4
+feefff
+5 10
+defdf
+7 2
+efdffef
+3 4
+eed
+2 2
+ee
+3 1
+efd
+7 5
+fffefff
+5 4
+fdffe
+3 7
+def
+6 6
+deedfe
+1 1
+e
+1 2
+e
+6 1
+effdfd
+2 10
+ff
+6 9
+edfeff
+6 1
+edfdff
+6 10
+effddd
+7 9
+dfefedd
+3 9
+ddf
+5 9
+feeed
+6 3
+fddfdd
+4 8
+efde
+6 3
+dddfef
+5 7
+efddd
+2 2
+dd
+7 2
+ddeefdd
+1 7
+e
+3 9
+fdf
+7 4
+feddded
+4 9
+ddee
+7 9
+edfeefe
+4 9
+fdfd
+2 2
+de
+1 3
+d
+3 10
+fee
+4 2
+feee
+4 8
+dffd
+3 6
+ddd
+5 10
+fedfd
+5 5
+fddde
+4 8
+eddd
+6 1
+edfdff
+5 6
+ffdde
+6 7
+eeddef
+4 10
+ddfd
+4 5
+ddff
+6 1
+eeedfe
+5 2
+ffeee
+3 8
+def
+4 10
+feee
+6 1
+eeeefe
+2 7
+de
+6 9
+ddedde
+4 2
+ddfd
+1 2
+d
+3 1
+efe
+5 4
+eeddd
+4 4
+ffde
+1 7
+e
+7 3
+edfeeff
+1 5
+e
+7 9
+feedfef
+6 4
+dfedff
+3 3
+edf
+7 7
+fddeeff
+6 10
+ffffed
+5 4
+fedff
+3 4
+ded
+1 8
+f
+2 3
+ed
+3 5
+ddf
+1 2
+d
+7 9
+fddfdde
+1 10
+d
+2 5
+ef
+4 7
+ffdd
+2 10
+ef
+2 6
+fd
+5 7
+eeedd
+2 2
+ff
+3 4
+efe
+4 2
+eeef
+1 10
+e
+2 8
+de
+2 9
+fd
+7 7
+fffdfff
+4 8
+fffe
+7 6
+ddefeed
+3 2
+dff
+4 7
+deee
+7 7
+feddddd
+1 1
+f
+1 8
+f
+6 7
+feffff
+1 4
+f
+3 7
+efd
+4 7
+feff
+5 2
+efdee
+7 6
+eefeddf
+5 10
+dddff
+2 5
+dd
+6 6
+fddefd
+3 6
+efd
+4 2
+dfef
+7 8
+ffdfdfd
+4 5
+ffdf
+1 1
+e
+2 6
+fe
+3 1
+eee
+4 10
+deff
+6 10
+fedfde
+1 8
+f
+3 2
+dfd
+4 4
+ddef
+1 2
+e
+3 4
+eef
+7 2
+feefded
+1 5
+d
+1 9
+f
+2 7
+fd
+4 5
+eefe
+3 6
+edf
+3 7
+eed
+2 10
+ee
+7 8
+ffddedf
+4 3
+efef
+7 8
+effdfed
+6 5
+ddfeed
+3 8
+ede
+4 10
+feef
+4 6
+fedd
+6 1
+fffffe
+6 3
+dffddf
+3 9
+ffd
+6 3
+fedefd
+7 5
+ededeee
+7 2
+fdeffdf
+5 6
+eddde
+1 8
+d
+4 3
+effd
+1 10
+e
+3 4
+ddd
+3 9
+dfd
+6 8
+dfedde
+6 8
+eedded
+6 2
+eddffe
+7 1
+eedeedd
+4 7
+feee
+2 8
+de
+3 3
+fdf
+7 8
+eefdffe
+3 5
+eff
+7 10
+effddde
+7 1
+ddddfdd
+4 8
+dfee
+1 9
+d
+2 10
+ed
+5 7
+ddfdd
+3 3
+eef
+5 4
+dfeed
+2 5
+ef
+5 7
+dddff
+4 6
+eeee
+4 2
+eddd
+5 4
+ffede
+2 8
+fd
+3 10
+ddd
+6 7
+edffde
+2 1
+fe
+7 3
+fedeede
+6 7
+efefee
+3 9
+fee
+6 6
+fddedf
+6 9
+dfdded
+3 5
+dfd
+1 7
+d
+5 5
+dffed
+1 1
+f
+5 6
+edefe
+3 2
+ffe
+3 4
+fff
+5 3
+efdde
+2 3
+fd
+7 6
+fdddefd
+3 5
+fef
+1 6
+e
+3 9
+fee
+5 3
+fdede
+2 3
+ef
+4 2
+dfee
+1 5
+d
+3 5
+ede
+6 6
+eeeefd
+7 1
+dfeffed
+7 2
+fddfede
+1 4
+e
+4 4
+efed
+1 9
+d
+4 1
+dede
+7 7
+eefdeff
+4 9
+eefe
+4 5
+dfed
+7 4
+ffdedde
+3 10
+dfe
+6 9
+dedfff
+2 1
+fd
+5 7
+ddfff
+3 10
+def
+6 5
+deeffd
+1 1
+d
+6 7
+efeeee
+3 4
+fde
+7 3
+eeefeff
+7 10
+feedffe
+7 5
+fedfedf
+4 8
+ffed
+5 5
+fffee
+1 7
+e
+2 2
+ed
+5 1
+fdded
+6 1
+ffeddf
+6 6
+ffeede
+2 4
+dd
+1 7
+f
+7 4
+eddeeee
+3 7
+dff
+6 2
+fddfef
+7 8
+ddefeee
+6 7
+dededf
+2 7
+fd
+2 6
+ef
+3 9
+dff
+3 8
+dfd
+1 7
+e
+6 6
+ffdede
+5 7
+edfdd
+3 2
+efd
+5 3
+ffddd
+1 2
+f
+5 9
+fffdd
+5 9
+ddfed
+5 10
+dddff
+7 6
+ddffeee
+6 6
+edfefe
+6 10
+effeee
+2 5
+fd
+6 2
+eefffd
+3 4
+efe
+4 10
+efdf
+2 8
+de
+1 1
+e
+1 7
+e
+2 1
+ed
+4 5
+ddfe
+2 10
+df
+6 9
+defdff
+1 6
+d
+1 7
+f
+7 1
+dedfdfd
+1 3
+f
+2 10
+ed
+5 7
+fdfef
+7 1
+fdfefef
+4 7
+feee
+6 6
+eedefe
+7 6
+ddffeed
+5 8
+dffff
+6 2
+ffefdd
+6 1
+dfddfd
+2 8
+de
+7 2
+ddefdfe
+2 5
+fd
+6 1
+dfdfff
+6 6
+dfdeef
+6 4
+ddeedf
+2 7
+ed
+5 8
+dedee
+1 4
+e
+7 1
+dffefff
+4 8
+deed
+5 6
+dfefd
+1 3
+e
+3 6
+fef
+4 2
+ffdf
+7 2
+ddddeef
+6 9
+fefede
+7 5
+deeeffd
+4 6
+fefd
+6 1
+ededdf
+5 6
+ffded
+2 2
+dd
+6 1
+fddeee
+7 2
+dfffded
+7 2
+dfeeeee
+7 9
+ddeeffd
+5 10
+defee
+6 1
+feddff
+1 7
+d
+7 10
+ededfdf
+5 9
+fedff
+7 3
+edfeddd
+7 2
+eeeeffe
+7 8
+dddefdd
+2 5
+ee
+1 1
+d
+7 8
+feeffdd
+1 9
+f
+4 1
+ffed
+1 5
+f
+7 7
+eddddee
+7 7
+fefffed
+4 2
+effe
+5 5
+defed
+4 8
+effd
+3 6
+ddd
+1 1
+e
+3 6
+dff
+4 8
+edef
+1 10
+e
+6 4
+dfffde
+5 2
+feedf
+5 8
+efded
+6 4
+eefeef
+7 7
+eeeeded
+1 9
+f
+7 5
+ffffdfe
+7 6
+dfdddde
+6 3
+ffddde
+2 2
+ee
+3 4
+fff
+1 2
+e
+2 2
+fe
+4 4
+eefd
+5 3
+ddfff
+5 6
+fedee
+3 10
+ffe
+7 3
+dfffddf
+4 2
+fefe
+6 2
+efdede
+3 6
+fdf
+4 6
+efdf
+7 1
+eddeeed
+7 8
+edfeddd
+7 1
+fffdddf
+5 8
+eeefd
+4 7
+ddfe
+2 7
+ee
+2 2
+dd
+3 8
+fed
+7 4
+effeded
+4 7
+dfef
+6 3
+effddd
+1 1
+d
+2 3
+fe
+1 8
+f
+7 6
+eddddee
+7 7
+efeedee
+7 2
+ddedfdd
+2 6
+ee
+5 6
+dfefd
+5 3
+eeeed
+4 1
+ffff
+5 7
+ffddd
+7 5
+edfddef
+6 3
+feddfe
+3 3
+efd
+7 5
+edfedfe
+6 5
+fdeffd
+3 8
+dee
+5 5
+ddddf
+1 6
+e
+2 3
+ee
+1 1
+f
+2 10
+fd
+1 5
+f
+3 1
+fdf
+7 2
+defefdd
+1 1
+e
+7 5
+fdeeded
+3 7
+edf
+3 7
+dfd
+2 9
+ee
+5 3
+effee
+3 6
+dee
+4 3
+ffde
+4 1
+fdfd
+5 1
+edffe
+5 5
+edfff
+6 4
+deedfd
+7 1
+ffedeff
+4 5
+eddf
+5 9
+eeffd
+7 7
+fddedde
+4 2
+fdef
+7 5
+edfeefe
+3 7
+fef
+5 9
+dfedf
+2 1
+dd
+1 10
+e
+3 7
+dde
+4 7
+ffde
+7 3
+dddfefe
+4 10
+fffd
+5 10
+effed
+4 10
+deee
+6 8
+efedde
+1 4
+e
+2 9
+ed
+4 4
+feed
+4 9
+fffd
+5 6
+efdfd
+7 5
+dfeddde
+3 3
+dff
+5 6
+ffdff
+5 4
+fffff
+2 5
+de
+6 4
+efefdd
+6 10
+ddfffe
+7 2
+edfefef
+1 1
+f
+5 4
+ffeef
+6 9
+edddff
+7 8
+feedefd
+5 7
+ffdde
+3 1
+fed
+3 8
+fed
+7 10
+eeeeffe
+3 10
+fdd
+1 8
+e
+7 6
+efdeddd
+5 2
+fedfe
+1 1
+e
+2 6
+ff
+5 9
+deefe
+1 3
+f
+4 2
+ffef
+6 7
+feefff
+3 10
+fde
+5 1
+dfded
+5 6
+dffed
+6 8
+ffdded
+4 6
+dfdf
+3 8
+fef
+1 9
+d
+3 3
+dee
+3 9
+fde
+5 1
+dedfd
+2 4
+ed
+3 6
+ddf
+3 8
+edd
+2 7
+fe
+5 1
+fffdf
+2 10
+fe
+3 5
+eee
+1 9
+f
+2 10
+ee
+7 7
+ffeddde
+2 7
+dd
+2 6
+de
+5 8
+efddd
+7 1
+fdedfef
+7 5
+dfdeeff
+7 7
+dfddfee
+2 8
+ee
+1 2
+e
+6 9
+fefddf
+1 9
+f
+1 4
+d
+5 1
+edeed
+2 6
+de
+4 2
+fefd
+5 8
+dfdfd
+5 1
+deeee
+4 3
+fdde
+5 1
+dffed
+3 7
+ded
+5 10
+fefdf
+4 4
+ddde
+2 6
+ee
+2 2
+de
+3 2
+ddd
+6 2
+ddfdfd
+6 8
+dffefd
+7 5
+ddddffe
+2 10
+df
+7 6
+dedddee
+7 9
+fdffeee
+3 10
+eef
+7 9
+efddeee
+5 1
+deded
+7 1
+ddffedf
+3 3
+ddf
+1 4
+e
+3 2
+dff
+1 1
+e
+4 1
+fdfd
+6 2
+fddeff
+5 10
+fefee
+2 5
+dd
+3 6
+efd
+1 2
+f
+6 10
+ffedfe
+6 5
+efeedd
+4 4
+fefe
+6 9
+feeffe
+7 2
+eeffddd
+5 9
+eeeed
+2 6
+df
+2 9
+df
+5 9
+dfddf
+5 2
+efded
+7 1
+fedfddd
+1 4
+f
+7 4
+ddfeded
+3 4
+eee
+5 3
+dddde
+5 2
+dddfd
+6 6
+efdfef
+2 9
+fd
+5 4
+eeede
+4 9
+eeef
+5 5
+ffedd
+5 2
+deddf
+6 4
+dfdfde
+2 3
+ff
+1 7
+d
+2 5
+ff
+1 7
+f
+5 10
+fddff
+6 6
+eeeefe
+2 1
+fd
+2 5
+df
+3 4
+ede
+5 1
+efddf
+2 4
+ef
+6 9
+ffffed
+6 1
+defddf
+6 6
+fffdef
+6 10
+ffeeee
+2 5
+ff
+4 9
+feee
+1 6
+e
+1 3
+d
+2 10
+de
+2 4
+dd
+7 8
+ffddffd
+4 8
+ddff
+3 6
+eef
+7 10
+fdeeedf
+7 3
+defddde
+5 4
+eedff
+6 8
+ddeedf
+1 10
+f
+2 1
+de
+2 7
+ed
+3 1
+edd
+2 4
+ed
+4 8
+edff
+5 8
+eeefd
+5 9
+ffefe
+3 7
+edf
+7 5
+dffffdd
+2 6
+ee
+4 10
+ddee
+2 1
+de
+1 2
+d
+7 7
+ddeddfd
+4 4
+eede
+3 4
+fde
+4 6
+fffd
+4 6
+eefe
+7 5
+deeeedf
+7 9
+eddfdff
+2 1
+ef
+7 3
+edffeee
+7 1
+fddfffd
+4 4
+fffd
+5 5
+fedfd
+1 5
+f
+2 10
+fd
+5 4
+defee
+6 2
+dffdfd
+6 3
+fffedd
+7 3
+efefdef
+1 6
+e
+4 8
+ffee
+2 3
+ff
+5 7
+edfff
+4 1
+fded
+1 3
+f
+4 1
+eedf
+6 6
+fdedde
+2 2
+ed
+7 4
+dfeffdf
+4 2
+dfff
+4 2
+ddfd
+5 8
+dfefd
+7 6
+fffddfd
+6 2
+fedfee
+6 6
+ddffdf
+1 10
+d
+6 2
+ddedff
+3 8
+fff
+2 2
+ed
+7 4
+fedfeef
+5 8
+efffe
+1 8
+f
+4 7
+ddff
+2 10
+fe
+1 2
+f
+2 3
+ff
+2 1
+ed
+4 8
+edfe
+1 1
+d
+5 8
+deffd
+3 8
+edf
+4 7
+ffef
+4 9
+dfef
+5 7
+ddeed
+1 4
+e
+7 2
+fedffff
+2 10
+ff
+4 3
+dfde
+1 8
+f
+3 3
+edf
+4 6
+ddff
+7 4
+dddeffd
+5 5
+deffe
+7 6
+fffddfe
+2 8
+ef
+6 7
+fddeef
+4 7
+edfd
+2 1
+dd
+2 10
+ed
+4 10
+fedf
+6 8
+feeedf
+3 3
+fde
+6 2
+ffffde
+6 3
+fefdff
+6 4
+fedfdf
+2 10
+ff
+6 8
+fdfdee
+3 1
+fef
+3 8
+fed
+4 3
+fedd
+3 6
+dfe
+7 1
+feeefef
+2 1
+ee
+6 8
+fddddf
+1 9
+f
+5 9
+effed
+5 10
+ffded
+4 4
+efde
+3 4
+dde
+6 3
+eedeed
+3 6
+ede
+5 9
+efeee
+2 3
+ee
+4 6
+efed
+6 10
+deedef
+4 4
+fffe
+5 9
+fdded
+4 8
+effd
+2 4
+ed
+2 7
+df
+4 4
+defd
+1 9
+f
+6 4
+fdedde
+2 6
+ed
+2 5
+ef
+2 5
+dd
+4 2
+ddfd
+3 6
+ded
+2 1
+ef
+4 1
+ffef
+2 9
+fd
+4 7
+eede
+4 3
+ddde
+5 5
+ffddd
+2 1
+df
+6 1
+ddedde
+5 4
+ddded
+5 5
+eeeef
+5 6
+dfddd
+3 6
+fef
+4 9
+ffed
+4 8
+ffde
+2 4
+fd
+7 6
+dfdfefd
+5 7
+eefef
+4 3
+fefe
+2 9
+fe
+2 1
+de
+3 3
+fdf
+1 4
+e
+2 8
+df
+6 7
+fdfefd
+5 3
+eefff
+6 6
+dfddff
+7 1
+efeefdd
+2 3
+fe
+6 6
+edfdfe
+3 8
+efe
+2 2
+de
+2 5
+fe
+4 6
+ffef
+3 10
+eee
+5 10
+deddf
+4 10
+dfdf
+5 4
+feffd
+2 9
+dd
+6 4
+eeedfe
+1 8
+d
+2 5
+fd
+1 1
+e
+1 9
+f
+7 1
+eeffeff
+2 10
+fd
+2 5
+df
+3 8
+efd
+4 9
+ddee
+3 5
+efe
+3 6
+dfd
+6 1
+eedded
+7 1
+ddeedff
+4 10
+dedd
+1 9
+f
+1 9
+e
+4 7
+dedf
+1 9
+d
+2 5
+fd
+2 3
+fd
+7 6
+dfdfded
+4 9
+eede
+3 4
+fdd
+7 4
+efedfef
+2 4
+ee
+3 7
+eee
+2 2
+de
+6 10
+dfeefd
+5 1
+dedfe
+3 10
+fdf
+2 9
+dd
+4 9
+efde
+1 9
+d
+3 10
+def
+5 10
+dffed
+4 2
+fefd
+5 9
+eddfe
+7 5
+dffedef
+1 1
+f
+4 1
+fedd
+1 5
+e
+2 8
+df
+2 4
+ff
+3 4
+ede
+2 6
+ed
+7 4
+fefdeed
+6 9
+ddfdfd
+6 6
+eeeffd
+7 1
+dddfddf
+3 9
+fdd
+6 1
+fdfeef
+1 5
+d
+5 7
+feedf
+1 2
+d
+3 7
+fde
+1 8
+f
+2 4
+fd
+7 4
+dfefdee
+5 3
+fdedd
+6 6
+eedede
+2 6
+fe
+7 3
+eedeffd
+1 3
+e
+3 7
+fde
+2 9
+dd
+7 5
+edeedfd
+6 7
+dfdffd
+2 3
+df
+4 8
+deee
+1 2
+f
+5 5
+eeefd
+2 7
+ed
+6 10
+eefdef
+7 4
+ffedfed
+2 4
+fd
+2 4
+dd
+6 10
+effdfe
+6 3
+fdeeee
+3 7
+ded
+6 6
+dddddf
+6 4
+feddfd
+5 4
+eeeef
+1 8
+d
+1 5
+d
+5 5
+feddf
+5 5
+deefe
+3 5
+dfd
+6 3
+deffee
+3 5
+ede
+7 8
+eeeeefd
+6 8
+eeeeef
+6 9
+dffdff
+5 7
+ddede
+6 8
+ddfdde
+7 7
+effdfee
+3 4
+eef
+3 2
+ddf
+1 4
+e
+4 7
+eeed
+2 2
+fe
+2 2
+ef
+2 3
+df
+1 3
+f
+1 5
+e
+6 1
+dfeedf
+2 7
+de
+6 4
+eddfef
+5 2
+fdfde
+3 4
+eef
+1 7
+f
+7 10
+ffdfdde
+5 5
+ededd
+4 5
+eefe
+3 4
+dee
+4 3
+ddee
+1 10
+d
+3 10
+fef
+6 10
+ffeded
+2 9
+fe
+7 4
+dffdfde
+2 1
+ef
+1 3
+d
+1 1
+d
+6 10
+fdedef
+3 9
+ffe
+2 2
+ee
+3 8
+fdf
+6 3
+eedfff
+3 1
+ddf
+7 9
+edfeedd
+3 4
+dfe
+4 1
+fdff
+1 8
+d
+4 2
+eedf
+1 5
+d
+4 3
+fdef
+4 5
+edde
+3 5
+dfe
+5 1
+dfdef
+5 7
+ffefe
+1 9
+f
+6 1
+edefdf
+3 9
+dfe
+5 7
+defed
+5 7
+efdfd
+1 8
+f
+7 8
+dfeffdd
+5 1
+eeded
+2 1
+fd
+7 3
+ffedfdd
+5 9
+edffe
+2 2
+ed
+5 1
+eeddf
+6 9
+dfedee
+6 3
+edeffd
+7 5
+ddeefed
+4 1
+efdf
+4 8
+ffff
+7 10
+fedefde
+6 4
+fddfee
+2 8
+dd
+5 10
+eddef
+4 1
+dddd
+1 8
+f
+4 10
+effd
+7 2
+ddedded
+2 3
+de
+3 7
+eef
+7 1
+ededfff
+2 1
+ef
+1 10
+e
+3 4
+ddf
+3 10
+dde
+3 3
+fef
+3 2
+edf
+6 10
+deddee
+3 8
+edf
+5 7
+dffdd
+1 6
+d
+5 5
+ffeee
+4 8
+dfff
+7 5
+deeffdf
+4 1
+ffee
+2 10
+ff
+5 5
+fdedf
+5 8
+ffdef
+3 2
+dee
+6 8
+eddfdf
+2 5
+df
+5 9
+dfffe
+4 1
+eeff
+1 2
+d
+4 1
+edee
+2 1
+de
+4 10
+dedd
+3 2
+ddf
+5 4
+ffdee
+1 4
+e
+2 6
+ee
+5 4
+deefe
+5 10
+efdef
+6 9
+ffdeed
+3 9
+fef
+7 5
+eeeeffd
+1 4
+d
+1 1
+e
+1 8
+f
+2 4
+dd
+4 5
+fedd
+7 2
+ffedede
+7 7
+fdfefff
+7 1
+eededdd
+5 9
+ddede
+2 10
+fe
+4 6
+ffdf
+2 8
+df
+6 3
+eefdff
+6 7
+dfeddf
+4 4
+dddf
+6 8
+fdefde
+7 8
+deeeded
+2 4
+ee
+6 6
+feedee
+3 8
+efe
+1 8
+d
+6 3
+fedfdf
+3 10
+ffe
+2 4
+ee
+7 10
+efefddd
+1 2
+e
+2 2
+ef
+6 6
+edfded
+1 7
+d
+5 10
+fefff
+4 1
+eddd
+5 7
+dfdee
+4 10
+fede
+3 9
+eef
+1 6
+e
+2 4
+ee
+2 3
+ff
+4 4
+eefd
+3 1
+eed
+5 8
+fdeee
+4 5
+edfe
+5 5
+eddee
+3 10
+dfd
+2 5
+dd
+5 3
+effee
+7 6
+fdefdfd
+3 4
+ddf
+2 5
+ef
+7 7
+fdfdfdf
+6 3
+fffefe
+5 10
+dfefe
+5 2
+fedef
+5 5
+dedfe
+7 10
+eeeeeed
+6 8
+fffeed
+7 8
+efffffe
+7 9
+dfffede
+3 9
+ded
+6 5
+dfeddf
+6 7
+fedded
+2 1
+ed
+7 9
+ffedfdd
+5 1
+edede
+1 1
+f
+1 8
+e
+2 3
+ed
+5 5
+edfdf
+7 5
+ffedfdf
+3 3
+fed
+1 6
+e
+1 8
+e
+1 1
+d
+2 1
+fd
+5 2
+deddd
+2 3
+dd
+3 8
+ede
+3 2
+fdf
+2 7
+dd
+4 4
+fdee
+2 1
+de
+2 2
+de
+1 3
+d
+2 1
+ed
+5 1
+fdffd
+7 9
+fddfeef
+4 2
+fdff
+6 9
+effdde
+2 7
+de
+7 1
+dfefffe
+2 9
+dd
+1 10
+e
+2 3
+ed
+4 9
+dddf
+2 7
+ef
+6 9
+ddeeed
+3 5
+eef
+3 7
+ede
+6 7
+fdeffd
+7 7
+eddfded
+3 8
+fdf
+4 2
+feef
+3 1
+ded
+3 9
+ffe
+5 4
+efddf
+1 1
+f
+1 10
+f
+4 10
+eeef
+4 7
+feee
+4 1
+efed
+5 4
+ddded
+6 9
+efeddd
+5 2
+dddfd
+6 6
+ffedff
+6 4
+effddf
+4 3
+fefe
+3 1
+fee
+1 3
+e
+1 1
+f
+1 6
+e
+2 2
+df
+3 8
+fdd
+2 10
+fe
+7 7
+feddeff
+7 3
+dfffdfd
+4 9
+fded
+2 7
+ef
+7 6
+ffedefd
+7 7
+fdeeffe
+4 6
+efdf
+7 6
+fddeedd
+1 8
+e
+3 10
+ddd
+2 9
+de
+1 3
+e
+1 4
+d
+3 7
+dff
+6 2
+ffdddd
+2 6
+ff
+4 1
+dfdf
+6 6
+ffdefd
+5 9
+fdeff
+3 1
+dee
+3 5
+edd
+2 6
+ff
+6 5
+ffefee
+2 8
+ee
+3 5
+efe
+6 2
+defdde
+4 2
+ddee
+4 8
+edde
+4 10
+edff
+3 4
+efe
+1 9
+d
+2 1
+fd
+4 6
+eefe
+3 5
+def
+7 6
+eefddde
+3 5
+fee
+3 3
+fed
+5 9
+edddf
+1 4
+d
+3 5
+eed
+3 9
+edf
+5 5
+ffffd
+6 10
+fddfde
+7 5
+fdfdddf
+5 9
+efefd
+1 6
+d
+5 2
+dedfd
+2 6
+ef
+6 1
+fdeedd
+4 4
+ddff
+7 9
+dfdffed
+2 4
+fe
+7 4
+fdeddff
+1 7
+e
+5 7
+fdffd
+3 3
+ded
+3 8
+ffd
+1 3
+e
+3 1
+efe
+3 9
+fee
+4 7
+defd
+2 8
+ff
+1 6
+d
+6 8
+fdffef
+5 9
+ffdef
+1 6
+d
+2 8
+de
+6 3
+dedeed
+1 7
+e
+1 10
+f
+4 10
+eede
+5 9
+efdff
+6 5
+fdfdee
+1 4
+e
+5 1
+eedff
+6 1
+fefdee
+6 2
+ededdd
+1 1
+d
+4 3
+dfde
+3 6
+fed
+1 2
+d
+3 9
+eef
+4 2
+effd
+5 1
+dedff
+1 7
+d
+3 1
+ded
+6 10
+ffeddf
+6 6
+effddd
+3 3
+efd
+7 10
+fffddde
+5 1
+eeddd
+1 2
+f
+1 6
+f
+7 9
+ddeddee
+4 4
+fefd
+6 5
+fefeff
+5 1
+dddff
+3 8
+ded
+2 6
+ef
+4 1
+dded
+7 10
+dedffff
+4 4
+fdde
+2 7
+ff
+1 4
+f
+4 4
+dfdf
+7 10
+edffeed
+2 8
+ee
+4 1
+efde
+5 10
+eedee
+2 1
+ed
+2 9
+dd
+1 6
+f
+2 2
+df
+2 7
+ff
+4 6
+deee
+2 5
+fe
+5 6
+defed
+5 4
+deddf
+1 4
+e
+3 1
+eee
+3 7
+eee
+2 3
+df
+3 2
+fff
+4 3
+fdef
+7 3
+dedeefd
+6 8
+dfeded
+5 1
+ddddd
+6 4
+fdeefe
+5 2
+feede
+7 3
+eddeeee
+4 1
+fffd
+1 2
+d
+1 3
+d
+3 9
+eff
+3 1
+eef
+2 1
+ee
+2 2
+dd
+3 8
+fdf
+4 7
+fdff
+7 5
+dfdeeee
+3 9
+fef
+4 1
+deef
+4 1
+eedd
+7 10
+eeeddfe
+7 1
+ffffddf
+4 7
+edde
+7 10
+ddeddde
+7 3
+feddeff
+5 4
+eeefd
+5 1
+efeed
+7 1
+dddfdde
+7 10
+ffeefed
+6 5
+edfdfd
+7 7
+edddddd
+2 5
+ed
+4 8
+fddd
+3 1
+eef
+6 2
+dfefde
+3 4
+fff
+4 9
+ddff
+5 8
+ddffd
+7 10
+dffffed
+5 3
+fffff
+6 6
+dfdeee
+4 6
+effe
+2 8
+dd
+1 9
+d
+5 2
+edeef
+2 3
+ff
+5 6
+dffdd
+2 3
+fd
+1 1
+d
+1 3
+e
+3 7
+fef
+3 2
+efe
+1 10
+f
+5 8
+dfdff
+6 9
+eeddef
+1 3
+e
+7 7
+dfefeef
+6 3
+dededf
+6 2
+fdefdd
+7 2
+deedfde
+5 10
+fefdf
+2 3
+dd
+5 7
+fdefd
+4 7
+eded
+1 1
+e
+3 7
+eed
+5 5
+deeed
+2 9
+ee
+6 1
+dfeddd
+4 2
+eded
+7 2
+dddddfd
+6 5
+deeeff
+7 2
+eedfeee
+5 1
+feeee
+7 4
+efffedf
+2 3
+de
+7 10
+fdfdfee
+6 4
+ddfdde
+3 3
+ded
+4 10
+feee
+4 1
+eefd
+7 5
+ffdfeed
+2 10
+dd
+7 9
+edfdede
+6 6
+dedfdd
+2 3
+de
+5 7
+efded
+6 3
+dedffd
+5 10
+ddfff
+2 4
+df
+5 8
+fefed
+6 3
+dedded
+3 4
+ffd
+6 1
+deefef
+2 3
+ff
+5 5
+eddfd
+4 10
+edfd
+4 6
+efdf
+6 1
+fdeede
+1 6
+d
+6 7
+feffdd
+3 5
+efd
+7 7
+eeeefef
+2 8
+fe
+3 7
+fdf
+5 1
+defef
+7 2
+dfeeeef
+1 3
+d
+3 8
+fff
+3 3
+dfd
+7 3
+edddfee
+1 9
+f
+3 5
+eee
+3 8
+eed
+7 8
+eeffddd
+7 1
+deedede
+6 4
+deeede
+3 3
+edd
+4 7
+feef
+6 3
+efdeed
+1 3
+e
+2 2
+ee
+7 3
+edeffff
+1 1
+d
+2 6
+ff
+1 9
+f
+7 5
+fefedff
+7 10
+feefddf
+1 3
+f
+4 5
+dffe
+2 3
+ff
+2 5
+ee
+7 10
+dfdfffe
+2 1
+ee
+5 4
+dffde
+4 5
+dede
+6 5
+ffdffe
+2 10
+df
+4 8
+ffef
+1 4
+e
+7 9
+ddeffee
+2 2
+ed
+1 5
+d
+7 5
+ddfddde
+7 6
+fefdefe
+7 8
+ffeeedd
+4 8
+fded
+6 1
+dddfee
+3 2
+fef
+7 2
+efffdee
+7 5
+dedeede
+6 7
+deeeef
+1 4
+d
+5 2
+fedee
+5 7
+dfffd
+3 7
+ddd
+5 7
+eedff
+2 5
+ff
+3 8
+def
+4 5
+fdff
+2 8
+ed
+2 1
+de
+1 7
+d
+2 6
+ed
+3 9
+dee
+6 6
+eefdfe
+2 2
+ef
+7 8
+fddedde
+5 3
+dffef
+2 8
+df
+3 1
+fee
+3 4
+eed
+5 8
+dedfd
+7 4
+fefeffe
+4 4
+ffff
+5 5
+effff
+7 3
+defdedf
+4 7
+edef
+4 5
+dffd
+6 7
+ffeefe
+4 2
+ddef
+3 4
+fed
+7 7
+edeeeff
+5 3
+eedff
+6 8
+defede
+2 4
+de
+4 2
+fdef
+4 7
+edfe
+1 10
+e
+7 6
+eedfede
+4 8
+fddf
+2 9
+dd
+2 3
+fe
+3 4
+ede
+2 7
+fe
+4 7
+efdf
+2 4
+dd
+6 3
+eddddd
+2 3
+ef
+5 1
+defdf
+7 2
+dedfede
+7 3
+ffdeddf
+4 5
+edde
+3 1
+ede
+2 10
+fd
+6 2
+dedfee
+5 3
+dfefe
+4 5
+eede
+5 9
+ddedd
+2 9
+fd
+4 6
+ddff
+1 1
+d
+1 8
+e
+6 10
+eeefee
+5 1
+deffd
+2 7
+ef
+5 6
+dedef
+6 7
+ddeeef
+3 9
+fdd
+2 10
+dd
+7 8
+fddfdef
+1 1
+d
+7 5
+edeffef
+4 10
+ddef
+4 4
+fffe
+2 7
+df
+7 6
+ddedfef
+1 6
+f
+5 3
+fddfd
+3 3
+dfe
+4 10
+ffff
+4 3
+eeef
+2 4
+ee
+1 10
+f
+2 6
+ed
+4 5
+ffdf
+7 9
+effffde
+6 2
+dddefd
+7 3
+ddefffe
+4 10
+deef
+2 4
+fe
+5 6
+fdfdd
+1 5
+e
+1 6
+e
+3 5
+fdf
+6 10
+edffff
+4 8
+dfde
+1 5
+f
+2 7
+de
+5 10
+eefdf
+5 8
+dfedf
+3 6
+fff
+3 9
+ddd
+5 1
+ddfde
+2 10
+ef
+4 1
+edee
+3 3
+ede
+7 10
+fedfeee
+5 4
+fffef
+5 4
+fdeee
+7 7
+dddefdd
+6 1
+fdeefd
+4 4
+dfef
+6 4
+eefdff
+4 9
+dede
+4 9
+efef
+3 3
+ffd
+2 10
+fe
+5 10
+ddedf
+3 5
+eff
+2 3
+ee
+3 3
+ddf
+7 1
+fdddede
+4 9
+ddee
+7 2
+edffdee
+4 3
+efee
+2 4
+ff
+1 1
+d
+3 3
+eef
+2 1
+fe
+7 7
+efddefd
+2 4
+ee
+6 10
+ddddff
+7 9
+defeeff
+4 5
+defd
+2 10
+de
+1 7
+e
+7 10
+dedfffe
+3 6
+edf
+2 6
+fd
+5 9
+eeddd
+2 10
+ee
+3 9
+dee
+4 8
+eeee
+3 8
+dff
+4 7
+deff
+1 1
+f
+3 8
+dff
+5 6
+feede
+2 9
+df
+2 4
+ef
+6 5
+edddfe
+4 3
+deed
+7 8
+feddffe
+5 2
+effed
+6 9
+efdfee
+6 2
+ffedef
+2 8
+de
+6 8
+edfdef
+7 3
+edfeeed
+6 1
+eefffe
+3 3
+fde
+7 10
+dedffdd
+6 8
+efdfde
+2 1
+ef
+4 4
+dedd
+4 3
+eddf
+4 10
+dfee
+7 6
+ddddddd
+1 1
+f
+6 1
+eedffd
+7 5
+ffdfefd
+3 5
+fff
+4 4
+fefd
+7 7
+defefff
+7 8
+fedeeff
+1 3
+e
+6 1
+ddeddf
+2 1
+df
+2 9
+fd
+7 10
+defffde
+3 8
+dee
+3 8
+ffe
+2 6
+de
+5 10
+dfdef
+6 6
+efdfdd
+7 3
+feedeef
+4 1
+eede
+1 8
+f
+1 3
+f
+5 1
+dedff
+5 2
+dfefe
+2 7
+ef
+1 1
+e
+4 7
+fede
+4 8
+eefe
+1 6
+f
+7 1
+dedddef
+6 10
+eefefd
+3 7
+fde
+2 7
+ed
+2 6
+fd
+1 7
+d
+7 3
+fdfdfde
+7 4
+dffffed
+7 8
+dddfffd
+3 8
+eed
+2 7
+fd
+7 8
+fdfeefe
+1 1
+d
+5 4
+eddde
+4 1
+dfff
+4 4
+ddef
+4 7
+efee
+5 4
+dedfd
+1 3
+f
+7 5
+eeeeeed
+2 1
+ed
+3 3
+dfd
+3 6
+eef
+4 3
+efee
+1 5
+d
+5 6
+deefe
+1 2
+f
+5 7
+efffd
+7 2
+deffede
+3 6
+edd
+2 8
+ef
+1 7
+d
+2 2
+ee
+1 1
+f
+6 4
+deffed
+3 5
+fdd
+1 7
+d
+3 9
+dfe
+2 7
+dd
+4 1
+fdff
+7 7
+ddffeff
+5 7
+eddff
+4 1
+fffd
+1 6
+e
+2 4
+ed
+1 8
+e
+5 6
+edeff
+2 7
+fd
+7 2
+efddeef
+2 4
+df
+4 5
+dfef
+1 4
+e
+3 9
+edf
+5 7
+fdffd
+3 10
+def
+6 4
+feeeed
+7 1
+fdffefe
+3 2
+eef
+4 7
+efde
+1 8
+f
+6 8
+ffdfde
+3 4
+ddf
+3 1
+fee
+6 9
+ffeeff
+2 8
+de
+6 9
+feefff
+5 9
+fdfde
+1 2
+f
+1 3
+f
+6 7
+dfffff
+5 5
+dffdd
+7 2
+eedfdee
+6 6
+efeedd
+7 10
+fefedee
+6 10
+dedeed
+1 10
+f
+7 8
+ffdddfe
+2 10
+ed
+4 10
+eddf
+3 5
+dff
+6 3
+fdedfe
+4 8
+fffe
+7 5
+dedfeed
+4 8
+eeed
+7 10
+deefede
+4 4
+fddf
+2 5
+ff
+4 7
+eefe
+5 9
+eddff
+2 1
+ee
+7 6
+dfdfdfe
+3 2
+efd
+2 1
+ed
+1 1
+e
+6 7
+ddefdd
+6 4
+fdfdfe
+4 5
+dfdd
+6 1
+fedefd
+2 8
+ff
+7 4
+eefeeff
+5 2
+dfdde
+4 7
+efee
+3 10
+fed
+4 6
+eddd
+5 6
+eeeee
+2 7
+df
+7 5
+eddefdf
+5 10
+edefd
+5 5
+dffdd
+4 8
+fdee
+3 4
+dff
+1 10
+e
+1 1
+d
+6 10
+feffee
+6 6
+eeedde
+4 8
+efde
+7 5
+fddfeff
+2 3
+dd
+1 6
+e
+3 4
+dfd
+4 4
+dfed
+6 6
+fddfff
+4 4
+dfdd
+4 9
+dffe
+6 5
+efddfe
+7 2
+defdfdd
+7 7
+defdede
+1 6
+d
+7 5
+edffeff
+2 4
+ef
+1 7
+e
+1 1
+e
+4 2
+eeff
+1 2
+e
+6 4
+dddddd
+3 7
+ded
+5 6
+eeedd
+2 2
+ed
+1 8
+f
+7 2
+fefeddf
+2 6
+fe
+6 5
+fdeeed
+2 4
+fe
+1 7
+e
+2 1
+ff
+2 9
+fe
+7 5
+ddeeddd
+7 7
+ffdedde
+3 1
+efd
+6 2
+fddfed
+7 3
+dffdded
+4 10
+edff
+1 3
+d
+4 4
+efdf
+3 8
+fef
+1 8
+d
+7 10
+eefedfe
+6 5
+ffdded
+5 7
+fdedd
+6 4
+efefee
+5 1
+ffefe
+3 10
+efd
+3 1
+eef
+1 3
+f
+2 2
+ff
+3 4
+ddd
+6 2
+feeedf
+2 10
+ed
+3 2
+ffe
+1 9
+f
+2 8
+ee
+1 9
+f
+4 9
+eefd
+3 10
+dfd
+4 9
+ffdf
+4 6
+ddff
+1 4
+d
+5 3
+fdffd
+7 5
+eddfeee
+6 9
+fdffff
+2 3
+fe
+7 6
+ddfdffe
+2 2
+df
+3 7
+ddd
+4 7
+edde
+2 3
+de
+1 1
+e
+5 9
+fdedf
+4 9
+fdee
+4 7
+effd
+4 1
+fefe
+6 5
+eefeee
+5 5
+eddfe
+4 5
+dfee
+4 1
+edef
+7 1
+eeedddd
+4 4
+edde
+7 5
+dfdeffe
+6 8
+edfede
+7 6
+edfdfdd
+7 10
+ffdfefd
+2 1
+fe
+5 7
+ddedd
+1 1
+f
+5 3
+eddde
+1 10
+d
+2 6
+ee
+5 7
+edffd
+2 8
+dd
+7 4
+dedefed
+1 8
+d
+7 2
+effdedf
+3 5
+fdd
+4 9
+ffef
+5 8
+eeffe
+7 7
+eeeffee
+3 1
+ded
+2 3
+fe
+6 9
+feffff
+6 6
+dedeee
+2 6
+ef
+6 7
+eedefe
+2 7
+fd
+1 9
+e
+4 7
+edde
+1 3
+f
+6 7
+dfeeef
+3 4
+eee
+5 1
+dddfd
+7 3
+eeddeef
+7 7
+fefeedf
+7 3
+edddffd
+7 8
+ddfffde
+3 10
+ddd
+7 10
+fefdffd
+2 7
+fd
+7 4
+deefedd
+2 2
+de
+1 3
+d
+7 8
+ffeefde
+6 7
+fddfee
+7 1
+edeeddf
+7 10
+ededfdf
+2 4
+de
+7 10
+deedded
+6 4
+dddfff
+4 9
+ffee
+2 3
+df
+7 6
+edffedd
+1 8
+f
+2 4
+df
+5 2
+fedfd
+7 8
+ffeddee
+4 2
+dfef
+7 4
+dddfdfd
+1 5
+e
+5 7
+defff
+3 9
+eee
+3 8
+edf
+5 2
+dedfe
+1 3
+e
+4 7
+fdfd
+3 10
+eef
+2 3
+ef
+6 3
+fedffd
+1 4
+f
+7 2
+fdfefef
+5 5
+dfdfe
+3 6
+dfd
+4 6
+dfed
+5 7
+eddff
+2 8
+dd
+7 6
+effdedd
+4 6
+edde
+1 1
+d
+2 6
+ef
+4 7
+fded
+2 10
+ee
+4 8
+dfef
+3 4
+dff
+5 4
+ddfff
+5 6
+fdddf
+5 8
+fefff
+5 1
+ffffe
+2 8
+df
+5 8
+eedef
+1 6
+e
+5 7
+ffdee
+7 8
+dddfdff
+5 2
+ffddf
+2 7
+ee
+2 5
+df
+5 6
+effdd
+3 9
+dde
+4 9
+defd
+7 3
+fdeffee
+1 8
+f
+6 3
+eeefff
+1 6
+e
+3 8
+fed
+2 7
+dd
+5 9
+dfede
+7 4
+edffdfe
+5 6
+feeef
+6 4
+dedffe
+2 10
+ff
+1 4
+f
+4 10
+efde
+4 5
+deed
+5 6
+eddee
+7 2
+dfdefed
+6 10
+deeddf
+6 10
+deddfe
+2 3
+ff
+7 6
+feffeef
+2 2
+de
+7 7
+deefdef
+5 10
+efede
+3 2
+dfe
+1 7
+f
+1 9
+d
+4 1
+ffee
+2 6
+ff
+2 7
+fd
+7 10
+efddefd
+1 3
+f
+4 5
+ffff
+4 10
+ffef
+6 1
+dfefee
+7 1
+dfddeef
+3 9
+fdd
+1 10
+d
+2 6
+ef
+3 1
+dfd
+6 10
+effdde
+2 10
+dd
+7 10
+ddeefde
+4 1
+ddde
+1 7
+d
+7 1
+eeefeee
+6 2
+ddfded
+6 3
+dfdddf
+6 5
+ddeffe
+5 2
+defdd
+3 10
+fed
+3 1
+ede
+1 6
+f
+3 3
+dde
+5 9
+eeeee
+3 8
+eff
+1 2
+f
+5 4
+fdede
+1 3
+d
+3 2
+ddf
+6 3
+dffedd
+2 9
+fe
+7 8
+ddfdefe
+1 8
+e
+6 7
+defdee
+1 6
+f
+3 5
+fed
+1 2
+e
+4 9
+eefe
+2 5
+df
+6 7
+dedddf
+5 1
+dedff
+4 8
+fffd
+1 1
+f
+1 1
+d
+1 3
+e
+6 2
+feedfe
+4 6
+fffe
+7 2
+fffddde
+1 8
+d
+5 5
+dffdf
+3 1
+ded
+7 3
+dffdffd
+6 3
+feeeed
+3 2
+eff
+5 2
+deeee
+6 3
+ffeddf
+3 1
+dde
+3 9
+def
+6 7
+edffdf
+2 9
+ff
+4 7
+feff
+5 1
+ffedf
+6 3
+ffdeff
+1 8
+f
+7 1
+edeeeed
+7 7
+dffefee
+4 6
+dedf
+4 5
+eeef
+3 6
+fdd
+7 5
+dfdffff
+1 1
+f
+7 6
+effefff
+3 3
+efd
+3 7
+edd
+1 5
+e
+5 2
+eddff
+5 1
+ddfdd
+4 8
+fdff
+2 3
+ee
+1 4
+e
+1 10
+e
+4 10
+dffe
+1 4
+e
+5 9
+ddedf
+5 1
+edffe
+3 2
+dde
+2 6
+df
+7 6
+edffffe
+6 9
+edfedf
+7 1
+edffefe
+1 8
+e
+6 3
+dfedee
+3 6
+fef
+2 10
+ed
+6 7
+ffdeff
+4 5
+feef
+4 8
+fdff
+3 5
+eef
+2 2
+df
+1 2
+e
+3 3
+fef
+6 5
+edffdd
+1 4
+e
+5 6
+fffed
+1 6
+d
+6 6
+dfffff
+6 5
+dedfde
+2 7
+df
+2 2
+ed
+6 10
+fdffde
+1 6
+d
+3 6
+fee
+4 5
+dfee
+3 4
+efd
+6 2
+dfdedd
+5 3
+feded
+3 10
+ddd
+1 8
+f
+1 10
+f
+3 4
+ffd
+6 6
+fdeefd
+3 8
+efe
+5 6
+dffee
+3 1
+edf
+6 10
+fefded
+2 2
+dd
+7 7
+deedfde
+6 9
+eeeedd
+4 8
+edde
+5 3
+ffeff
+1 5
+d
+3 5
+fed
+3 6
+ddf
+2 1
+df
+1 8
+e
+3 7
+ded
+5 3
+fedfd
+3 2
+dde
+6 4
+efffed
+5 8
+fefee
+7 3
+ddedffe
+3 5
+edd
+4 1
+ffee
+2 3
+ef
+5 10
+ddffd
+5 2
+deddd
+3 10
+fee
+5 3
+dffde
+5 1
+dddfe
+6 6
+fefefe
+6 2
+deddff
+5 4
+eefed
+4 3
+fedd
+4 2
+fffd
+3 8
+ffe
+1 5
+e
+4 4
+edfe
+2 10
+fe
+7 5
+edeefde
+6 7
+eddddd
+2 3
+ef
+4 6
+dfff
+3 2
+fff
+1 6
+e
+5 3
+dfeff
+1 9
+d
+7 3
+eeddedf
+3 6
+ddd
+1 9
+f
+4 7
+eded
+3 5
+efe
+7 7
+eeffddf
+7 2
+ffedeff
+7 4
+ddfddff
+4 5
+deef
+1 1
+d
+5 2
+feffe
+3 10
+fdd
+1 8
+d
+6 2
+deffff
+5 8
+ffffe
+4 8
+dffd
+2 9
+ff
+6 10
+ffdffd
+7 8
+fdfefee
+5 9
+dedee
+7 1
+deedeef
+1 1
+d
+1 3
+e
+3 9
+ffd
+6 2
+ffeffe
+2 8
+de
+4 1
+fddf
+6 7
+eddfff
+7 3
+deefdfd
+4 6
+efed
+7 9
+eddefff
+3 7
+fef
+2 7
+de
+5 6
+ffefd
+5 1
+deefd
+3 4
+ffd
+4 4
+dffe
+6 3
+fffeed
+1 7
+e
+6 2
+edeeed
+5 7
+ffdef
+4 8
+eefe
+5 8
+fdedf
+3 8
+ded
+1 3
+e
+5 2
+edeef
+2 5
+ee
+7 2
+edeffdd
+4 3
+ddff
+6 2
+dddddd
+3 5
+ded
+3 2
+fdf
+5 9
+ddddf
+2 8
+df
+6 2
+eeeded
+7 2
+ddfedfd
+7 2
+fdddfff
+4 6
+fddd
+1 7
+d
+2 5
+ed
+1 5
+e
+6 4
+fddded
+5 9
+dddee
+6 3
+ddfeef
+4 9
+dfde
+5 10
+ffded
+3 7
+ddf
+3 9
+dfe
+1 8
+f
+4 7
+eede
+2 6
+ed
+1 10
+e
+4 9
+fddf
+3 8
+dde
+2 10
+df
+1 8
+f
+6 9
+deddde
+1 6
+e
+3 4
+dfe
+6 6
+edffff
+6 2
+eedffd
+4 9
+ddde
+6 7
+ddeddf
+1 9
+e
+3 3
+dfe
+5 8
+defde
+2 6
+ff
+5 5
+deffe
+4 1
+dffd
+4 9
+fefe
+7 10
+deddeee
+5 3
+eeedf
+3 8
+edf
+6 7
+fddeed
+3 4
+eee
+5 3
+efded
+5 3
+dedfd
+5 5
+eeddf
+1 2
+d
+3 9
+dde
+7 2
+dddeded
+3 3
+eff
+2 3
+fe
+4 9
+deff
+5 5
+ffddd
+2 3
+ed
+3 7
+dfd
+4 8
+defd
+3 10
+ddf
+5 7
+defef
+4 5
+eeed
+4 4
+deee
+7 8
+edeeede
+3 9
+eed
+3 6
+efd
+3 3
+fed
+4 4
+fedf
+5 10
+fdfee
+6 3
+dfefed
+1 6
+d
+4 10
+efee
+1 4
+d
+2 5
+fd
+2 7
+dd
+4 2
+dffe
+5 5
+defee
+5 4
+ddede
+5 10
+feedf
+5 9
+edffe
+1 4
+d
+5 8
+feedf
+4 2
+feff
+7 1
+edddfdf
+5 2
+feefe
+3 7
+dfd
+4 5
+edef
+7 10
+dffefed
+3 1
+dfd
+1 4
+d
+3 3
+eed
+7 1
+fdedeef
+7 5
+defdeef
+4 10
+edef
+1 3
+d
+6 6
+fdffed
+7 10
+ddffded
+6 10
+dfeeef
+6 1
+ffddfd
+7 6
+eedfddf
+5 3
+fefee
+4 1
+efee
+6 8
+eededf
+6 2
+efdfee
+6 2
+ddfdfe
+2 9
+dd
+7 10
+edffdee
+5 5
+fdfdf
+3 5
+dfe
+2 3
+df
+2 5
+fe
+6 9
+eedfed
+2 2
+ee
+6 1
+dffeed
+2 1
+ed
+2 5
+de
+4 7
+eeff
+6 2
+ffdddd
+5 1
+fffdf
+7 6
+edeefef
+4 9
+deef
+6 5
+feeded
+5 4
+dfdef
+6 9
+eefeef
+5 3
+dddfe
+3 1
+def
+5 10
+ddedd
+2 10
+dd
+4 8
+ffee
+1 9
+d
+1 8
+e
+7 9
+defdfee
+5 1
+fddef
+3 7
+fdf
+4 1
+efde
+1 5
+d
+7 1
+effdedd
+7 1
+defdfde
+4 3
+feee
+4 7
+edfe
+4 5
+fddd
+3 5
+dfd
+1 4
+d
+1 7
+f
+3 4
+efe
+3 8
+ede
+5 2
+eddde
+6 1
+ddedfe
+1 1
+e
+5 1
+deede
+6 3
+efeeef
+1 8
+d
+5 7
+efedd
+2 3
+fe
+6 6
+ffeedd
+2 3
+ee
+5 1
+fefee
+4 8
+dffd
+7 6
+eeddeef
+6 1
+edeeff
+6 2
+edeeff
+2 1
+df
+4 7
+defe
+4 7
+effd
+1 10
+d
+2 10
+df
+2 1
+ee
+7 4
+efffffe
+7 5
+eefddef
+5 8
+dffef
+7 9
+fdedded
+5 2
+fffdf
+7 10
+efddfdd
+3 4
+fed
+4 7
+eefe
+3 2
+efd
+1 10
+e
+6 2
+dfdede
+7 7
+fedefff
+6 7
+deefed
+1 2
+f
+7 7
+feeeefd
+2 9
+ff
+7 2
+ddfddfe
+6 7
+efdddf
+6 4
+dfeefe
+3 6
+eff
+1 5
+f
+5 10
+eddde
+7 6
+fefdffd
+4 7
+dddd
+1 4
+d
+3 10
+ddd
+2 2
+ef
+1 10
+d
+5 6
+ddedf
+2 9
+ef
+1 5
+f
+7 10
+edeeefd
+3 7
+ede
+7 9
+dfddedf
+1 4
+f
+1 9
+d
+6 6
+eddddd
+5 8
+fefef
+1 10
+f
+4 6
+dddd
+3 10
+efe
+7 2
+efffddd
+7 5
+feefdfd
+6 7
+fffdff
+6 2
+dedded
+2 10
+fd
+1 3
+d
+7 8
+fddeffd
+5 7
+efeee
+4 10
+dfdd
+6 5
+eefefe
+4 3
+dffd
+4 6
+dfef
+6 6
+defffe
+4 6
+dfef
+7 8
+dedefdf
+3 1
+dff
+3 8
+edd
+4 7
+effd
+3 8
+fed
+4 9
+fdef
+6 9
+feeedf
+6 2
+efdeed
+5 2
+fdeef
+7 5
+deedddf
+1 3
+f
+5 6
+dddef
+4 3
+fefd
+6 9
+efefef
+1 3
+f
+3 10
+fdf
+6 2
+deffee
+3 3
+fef
+3 8
+dfd
+4 5
+fffe
+2 10
+fd
+1 9
+e
+3 5
+edd
+6 10
+eedffd
+4 6
+fdff
+7 1
+fffffde
+5 2
+ffdde
+7 7
+dddefff
+4 4
+fdfe
+1 9
+e
+6 1
+ffffdf
+3 4
+dee
+7 8
+eddddee
+1 3
+d
+7 2
+eeeddde
+1 5
+e
+2 4
+df
+3 8
+ffe
+6 6
+eeeddd
+3 6
+dde
+1 5
+e
+3 2
+fed
+4 3
+fffd
+7 4
+ffdeffe
+6 1
+ffdfed
+2 1
+de
+3 5
+efe
+7 5
+deefdff
+1 6
+e
+6 3
+eeeffd
+3 3
+fed
+2 8
+ee
+4 6
+fdfd
+5 10
+ddedd
+4 6
+eede
+7 6
+effffed
+2 7
+fe
+1 3
+f
+5 3
+fddee
+4 3
+ffef
+6 8
+fedfde
+2 7
+fe
+7 6
+fdeefee
+2 1
+de
+3 4
+efe
+5 7
+ddefe
+4 4
+efef
+2 9
+fe
+6 5
+defded
+2 3
+fe
+1 9
+f
+7 9
+eeefdff
+7 2
+effdfef
+2 9
+df
+3 10
+efe
+7 10
+eeeeffe
+3 3
+dfd
+4 7
+efdf
+4 6
+eedd
+3 2
+edf
+1 10
+d
+6 5
+fedeff
+5 10
+edfee
+2 7
+fe
+5 5
+fdedd
+6 9
+deddff
+1 6
+f
+4 3
+eddf
+5 3
+feeff
+1 5
+d
+1 2
+d
+6 6
+efeeed
+6 10
+ffeede
+7 4
+efddffd
+4 4
+dffd
+2 4
+ff
+3 9
+ddf
+5 3
+efedf
+1 10
+e
+4 10
+fedf
+5 1
+deefd
+4 7
+ddde
+5 8
+fdddd
+5 9
+deedf
+6 5
+defdde
+4 1
+edde
+6 3
+dffedd
+2 10
+ef
+2 2
+ef
+5 4
+feefe
+4 8
+dfee
+6 2
+dfdfdd
+3 3
+ded
+3 10
+ddd
+4 8
+eefd
+7 9
+eddddee
+1 3
+d
+7 6
+edddefd
+4 6
+dfdf
+3 9
+ffd
+7 2
+feddefd
+1 6
+f
+3 4
+def
+7 3
+dfdeeef
+3 6
+dfe
+4 7
+edfe
+2 2
+ed
+1 4
+f
+6 6
+ddffde
+5 9
+dfdfe
+5 8
+fdffe
+3 5
+fef
+7 2
+ddefdde
+1 7
+e
+3 10
+ddf
+1 8
+d
+6 4
+eedfef
+1 5
+e
+1 6
+f
+1 3
+e
+3 1
+efd
+3 9
+dde
+2 9
+ff
+6 10
+edeffd
+2 6
+ed
+5 10
+fdffe
+2 2
+fd
+3 7
+edf
+4 4
+ffef
+2 5
+fd
+1 9
+d
+2 6
+ed
+4 10
+ddef
+5 10
+eedff
+2 7
+ef
+5 3
+eefde
+2 4
+fe
+7 4
+efeeddd
+7 5
+efeedde
+7 3
+edeeffe
+3 2
+dde
+4 4
+dfde
+4 6
+efdf
+7 4
+edddddf
+6 7
+ffefee
+3 6
+dfe
+5 4
+fedde
+4 10
+dfef
+1 6
+e
+3 10
+fdd
+5 9
+ffded
+7 2
+ddffefd
+7 9
+dfdfffe
+7 9
+dffeeee
+3 5
+dee
+4 10
+feed
+3 2
+eee
+1 5
+d
+6 8
+dfdeff
+3 7
+efe
+3 10
+fdd
+3 7
+efd
+1 4
+e
+5 7
+edefd
+4 9
+feff
+5 7
+efeef
+7 9
+defedfe
+4 1
+efed
+7 10
+ddfdded
+3 5
+efd
+7 3
+dddfdde
+2 10
+ef
+5 7
+fffee
+2 7
+ee
+4 3
+eede
+4 5
+eded
+4 8
+ffff
+6 2
+ffffde
+6 3
+deeddd
+3 3
+ffe
+6 7
+edfedd
+5 5
+efddf
+1 1
+e
+5 2
+dfded
+5 2
+feffe
+3 4
+ddf
+5 7
+deddf
+3 4
+fde
+6 9
+ffddff
+1 8
+d
+4 1
+feff
+7 5
+fefddef
+7 1
+fddfdee
+4 5
+ffdd
+2 1
+ff
+2 5
+ff
+2 8
+dd
+5 5
+ddfdf
+7 1
+ffdfefe
+4 9
+ddef
+5 10
+dfdff
+4 9
+fdee
+3 8
+fef
+7 5
+feeedee
+6 7
+eeeedf
+2 10
+ef
+1 5
+d
+7 4
+eefeede
+5 2
+fefef
+2 9
+ee
+3 6
+fee
+6 9
+dfefdf
+3 6
+fdd
+6 9
+ffefdd
+3 5
+eef
+1 4
+e
+6 1
+deffef
+1 10
+f
+5 9
+ffeee
+1 2
+e
+7 5
+ffffdff
+1 6
+d
+3 7
+def
+2 10
+ee
+4 6
+dfff
+3 6
+fde
+2 6
+ed
+1 7
+d
+4 7
+dfdf
+7 8
+ffdeeef
+3 3
+fed
+2 6
+ff
+6 5
+feeedf
+1 1
+e
+3 6
+eff
+4 8
+ffed
+1 4
+f
+5 5
+ddefe
+5 9
+edede
+1 2
+d
+5 9
+dddee
+7 8
+fdfffed
+2 3
+df
+2 9
+ef
+3 3
+dfd
+7 9
+fdfeefe
+1 8
+f
+5 9
+edfde
+3 5
+efe
+6 6
+edefee
+7 3
+efdeefd
+7 8
+dfedeef
+5 8
+fddff
+5 5
+ffdde
+2 9
+ff
+3 9
+fef
+1 4
+d
+1 4
+d
+7 8
+efdefff
+1 3
+e
+5 9
+fffee
+4 1
+ffff
+4 5
+fded
+2 1
+ff
+1 2
+e
+2 1
+ff
+3 5
+fdd
+6 1
+ddfeff
+5 3
+eeedd
+3 4
+fee
+6 1
+ddddfd
+4 6
+eefd
+7 8
+efedddd
+2 4
+dd
+6 9
+efefde
+2 3
+ed
+1 7
+f
+6 7
+eddddf
+7 10
+deedfdd
+6 7
+fefddd
+3 1
+dff
+5 2
+eeeef
+2 8
+ed
+1 8
+f
+2 7
+ff
+1 6
+d
+5 1
+efddf
+1 7
+e
+3 7
+def
+1 3
+e
+5 3
+effff
+3 3
+fdd
+6 5
+dedfde
+7 1
+dffedff
+5 5
+efdfd
+6 1
+fffdfe
+6 10
+dfffed
+7 9
+deeedfd
+3 7
+fde
+2 1
+fe
+4 9
+eeed
+1 9
+e
+6 8
+fffdde
+6 10
+efdffd
+7 5
+fddfefd
+2 5
+fd
+7 2
+edfedfd
+2 4
+ed
+7 7
+dddfedd
+2 8
+fe
+2 1
+dd
+2 1
+ff
+6 7
+dddfff
+7 10
+eedfdfe
+6 5
+dfeede
+1 7
+d
+3 10
+fee
+1 2
+e
+7 4
+dfdedff
+1 3
+f
+7 5
+deffedf
+5 6
+dffff
+4 1
+fddf
+2 3
+fd
+5 2
+edffd
+6 9
+fefffd
+4 3
+fddf
+7 10
+eeddfdf
+4 3
+ddde
+2 8
+df
+6 4
+efdfee
+4 9
+dfde
+5 9
+fedff
+6 7
+edfefd
+6 2
+edffde
+6 6
+dededd
+1 5
+d
+6 3
+edfefe
+1 8
+e
+1 2
+d
+4 1
+feef
+2 9
+ef
+3 7
+efe
+6 5
+ddddef
+4 9
+deff
+2 3
+ff
+4 7
+dede
+2 2
+de
+6 5
+dddeff
+7 7
+fdddfdf
+5 4
+edffd
+3 2
+eef
+3 8
+fff
+5 7
+fefdf
+2 9
+df
+7 3
+eeddede
+3 10
+ddf
+7 3
+edeffee
+7 1
+effeedf
+6 8
+eeedee
+3 1
+efd
+2 2
+ee
+6 7
+ffdede
+2 2
+ee
+1 8
+d
+4 10
+fded
+4 6
+edee
+6 3
+defddf
+5 8
+ffdfe
+7 5
+eeeefdd
+2 1
+dd
+4 1
+ddfd
+2 5
+ee
+3 2
+ddf
+2 8
+ee
+3 1
+ffe
+6 10
+efdffe
+5 9
+ddedf
+7 3
+ddefefd
+2 3
+df
+5 2
+ddfdd
+3 3
+eee
+4 2
+ffff
+6 4
+ddddfe
+6 10
+effeed
+6 5
+ddefde
+6 8
+defefe
+2 6
+fd
+2 10
+ef
+2 8
+dd
+5 1
+dfdfe
+1 7
+f
+6 10
+deffef
+6 5
+dfddde
+3 1
+fdd
+5 7
+efeef
+1 8
+f
+7 10
+edffeef
+2 10
+dd
+1 5
+d
+2 2
+ee
+3 6
+fde
+4 5
+edef
+4 3
+edfd
+6 6
+fffdff
+7 7
+ffdffed
+5 5
+fedfe
+5 8
+eedfe
+6 10
+feffdf
+1 8
+f
+2 5
+fe
+4 6
+eefd
+6 4
+dddded
+7 3
+fdefedd
+7 8
+deffedd
+6 4
+eeddff
+4 7
+fded
+5 3
+ffdef
+6 10
+ededee
+2 6
+de
+4 9
+ffed
+7 4
+eddfdff
+7 7
+eddffee
+2 3
+ee
+7 1
+effdfdd
+3 6
+efd
+4 5
+edfe
+3 5
+dfe
+6 2
+defeed
+7 1
+efeedff
+5 4
+fdfed
+3 10
+ded
+5 8
+feede
+3 1
+ffd
+2 9
+ed
+5 8
+effdd
+5 10
+fedde
+6 5
+edfdfe
+7 4
+effedfd
+7 5
+dffdedf
+4 5
+ffde
+4 6
+fffd
+4 9
+edff
+1 3
+f
+1 6
+d
+1 9
+f
+2 8
+ee
+6 7
+fffeed
+1 6
+e
+6 5
+defeee
+5 8
+dfdfe
+4 2
+dffd
+1 7
+d
+7 10
+ffffede
+6 1
+efeddd
+4 4
+dded
+1 1
+d
+3 3
+dfe
+7 4
+eddfedd
+4 7
+dfde
+6 3
+defffe
+6 2
+fdeddd
+7 3
+eedfdde
+3 9
+fde
+2 4
+dd
+6 4
+eeedde
+3 8
+eff
+5 5
+dedff
+6 5
+efddfd
+2 6
+ef
+4 5
+defe
+1 1
+f
+2 6
+ef
+5 5
+efdfe
+1 1
+e
+6 7
+fdddfe
+3 8
+ffd
+1 7
+e
+3 2
+fdf
+6 1
+ddfedd
+1 4
+f
+2 7
+de
+4 4
+dffe
+2 9
+ee
+7 2
+dffefff
+3 3
+dfd
+4 8
+fdfe
+2 7
+ee
+1 6
+d
+7 8
+eefffef
+7 2
+ffedeee
+4 10
+ffff
+5 9
+fdffd
+4 10
+fede
+7 7
+ffddfde
+7 3
+ffefdff
+2 5
+ef
+4 7
+edee
+4 1
+effe
+7 4
+deedfff
+6 10
+eedeff
+3 9
+eed
+7 3
+eddeede
+3 1
+fee
+3 3
+eff
+6 5
+eddefe
+1 10
+e
+5 7
+ffdfe
+5 10
+efede
+6 3
+eeddff
+3 9
+ddf
+1 8
+f
+7 3
+edddded
+4 5
+ddde
+5 9
+edede
+3 3
+fdd
+3 1
+ede
+6 9
+fedefe
+7 5
+ffedfff
+2 6
+df
+6 5
+deeeed
+4 4
+eedd
+7 7
+fdeefdf
+5 4
+fddde
+1 7
+f
+7 9
+edeeded
+5 2
+feeee
+3 3
+ffe
+6 1
+feeffe
+3 7
+ded
+6 2
+dedddd
+6 5
+dfdeee
+7 9
+fedddef
+7 8
+deefdee
+5 2
+feeee
+7 3
+ddfefed
+6 3
+fdfffd
+6 2
+ddefde
+6 4
+eedded
+1 4
+e
+6 6
+efdfdd
+5 7
+efefd
+4 5
+fdde
+6 9
+dddfdd
+6 8
+efffee
+1 8
+d
+1 5
+d
+5 2
+ddeee
+2 10
+fe
+5 5
+fdded
+2 3
+de
+1 10
+f
+2 10
+ed
+2 1
+ef
+2 9
+fd
+7 2
+eeeeeed
+7 8
+effedee
+1 9
+f
+6 2
+deedfd
+5 10
+edeef
+1 1
+d
+6 8
+fddddd
+6 1
+dfedee
+7 1
+fddeedd
+2 10
+fe
+2 9
+ed
+7 3
+ffefdff
+3 3
+ddf
+5 6
+efddf
+3 4
+def
+4 1
+deed
+1 10
+e
+6 4
+dfedff
+7 6
+eededee
+5 2
+fddee
+3 2
+fde
+6 2
+eeedef
+7 8
+dffeddf
+6 8
+ddddff
+7 6
+dffdddf
+5 1
+eefdf
+4 6
+fdde
+3 6
+edd
+6 8
+edfeee
+6 4
+deeddf
+6 8
+fedfdd
+7 4
+ffeddfd
+5 4
+dfefd
+4 5
+ddfe
+3 8
+dfd
+1 2
+f
+5 8
+feddd
+7 6
+deeddff
+5 1
+deded
+4 2
+fffd
+4 9
+dddd
+2 7
+ed
+4 5
+deff
+2 2
+fe
+5 5
+efffe
+5 8
+ddffd
+7 10
+eedefed
+5 6
+eedee
+2 5
+dd
+1 3
+f
+4 6
+ddef
+6 8
+efedde
+7 2
+eedddff
+6 5
+eddfef
+2 9
+ee
+1 5
+f
+3 1
+dfd
+7 7
+deddeee
+2 6
+ed
+4 4
+ffef
+1 1
+d
+6 9
+fdffee
+7 9
+dfddfef
+7 6
+ffdeede
+2 2
+ef
+3 2
+def
+7 4
+edfeffe
+1 5
+f
+5 8
+fdedf
+4 7
+fdee
+3 3
+fee
+5 7
+dfeef
+7 2
+ffddfde
+1 5
+d
+2 2
+df
+4 6
+fede
+3 2
+ffe
+2 6
+fe
+4 9
+fffd
+4 2
+fefe
+1 5
+d
+5 7
+ffdfd
+7 5
+ffdffef
+3 3
+edd
+1 9
+e
+1 4
+d
+6 2
+feedef
+4 1
+dfed
+7 9
+efdedfd
+6 4
+dfedde
+3 2
+efd
+3 5
+ffe
+6 9
+deeded
+5 3
+ffffd
+7 5
+edeeefe
+7 5
+eedefdf
+4 10
+efde
+6 5
+ddffdd
+5 6
+dffed
+5 1
+dffff
+2 6
+fd
+2 9
+fe
+5 3
+ddede
+5 9
+dfefd
+2 1
+ee
+7 3
+edfedef
+1 6
+f
+6 5
+dfddfd
+3 1
+dfd
+1 3
+f
+6 7
+edddfd
+6 5
+ddfdfe
+2 9
+df
+5 9
+eedfd
+4 7
+ffed
+2 5
+ed
+1 8
+f
+5 2
+dedef
+6 8
+fefdfd
+5 10
+edede
+4 9
+ddff
+3 4
+ded
+3 5
+eef
+5 6
+deeee
+3 3
+dfd
+1 9
+e
+2 2
+ee
+3 3
+ded
+5 7
+fddfd
+4 5
+edde
+4 3
+edfd
+3 6
+ede
+6 8
+ffefdd
+3 3
+fee
+1 6
+d
+6 7
+edfded
+1 9
+f
+5 10
+deded
+2 6
+de
+5 2
+deedd
+2 8
+ee
+4 1
+deee
+4 1
+fedd
+7 6
+fffeedf
+7 7
+defefed
+5 5
+efedf
+2 2
+ed
+1 4
+e
+2 3
+dd
+3 3
+fed
+4 7
+feef
+2 8
+df
+6 1
+effedd
+2 10
+fe
+6 2
+dfdfdd
+4 2
+eefe
+3 3
+efd
+3 1
+dff
+6 10
+fdddff
+7 8
+fedeeed
+1 8
+d
+2 10
+ef
+4 9
+fded
+6 7
+dfdefd
+6 2
+efedde
+6 4
+fdeede
+6 10
+fedfdf
+7 2
+effddee
+2 3
+ef
+2 4
+fd
+6 8
+ddddef
+4 9
+eded
+5 1
+ddfff
+5 3
+ddeed
+3 2
+fee
+4 7
+deef
+3 5
+eff
+6 6
+fdfffe
+3 10
+eff
+6 1
+deedee
+5 7
+efddd
+3 3
+eff
+2 9
+fd
+5 5
+fddfd
+5 7
+defdf
+5 10
+fdddd
+3 9
+dee
+3 9
+fde
+3 8
+eef
+2 10
+ed
+2 8
+ff
+6 10
+fefede
+5 4
+dfdfe
+7 8
+ddedddd
+3 9
+fed
+1 2
+f
+3 1
+ddd
+1 2
+d
+7 4
+ffdffef
+7 1
+ffeefed
+5 7
+dfedd
+4 9
+feee
+6 5
+efeedd
+6 9
+ddfefe
+1 4
+e
+4 3
+fdff
+3 7
+dfd
+7 3
+ddfeede
+2 3
+de
+6 6
+ededff
+3 6
+ede
+4 4
+fdff
+2 4
+df
+1 2
+e
+6 6
+eeedef
+4 7
+feed
+7 1
+fdeeeef
+1 8
+d
+4 2
+fffe
+2 9
+df
+1 1
+e
+7 10
+eedffee
+3 4
+efe
+6 10
+fdfeed
+5 4
+ddeff
+4 2
+eeed
+2 6
+ff
+4 5
+edef
+5 8
+dddfe
+5 6
+edefd
+6 1
+eefeef
+1 3
+f
+7 8
+feeeefe
+1 8
+e
+2 9
+df
+4 8
+dded
+5 5
+edeef
+5 8
+ddfed
+6 1
+ddfddd
+7 2
+eddeddf
+6 8
+efdeee
+1 3
+f
+6 2
+fefedf
+7 2
+fdeeded
+1 5
+d
+7 7
+eeddefd
+7 2
+fdefddf
+7 2
+fddfdee
+4 9
+ffed
+3 8
+ffd
+3 9
+eff
+3 2
+fef
+1 2
+f
+3 8
+ded
+1 7
+f
+2 8
+fd
+3 8
+edd
+7 2
+feffeef
+1 4
+e
+7 3
+defedfe
+2 2
+ee
+6 4
+feedef
+7 1
+ddfedde
+6 4
+feefde
+1 6
+e
+4 8
+dfde
+1 7
+f
+2 2
+ed
+7 6
+deeedfd
+5 9
+fffdf
+4 1
+fedf
+5 9
+efedd
+4 9
+fffd
+1 6
+f
+1 2
+f
+2 5
+ef
+3 8
+edd
+2 10
+fe
+1 7
+f
+4 8
+efdf
+5 2
+edeed
+3 3
+dfe
+5 4
+feded
+5 4
+deffd
+1 4
+e
+6 3
+dffeef
+5 9
+fdfdf
+4 9
+ddff
+6 5
+efedff
+1 8
+f
+3 10
+eef
+4 10
+dddf
+6 6
+edefdd
+3 6
+fdd
+6 2
+efdffe
+2 4
+ee
+2 1
+de
+2 10
+dd
+7 3
+edefefd
+3 8
+dff
+3 10
+dfd
+5 2
+dfddd
+7 6
+dfeddfd
+2 9
+ef
+4 6
+edff
+3 1
+dff
+1 6
+e
+2 6
+ef
+7 6
+ddedefe
+1 9
+f
+2 1
+dd
+1 8
+f
+5 10
+ddeef
+1 9
+d
+3 6
+efd
+1 1
+f
+6 7
+fedfdd
+6 3
+efffee
+4 9
+eddd
+6 2
+ddefdf
+7 6
+eeffedf
+3 10
+eee
+5 3
+fdedf
+1 7
+f
+4 9
+efed
+5 4
+eddfd
+1 2
+d
+1 10
+f
+2 9
+dd
+4 7
+deed
+7 8
+efeeefd
+5 5
+deddf
+3 1
+dff
+6 3
+eefded
+7 7
+ddedfee
+3 7
+def
+4 9
+dded
+4 2
+fefd
+1 6
+d
+6 8
+dfdfde
+3 2
+eef
+3 10
+fde
+3 6
+dfe
+5 5
+efefd
+3 9
+edd
+7 4
+efdddee
+3 7
+ede
+5 8
+ddefd
+5 5
+fefed
+5 2
+dedde
+5 4
+dddff
+1 3
+d
+5 5
+edfdd
+5 3
+deded
+4 8
+deef
+3 3
+fee
+1 4
+d
+1 7
+f
+1 10
+f
+4 5
+eddf
+5 2
+ffffd
+3 6
+ddf
+5 3
+ffdef
+6 5
+eddedd
+4 2
+dfde
+6 1
+fdddee
+1 6
+d
+5 7
+dfddd
+2 2
+ef
+7 3
+ffeefdd
+3 7
+fed
+5 6
+ffdfd
+3 3
+fdd
+1 6
+f
+1 5
+e
+5 1
+fddff
+1 7
+d
+2 1
+df
+1 2
+d
+7 5
+dfeffee
+3 3
+ffe
+4 7
+eefe
+6 10
+eefeed
+5 1
+efedd
+2 2
+ed
+1 5
+e
+3 2
+dfd
+2 8
+df
+6 4
+fdedef
+6 9
+dffedd
+5 4
+eeddd
+1 6
+d
+3 9
+dff
+3 3
+dfe
+1 6
+d
+7 10
+fdfffde
+2 8
+ff
+7 1
+dddeeef
+1 7
+e
+5 3
+eddfe
+2 10
+dd
+5 5
+dfeed
+7 6
+edffefe
+5 3
+fedef
+3 3
+eff
+7 5
+deedede
+3 3
+eee
+2 7
+ff
+2 8
+df
+2 8
+de
+3 8
+fdd
+6 3
+eedefd
+7 2
+dfffddd
+6 8
+ddedfe
+4 3
+dfed
+6 7
+fdedee
+2 3
+fd
+1 3
+d
+5 10
+eeefe
+3 2
+efd
+1 1
+d
+5 5
+dffee
+7 9
+ddffede
+4 1
+feef
+4 8
+effe
+2 2
+df
+6 9
+feddef
+2 10
+fe
+5 3
+dfffe
+3 1
+eed
+4 1
+eefd
+2 6
+fe
+7 3
+fdeefdd
+7 8
+ddefdde
+6 10
+ddddff
+2 5
+fd
+2 5
+dd
+3 2
+fdf
+1 4
+e
+2 5
+de
+3 8
+edd
+4 8
+fefd
+4 6
+fdfe
+3 4
+edd
+2 3
+ff
+6 4
+eefedf
+2 9
+dd
+6 6
+efedee
+3 5
+ddd
+6 2
+ddefed
+7 7
+fefdefd
+2 8
+df
+7 4
+fdefffd
+5 6
+dfded
+2 4
+dd
+6 6
+eedfde
+3 8
+fef
+2 3
+ef
+3 10
+def
+2 5
+ee
+2 5
+ef
+5 3
+fdeef
+4 3
+eede
+1 7
+d
+2 9
+dd
+5 10
+dffff
+7 9
+eeeedee
+2 1
+de
+1 1
+d
+1 1
+d
+4 10
+fdfd
+2 7
+fd
+4 8
+fddd
+5 2
+efeff
+7 2
+fededed
+6 1
+efeddf
+7 4
+defdfee
+2 2
+dd
+4 8
+dede
+5 1
+effff
+4 3
+ffee
+6 5
+fdefdd
+1 1
+d
+1 1
+e
+4 3
+dfef
+2 7
+dd
+1 3
+f
+4 7
+dfff
+7 7
+deeeeed
+2 3
+fd
+7 7
+fdeefed
+4 3
+fedd
+1 5
+f
+6 6
+feefed
+5 10
+ddede
+3 2
+dee
+5 6
+dfdef
+4 7
+dfee
+1 8
+d
+4 1
+ddff
+4 1
+eeed
+7 8
+eefeeff
+2 7
+de
+5 6
+fedff
+5 7
+fffef
+2 5
+ed
+6 1
+fedeee
+2 4
+ed
+6 3
+fedfdd
+1 4
+d
+1 6
+f
+4 7
+efdd
+3 2
+dfd
+3 10
+fed
+5 9
+defde
+4 8
+effd
+7 7
+edffeef
+5 9
+defed
+2 6
+dd
+2 4
+fd
+1 10
+d
+7 10
+efeffdd
+4 10
+edee
+7 5
+edefede
+6 1
+efdedd
+2 1
+fe
+7 1
+fdeeffe
+4 2
+edef
+5 2
+efffd
+2 2
+dd
+4 6
+dfde
+1 1
+e
+3 7
+fff
+3 4
+fee
+2 5
+fd
+7 4
+dffdedd
+6 10
+fdefdd
+2 1
+ed
+1 2
+f
+3 6
+eed
+2 8
+ef
+7 9
+eedfedf
+3 8
+eee
+7 8
+eefdedf
+1 1
+e
+3 2
+ddd
+1 1
+e
+2 3
+fd
+1 3
+d
+2 8
+fe
+3 9
+eed
+2 8
+df
+4 9
+ddee
+5 3
+fdddd
+6 7
+eefeff
+5 9
+dfeef
+1 10
+e
+3 7
+ded
+7 10
+deffdee
+3 9
+dff
+3 4
+fef
+4 6
+ffde
+3 2
+fdd
+7 2
+fdeddef
+3 8
+eed
+2 7
+ef
+6 6
+ddeffe
+7 8
+eeefdef
+5 6
+edeff
+2 3
+ff
+2 5
+ef
+4 1
+edfd
+3 4
+eef
+7 2
+fdddffe
+4 9
+dedf
+7 9
+deddeed
+2 6
+df
+5 3
+ddfed
+4 4
+dfdd
+4 8
+feee
+7 5
+dfedfed
+1 10
+d
+2 7
+dd
+3 2
+fde
+7 7
+effdddf
+7 4
+fddedee
+3 9
+fee
+1 1
+d
+1 9
+f
+5 2
+dfddd
+1 9
+f
+6 4
+feefdf
+5 4
+ddfee
+6 2
+edddff
+7 6
+fffffed
+4 4
+fedf
+7 10
+edefdde
+6 9
+eedfdd
+6 8
+dededf
+1 10
+f
+6 5
+defeed
+5 8
+deedf
+3 3
+def
+3 1
+fef
+6 9
+dfedee
+5 5
+efffd
+6 4
+fddeed
+5 1
+efdff
+5 8
+edfdd
+2 9
+de
+3 10
+def
+5 1
+fdedd
+7 10
+dedfddf
+3 1
+ddd
+5 7
+ffefd
+1 10
+d
+3 8
+dfe
+6 10
+feeefd
+1 6
+f
+7 9
+dfeeedd
+1 10
+f
+2 8
+ef
+3 7
+dff
+7 8
+eedddef
+7 9
+dddefdf
+1 7
+d
+7 5
+edeeeef
+3 4
+fff
+4 4
+ddff
+2 9
+fe
+5 7
+ffefe
+7 9
+edefede
+2 7
+df
+7 7
+dfdfded
+3 6
+fdd
+2 6
+dd
+3 6
+ddf
+2 8
+df
+2 1
+df
+1 7
+f
+5 6
+dfeed
+3 1
+ffd
+1 2
+f
+4 9
+edde
+1 5
+e
+3 7
+fee
+3 1
+ede
+4 2
+ddfe
+1 10
+f
+2 8
+df
+6 3
+ddeedd
+5 6
+edddd
+5 6
+dfeee
+5 7
+dedde
+1 3
+f
+1 6
+e
+5 8
+efddd
+6 2
+ddddfe
+3 7
+ffd
+1 2
+d
+1 10
+f
+3 3
+dff
+2 3
+dd
+3 4
+fdd
+2 3
+ef
+7 10
+dfeddee
+5 4
+eddfd
+7 5
+effddde
+7 5
+effedfe
+6 9
+eedefd
+4 2
+effe
+4 10
+eddd
+7 10
+efeedff
+1 3
+e
+7 1
+eeeeeff
+3 4
+fff
+3 3
+eff
+2 9
+ee
+2 1
+ff
+4 6
+ffff
+4 4
+dfee
+6 1
+dffefd
+1 2
+e
+3 7
+fee
+2 9
+dd
+6 10
+deffef
+2 4
+fd
+5 8
+dfeff
+4 1
+effe
+4 3
+edef
+4 4
+edff
+4 2
+ffef
+5 6
+fedde
+6 3
+ffdfdf
+3 7
+ffe
+2 1
+ff
+5 6
+ffdde
+6 3
+ffefef
+4 3
+fddf
+5 10
+deefd
+6 10
+fedefe
+5 1
+dedfe
+3 6
+fed
+6 9
+dfeddf
+5 3
+fddde
+6 5
+dddfee
+1 9
+d
+5 9
+edefd
+1 2
+f
+3 10
+fef
+5 6
+effdd
+7 4
+ddeeddf
+5 6
+deefe
+6 3
+fdfeef
+4 6
+eeed
+6 2
+fdedde
+5 1
+effef
+3 1
+eef
+4 10
+fdff
+3 1
+fdd
+2 4
+ef
+2 5
+fd
+3 3
+ddf
+2 8
+ee
+7 4
+ddeffdd
+4 10
+dfed
+2 5
+fd
+5 10
+dffff
+6 4
+efedfe
+2 6
+de
+4 5
+dffe
+7 3
+feddefe
+7 8
+eeeefde
+6 1
+fffddf
+7 3
+dfeefdd
+5 3
+effdd
+6 1
+feefff
+6 4
+efffde
+3 1
+efd
+2 5
+ed
+6 5
+ddefde
+5 2
+defdd
+5 10
+eddff
+1 6
+f
+5 9
+efedf
+4 8
+fffd
+5 6
+effde
+7 6
+defeefe
+2 4
+ff
+3 1
+edf
+1 8
+e
+6 7
+deffef
+7 1
+efdfefd
+4 2
+ddff
+2 1
+ed
+3 9
+eee
+6 3
+ffffff
+4 8
+edde
+5 4
+edfdd
+6 2
+edeede
+2 1
+ef
+2 8
+ff
+1 9
+d
+7 2
+eefddfd
+1 10
+d
+1 9
+f
+1 1
+d
+7 10
+edfddee
+7 1
+defeffd
+1 3
+d
+6 4
+defedf
+1 6
+f
+7 3
+ffedddd
+1 10
+e
+1 3
+e
+5 6
+eefdf
+6 10
+dffefd
+6 10
+ddeded
+5 4
+effef
+3 3
+fdf
+6 9
+fffded
+6 4
+edfddf
+6 7
+efefed
+3 4
+eed
+1 1
+e
+4 1
+dffd
+4 2
+fdee
+6 10
+ddfffe
+7 10
+dedfeee
+4 7
+ffee
+2 6
+dd
+5 4
+dffee
+6 8
+dfeedf
+3 8
+eee
+3 8
+ddf
+5 3
+eddfd
+1 6
+e
+5 2
+ffffd
+5 10
+ddddf
+4 4
+fdfe
+5 7
+dfefd
+5 4
+ffdfe
+2 10
+fd
+4 4
+feee
+2 5
+dd
+3 9
+efe
+4 7
+eeef
+6 1
+fffffe
+6 2
+ddfdfe
+2 2
+dd
+6 5
+feeeee
+6 4
+fefeee
+5 1
+ddffd
+2 9
+ff
+3 1
+fef
+6 2
+ffffee
+5 7
+deeed
+7 3
+fdfdfdf
+7 9
+dddffdd
+5 5
+efffe
+6 8
+edefef
+2 1
+ee
+3 9
+dff
+3 10
+ffd
+7 5
+dedefed
+7 10
+ffedffe
+5 2
+eeeef
+1 1
+d
+6 10
+eeddde
+1 2
+e
+3 5
+dfe
+2 1
+ee
+5 7
+ddded
+7 6
+eededfe
+7 10
+dfddede
+7 7
+fefdddd
+1 7
+d
+6 6
+dfffee
+5 7
+eedff
+1 4
+e
+5 7
+fdddf
+7 2
+dfdeded
+7 6
+eddedde
+6 6
+dfdeff
+3 9
+ddd
+1 4
+d
+4 4
+eefe
+4 1
+eedd
+3 3
+def
+7 8
+dfefeee
+7 5
+dffeefd
+2 5
+ef
+5 8
+dffde
+5 4
+ffded
+5 2
+efdde
+6 7
+efefde
+6 2
+feedee
+7 8
+defffed
+3 4
+edf
+5 1
+edefd
+4 7
+edde
+2 1
+ff
+3 7
+ddd
+6 1
+ddfddf
+5 5
+fdeee
+4 3
+dddf
+2 4
+fd
+5 3
+ffdfd
+3 7
+dfe
+4 10
+feff
+3 4
+dfe
+1 1
+d
+2 4
+dd
+4 7
+eefe
+4 10
+ddfe
+3 10
+efe
+7 7
+feeeffd
+4 8
+feee
+2 2
+fd
+4 3
+dedd
+7 1
+feffddd
+2 2
+de
+1 5
+d
+4 10
+fffe
+7 3
+fffdefd
+1 5
+e
+1 7
+f
+5 1
+eddfd
+1 9
+f
+2 10
+fe
+1 8
+f
+3 4
+ffd
+4 3
+deed
+3 1
+eff
+7 9
+dedfdee
+7 10
+eddefef
+1 10
+d
+6 9
+dddffd
+4 9
+fdff
+2 6
+ee
+3 7
+dff
+2 10
+fd
+4 9
+ddff
+4 6
+edde
+3 9
+eef
+3 10
+edf
+2 2
+fe
+2 10
+ef
+7 3
+ffedfee
+4 5
+ffdf
+1 6
+e
+3 9
+dde
+2 5
+de
+3 2
+fef
+5 8
+dfffe
+7 2
+dffdefd
+2 1
+de
+7 6
+ffdffed
+5 10
+ddddf
+5 6
+efefd
+7 8
+efedfed
+1 5
+d
+4 6
+dfef
+7 3
+edfddff
+6 1
+edeefe
+4 7
+fffd
+5 5
+defff
+2 7
+fd
+6 3
+feffdd
+5 2
+edded
+2 7
+ff
+6 2
+edffdd
+5 1
+eefdf
+2 5
+fe
+1 9
+d
+4 4
+dded
+4 9
+dddf
+3 10
+edd
+5 8
+edefe
+1 3
+f
+6 4
+edfedd
+4 9
+ddef
+6 7
+dfefee
+1 2
+d
+3 6
+dff
+7 2
+dfefdff
+7 3
+ffdeeed
+6 9
+fffded
+6 5
+dffedd
+6 9
+fdeffe
+6 1
+fdefde
+4 6
+dfee
+6 8
+fdffde
+5 5
+fdfee
+4 10
+fdee
+6 4
+ededee
+5 1
+fefed
+2 2
+ed
+1 6
+e
+4 1
+defd
+5 10
+ddedf
+1 10
+f
+7 5
+feeeddf
+7 8
+fedddde
+2 4
+ed
+5 2
+eefdf
+2 9
+de
+1 5
+d
+7 8
+ddddede
+1 7
+e
+3 10
+ded
+3 8
+def
+3 8
+fff
+5 3
+ffefd
+5 5
+dffee
+3 5
+fdd
+3 7
+ede
+7 7
+eeefefd
+4 9
+ddee
+5 9
+ddded
+2 10
+fe
+7 1
+defdfde
+1 3
+e
+4 10
+dedf
+6 6
+effdee
+6 5
+ffffde
+4 5
+fedf
+1 10
+f
+4 2
+dfdd
+7 2
+eeffdfd
+1 9
+d
+4 8
+dfdd
+3 4
+dde
+5 3
+deeef
+1 1
+e
+6 3
+edeeff
+3 6
+fff
+1 2
+e
+7 6
+feeffef
+1 3
+d
+3 9
+ffd
+2 10
+de
+3 9
+dfd
+1 1
+f
+7 7
+fdfdedd
+5 2
+dfefe
+7 4
+dddfdee
+1 4
+d
+5 10
+feefe
+5 2
+dfdde
+3 10
+fdf
+7 7
+efddeff
+5 6
+edffd
+5 2
+dffed
+6 8
+eddefe
+6 4
+ffddee
+5 2
+feedf
+2 3
+ee
+7 3
+fedffee
+2 6
+df
+4 6
+ffee
+2 3
+fe
+4 9
+fddf
+2 3
+ed
+4 10
+efed
+1 4
+f
+5 2
+fedee
+3 10
+eef
+3 7
+eff
+5 2
+ffdff
+1 8
+d
+6 1
+edffdd
+7 2
+dddfeee
+4 2
+eeff
+6 5
+ededfe
+1 2
+d
+6 9
+fdedee
+5 3
+dffff
+4 2
+eefd
+7 3
+eedfded
+1 8
+f
+2 10
+ee
+6 8
+fefffd
+3 8
+fef
+6 4
+efffde
+3 3
+dde
+3 9
+eed
+1 7
+f
+5 1
+eeeee
+3 4
+fed
+6 6
+effffe
+4 3
+dfef
+6 3
+fffddd
+7 3
+efeeeed
+3 1
+fee
+5 7
+edddf
+3 2
+fde
+7 7
+fddefde
+1 2
+d
+3 3
+fdf
+6 2
+ffffee
+1 3
+e
+1 4
+d
+6 3
+ddffdd
+2 4
+fd
+4 9
+fded
+6 3
+feefed
+5 8
+ffdee
+5 9
+eefef
+3 6
+dff
+1 10
+d
+1 4
+e
+4 5
+fede
+1 10
+d
+3 6
+ded
+6 5
+eddfef
+1 6
+d
+4 8
+dfff
+1 9
+f
+5 5
+ffeef
+3 10
+dfe
+1 7
+f
+2 2
+ed
+7 7
+eddfdfe
+3 8
+ded
+3 8
+dff
+2 1
+ff
+6 2
+dffdfe
+1 5
+f
+4 9
+efed
+7 5
+fedefee
+4 3
+dddf
+2 3
+ee
+3 1
+ddd
+5 1
+dfdef
+4 4
+defd
+3 4
+fdf
+2 2
+dd
+1 2
+d
+1 5
+f
+1 1
+e
+2 10
+ef
+5 7
+eddff
+6 9
+dddefd
+3 10
+efe
+5 3
+efede
+3 6
+ded
+1 2
+e
+7 8
+defeede
+2 9
+df
+1 7
+e
+3 6
+eff
+5 10
+fddde
+6 9
+eeeede
+1 1
+f
+5 7
+eeefe
+5 2
+fefdf
+5 6
+dfdfd
+7 4
+efeffdd
+5 5
+dfdde
+2 2
+ee
+2 8
+ef
+7 6
+efdfeee
+2 3
+ef
+6 8
+eededd
+3 4
+fee
+4 9
+eefd
+1 3
+f
+4 3
+fdff
+1 7
+e
+4 8
+efde
+3 4
+dee
+5 7
+ddfdd
+7 6
+ddeffee
+7 3
+ddeeedd
+5 6
+ddffd
+6 4
+eedfee
+7 8
+ddddded
+4 3
+edee
+1 9
+d
+7 3
+dedffde
+4 3
+ffdd
+7 1
+feddded
+4 1
+ddde
+5 10
+feddf
+1 6
+f
+6 7
+deeddd
+2 1
+ef
+1 8
+d
+1 4
+f
+3 10
+ffd
+7 3
+fdeddff
+5 3
+fefee
+4 10
+dded
+5 5
+deded
+1 8
+d
+4 4
+fdde
+7 7
+fddeedd
+1 6
+f
+7 10
+ffededf
+1 9
+d
+5 9
+ddfdf
+5 2
+fffef
+5 5
+ddffe
+4 2
+dfff
+7 2
+fdeddde
+1 5
+d
+7 10
+edeeffe
+5 8
+fdfff
+1 5
+e
+3 8
+fff
+5 1
+fefef
+2 3
+dd
+3 4
+dff
+6 2
+fdedfe
+5 5
+edede
+7 5
+eeeffef
+3 3
+ddd
+1 7
+e
+1 2
+f
+7 2
+fffdefe
+1 4
+d
+4 1
+edef
+4 2
+eedf
+1 3
+f
+3 9
+eef
+4 6
+efdd
+1 7
+d
+1 8
+f
+7 2
+fddfded
+4 8
+fffe
+6 1
+fffeef
+3 9
+eff
+7 7
+dfffffe
+1 7
+f
+3 2
+fee
+2 10
+ef
+5 8
+fdded
+1 5
+e
+3 10
+eee
+2 7
+fd
+7 5
+ffdeffe
+5 5
+efdde
+6 9
+dfedee
+5 10
+defde
+7 3
+effffef
+3 2
+dfe
+3 10
+dee
+2 6
+ee
+1 1
+e
+3 1
+ddf
+2 5
+ee
+2 4
+de
+2 2
+ff
+1 3
+d
+1 2
+e
+1 4
+f
+3 9
+efe
+3 9
+ddd
+2 1
+fd
+5 6
+eeded
+1 8
+d
+3 6
+dfd
+3 8
+eed
+1 7
+d
+5 1
+dedde
+1 5
+e
+2 1
+fd
+3 3
+eff
+1 5
+d
+4 6
+feee
+3 1
+fde
+4 7
+edfe
+4 2
+fdee
+7 4
+dedddee
+2 8
+fd
+4 8
+fdfe
+4 1
+eeee
+6 1
+fdefdd
+7 4
+dedefff
+3 5
+eed
+7 2
+eefefde
+5 6
+ddded
+3 10
+edd
+7 5
+efddedf
+2 8
+ef
+7 9
+dfdeeed
+1 10
+e
+6 8
+efdfee
+1 6
+e
+7 9
+ddfefed
+6 9
+edeeef
+1 10
+d
+3 5
+ffd
+3 8
+fed
+1 4
+d
+1 5
+f
+6 1
+edefdd
+3 9
+fed
+5 8
+effdd
+3 6
+dfe
+4 7
+fefe
+4 7
+deee
+3 2
+ede
+4 3
+ddff
+3 7
+ddd
+2 9
+ed
+4 4
+feef
+3 4
+ddd
+7 8
+efefedf
+2 3
+dd
+1 1
+f
+2 6
+ff
+6 3
+dfeefd
+2 6
+fd
+6 1
+ffdffe
+6 10
+dfdeed
+5 10
+feddf
+6 5
+ddffed
+4 2
+efdd
+3 10
+def
+1 4
+e
+3 8
+efe
+5 7
+edded
+1 6
+e
+7 6
+feedded
+7 3
+dffeded
+6 4
+defdee
+6 10
+eedfef
+6 8
+eeeeed
+2 7
+ed
+3 3
+fed
+4 8
+edef
+3 6
+fdf
+5 1
+fdddd
+3 5
+fed
+6 10
+edddde
+3 6
+efd
+4 3
+edff
+3 7
+fdf
+1 3
+e
+2 5
+fd
+6 6
+deedef
+1 8
+f
+4 6
+dfdd
+4 2
+ffde
+7 7
+efdefed
+6 8
+fdfeef
+3 4
+fdd
+5 5
+fefde
+6 7
+fdfefe
+3 1
+fdd
+5 8
+edfef
+2 2
+fd
+2 1
+dd
+6 8
+feffde
+5 7
+fdfdd
+4 9
+dddd
+5 9
+ddefd
+1 10
+e
+7 2
+eefeefd
+7 8
+dfffdde
+6 8
+ffeede
+5 7
+fffed
+2 1
+fe
+5 4
+deedf
+6 7
+fdddef
+4 5
+dedd
+6 9
+efeeed
+1 9
+e
+1 7
+f
+5 10
+dedde
+6 4
+fffdff
+4 7
+dfde
+7 5
+dedfddd
+2 1
+ed
+3 9
+eed
+1 10
+e
+3 7
+eff
+6 4
+edfffd
+7 6
+fdfffff
+7 3
+dddddde
+4 2
+fddf
+1 6
+f
+4 8
+efde
+7 4
+eeffddd
+1 7
+d
+1 6
+d
+5 7
+efffe
+2 2
+ef
+1 2
+e
+5 9
+eefdf
+5 1
+ddedf
+3 5
+fee
+6 3
+feeeef
+4 6
+efef
+6 8
+ffefff
+3 8
+efd
+4 2
+eefe
+6 2
+defffd
+6 8
+eeddef
+4 7
+ddef
+3 1
+ded
+1 2
+d
+5 3
+efdfd
+6 1
+dffeff
+3 5
+dde
+7 6
+ddeedee
+7 7
+feeedde
+1 1
+d
+2 7
+de
+1 5
+d
+4 5
+fdfd
+6 9
+fffedd
+7 4
+ffeffed
+1 2
+f
+5 7
+edfee
+4 7
+eddd
+5 7
+feefe
+2 6
+fd
+4 7
+deff
+4 1
+efff
+5 7
+dffee
+2 6
+ef
+1 3
+e
+1 6
+d
+7 1
+fdfeeed
+5 4
+eeeef
+3 7
+eee
+3 9
+ded
+7 9
+fffddfe
+4 4
+deef
+2 5
+dd
+6 6
+fffedd
+4 10
+eeef
+5 6
+ffdef
+4 7
+eddd
+1 5
+d
+3 10
+fff
+1 8
+d
+5 3
+effed
+4 4
+efdf
+5 7
+eeeff
+2 7
+fe
+7 1
+eefddef
+5 8
+ddddd
+6 10
+feefdd
+6 10
+ffefdf
+5 9
+edefe
+3 9
+ded
+1 1
+f
+4 9
+fdfe
+7 10
+feffeef
+4 8
+dfee
+6 5
+feefdf
+6 6
+ddedff
+1 7
+e
+4 3
+dffe
+4 4
+fdfe
+4 5
+ddef
+3 6
+efe
+6 8
+effeef
+6 2
+dfeefe
+1 6
+f
+1 6
+f
+6 2
+eefeef
+6 4
+efdfee
+3 4
+fef
+3 8
+ddd
+4 2
+fefd
+5 9
+dfeed
+2 5
+df
+7 6
+dfddddf
+4 10
+fdfd
+7 6
+ddffffe
+4 3
+dded
+7 2
+eefdedd
+6 8
+dddede
+3 2
+fde
+6 1
+feffee
+4 2
+fffd
+6 7
+fedffe
+4 1
+dfed
+7 10
+dffffed
+5 1
+ffdfd
+7 6
+dffeddd
+5 1
+eedee
+6 3
+fffdde
+3 7
+ded
+1 2
+d
+3 2
+eff
+3 8
+ffd
+2 6
+fe
+1 3
+e
+7 9
+ddeedfe
+6 1
+feefdf
+1 6
+d
+2 5
+ee
+3 4
+fef
+7 8
+feefdef
+7 1
+fdddede
+2 1
+df
+1 3
+f
+7 8
+edefede
+1 5
+f
+6 6
+ddfffe
+2 2
+ff
+3 6
+fef
+6 9
+ffdeed
+6 7
+eddddd
+6 3
+edffed
+4 7
+eeff
+5 6
+eeddd
+1 6
+e
+1 4
+f
+1 9
+e
+2 3
+ee
+1 3
+d
+4 1
+efdd
+7 10
+edffeed
+3 8
+efd
+6 1
+eddded
+3 3
+ffe
+3 8
+dde
+6 1
+fdffee
+2 4
+df
+1 8
+d
+2 5
+dd
+5 10
+ffffe
+1 8
+e
+1 9
+f
+6 4
+dfdffe
+7 5
+fdddefd
+4 6
+defe
+1 9
+e
+6 4
+feeedf
+1 4
+e
+4 9
+dfff
+2 2
+ed
+5 4
+fdefe
+6 10
+ffeefd
+5 3
+defed
+2 5
+dd
+6 10
+ddefee
+7 2
+eefefed
+5 9
+fdffd
+1 6
+d
+3 6
+fef
+5 8
+ffeef
+6 9
+fdfdff
+6 4
+efffed
+1 1
+e
+6 10
+defddf
+7 7
+edeeffd
+1 7
+d
+6 5
+ddfffe
+4 5
+fdef
+3 2
+dde
+5 4
+efede
+7 8
+edefeef
+7 6
+ffeddde
+5 7
+dfffd
+4 2
+deed
+4 9
+efdd
+2 4
+de
+1 7
+f
+2 6
+de
+7 7
+fdeefdd
+3 3
+def
+4 8
+eedf
+1 5
+d
+6 9
+efedef
+3 9
+fdf
+2 7
+df
+5 7
+fddee
+4 10
+deef
+5 2
+ffedf
+5 5
+edeed
+6 4
+feeeed
+7 6
+effeedf
+3 3
+dee
+6 9
+ffffdd
+3 6
+fdd
+4 3
+efdd
+1 2
+f
+7 2
+effdfef
+5 3
+fffef
+1 10
+e
+5 9
+edffe
+5 5
+ddedd
+5 5
+eedfd
+4 7
+eedd
+2 6
+ef
+5 7
+dddee
+3 1
+eff
+7 3
+eddefef
+6 2
+efedef
+6 5
+eefede
+7 1
+dfddfff
+4 5
+feee
+3 3
+dff
+4 7
+edef
+5 3
+dfdee
+2 1
+dd
+2 1
+ef
+2 8
+ed
+6 7
+ddedff
+7 6
+feddfde
+4 3
+efff
+6 4
+eededd
+1 6
+d
+4 7
+ffde
+1 7
+d
+7 6
+effdfed
+2 3
+dd
+1 2
+f
+6 6
+dfddfd
+4 8
+fedd
+5 6
+ffded
+6 7
+ddfddf
+3 2
+fee
+3 2
+dfd
+1 2
+d
+1 9
+d
+2 5
+ff
+4 2
+ffed
+6 4
+efeeee
+2 9
+ee
+3 1
+ded
+6 4
+ffddee
+2 8
+ee
+4 10
+eede
+7 5
+efdfedd
+3 3
+ded
+5 1
+eefdd
+4 1
+eedd
+5 5
+eefde
+1 5
+e
+7 10
+effffef
+1 4
+e
+5 2
+eeefd
+2 4
+ee
+2 3
+ed
+6 6
+feffdf
+3 2
+edf
+1 8
+f
+7 5
+dddeddd
+5 3
+fddfe
+6 3
+ffdfef
+7 6
+deeeedf
+4 5
+fdfe
+6 6
+eedded
+3 5
+eee
+6 5
+deffff
+3 2
+ddd
+6 6
+efdefe
+5 6
+dfedd
+7 9
+fddfeed
+7 8
+efeeefe
+1 8
+e
+2 7
+ed
+2 10
+ef
+6 5
+eddede
+1 10
+f
+6 10
+feedde
+4 7
+dedf
+4 4
+fefe
+5 4
+eefef
+4 3
+effd
+1 1
+d
+4 10
+fedf
+3 3
+ddd
+5 7
+fddfe
+5 9
+dffff
+1 5
+e
+5 2
+fdfff
+2 9
+ff
+2 8
+fe
+5 1
+efede
+3 9
+dfe
+1 9
+e
+7 3
+eeffedf
+6 4
+dfefed
+7 6
+fdedfef
+7 10
+fddedde
+1 7
+e
+7 6
+eeddeee
+1 8
+e
+1 4
+f
+5 3
+effed
+5 7
+fffff
+4 9
+fded
+1 4
+e
+7 10
+feeefef
+5 1
+defff
+3 1
+eee
+4 2
+eeff
+6 9
+efefdd
+3 8
+dee
+5 1
+fffdd
+6 8
+ddefef
+5 10
+ddfdf
+2 9
+ff
+6 8
+fedfdd
+2 4
+dd
+4 9
+eeef
+2 6
+fd
+5 9
+fffed
+5 9
+fddde
+2 5
+df
+7 10
+efdedfd
+4 2
+dfdf
+4 8
+ffdf
+2 9
+dd
+1 10
+d
+3 1
+fed
+5 6
+efded
+1 4
+e
+4 9
+dfde
+3 4
+eee
+2 1
+fd
+2 4
+ef
+6 5
+ffdded
+5 9
+dfdfe
+7 1
+ededffe
+7 3
+ffffffd
+7 7
+eedfdef
+2 10
+ff
+5 4
+ffffd
+2 8
+ee
+2 8
+ed
+6 5
+eefede
+3 5
+edf
+4 4
+edfe
+1 10
+e
+3 3
+fff
+1 2
+e
+4 9
+deef
+3 5
+ddf
+2 2
+de
+7 8
+efdedfd
+2 2
+de
+6 8
+fdddfd
+7 4
+ffdefed
+2 7
+fd
+4 10
+dedf
+2 10
+ed
+6 3
+eedede
+4 3
+edfd
+6 5
+efffee
+3 10
+fdd
+5 5
+dfdee
+5 2
+efefe
+6 4
+efeeff
+6 2
+efffed
+4 4
+fdfd
+4 10
+fdfd
+7 10
+defdedf
+1 4
+d
+2 1
+de
+6 4
+feeeed
+4 1
+efef
+6 6
+dedfdf
+3 8
+edd
+2 5
+ef
+3 7
+ede
+1 3
+e
+6 7
+deffef
+4 3
+fdee
+2 7
+ef
+7 4
+eedeefd
+1 5
+f
+4 10
+deff
+2 8
+dd
+5 8
+effee
+3 2
+eed
+2 6
+dd
+5 1
+ddeee
+7 9
+efdfdfe
+7 1
+effffff
+5 9
+defed
+6 3
+eeddfd
+2 5
+ed
+6 7
+eeedff
+2 5
+ed
+1 5
+d
+7 8
+fffffee
+3 6
+fdd
+5 1
+dddfe
+4 7
+eeed
+7 1
+edddeed
+4 4
+defd
+3 2
+fed
+6 6
+fdedfd
+4 4
+dfdd
+3 1
+eff
+5 9
+edefe
+6 7
+ffffdd
+6 9
+fefeed
+1 1
+d
+4 7
+eded
+5 6
+fedfe
+7 2
+ffdedee
+6 4
+ddfddf
+5 9
+fdffe
+7 4
+ddeedff
+5 3
+fdded
+7 1
+edddeff
+2 10
+ee
+4 3
+dfef
+6 3
+dddddd
+4 1
+dffd
+4 6
+ffff
+6 1
+fddeee
+5 9
+edeed
+5 2
+fdefd
+3 7
+fdd
+6 7
+fffffe
+1 1
+f
+5 3
+ededd
+5 2
+efdef
+6 5
+ffdddf
+1 3
+e
+7 6
+eddddfe
+3 6
+dff
+1 6
+d
+1 1
+d
+5 3
+ddfee
+5 8
+ddeef
+7 3
+fdfdfed
+2 7
+ed
+7 6
+fefdede
+6 4
+ffddfe
+5 1
+eeefe
+1 1
+f
+1 3
+f
+1 2
+e
+1 6
+e
+6 3
+ddddfd
+6 6
+fffedf
+4 8
+dfef
+7 10
+efeedef
+6 6
+ffdedf
+4 10
+feed
+6 4
+ffedff
+5 5
+fdfee
+7 6
+fddedfe
+6 8
+eedeff
+6 8
+eddddf
+1 6
+f
+1 5
+f
+2 4
+dd
+4 2
+fedd
+4 3
+ffff
+7 9
+ddddeed
+7 3
+ffdeddd
+7 1
+ddddfee
+7 9
+ffefedf
+2 8
+ef
+7 1
+fddffee
+5 3
+fdffe
+1 7
+f
+1 2
+d
+5 2
+fefde
+4 1
+dfef
+2 5
+df
+6 3
+efdeef
+7 10
+eddfddf
+1 2
+d
+4 7
+effe
+5 8
+eedef
+6 6
+ffdffe
+7 4
+eeedefe
+1 3
+d
+1 9
+f
+6 2
+dedded
+2 9
+dd
+7 1
+ddedfdd
+2 10
+dd
+2 2
+ee
+2 9
+de
+5 7
+effde
+1 9
+d
+7 9
+eeffddd
+6 10
+ddfeee
+7 1
+fddfedf
+4 1
+fedd
+2 6
+ed
+1 6
+f
+4 8
+eddf
+4 4
+ffdf
+5 8
+dddfd
+5 6
+fefed
+3 10
+dff
+7 5
+efddeff
+1 10
+e
+2 2
+dd
+7 8
+dddffdd
+5 9
+dffef
+7 1
+ffedffd
+4 5
+ffff
+6 10
+eeeddd
+3 5
+dff
+4 9
+eddf
+6 8
+dfedfe
+2 6
+ef
+1 9
+d
+1 7
+f
+3 4
+fed
+7 4
+deddefe
+2 5
+fe
+5 8
+eddef
+3 7
+ede
+6 5
+fddefe
+1 3
+d
+4 1
+ddee
+3 8
+fdd
+3 9
+ffe
+3 4
+ffe
+1 4
+d
+4 2
+eeee
+1 1
+d
+5 10
+eedfe
+1 5
+e
+5 8
+efefe
+1 5
+e
+6 4
+efeddf
+6 2
+dffffe
+4 10
+ffdf
+2 10
+df
+3 2
+ede
+2 9
+ee
+1 3
+d
+5 6
+eeefe
+7 2
+fedddfe
+5 10
+fefdf
+7 5
+deeeeff
+7 4
+dddfdfe
+7 1
+dfefede
+3 5
+fde
+4 9
+ddff
+6 2
+deedee
+7 6
+fedfdff
+3 4
+dee
+2 10
+ff
+7 7
+fffdddd
+3 8
+dfe
+3 4
+ffd
+2 6
+ff
+6 9
+ffdefe
+6 2
+eeffed
+6 9
+deeeff
+2 7
+fd
+6 3
+eeeffe
+4 5
+feee
+3 3
+ddd
+5 10
+edfff
+2 6
+fd
+6 10
+feedef
+6 9
+defddd
+6 9
+ffdedf
+7 9
+eededfe
+3 5
+ddf
+1 8
+f
+5 8
+dedde
+7 2
+ddeeeff
+5 1
+deeff
+2 3
+ff
+4 8
+ffed
+4 9
+effe
+4 2
+defd
+4 1
+edfe
+5 9
+fffdd
+5 3
+fdfdf
+1 3
+f
+4 4
+fffd
+4 8
+eeff
+5 6
+eeefd
+6 2
+eeeffe
+6 8
+deddff
+7 1
+fdefdee
+2 3
+fe
+6 7
+edddee
+1 4
+e
+3 1
+ddd
+6 9
+feedef
+7 10
+fdedded
+3 1
+dfe
+4 8
+edfe
+1 4
+e
+6 3
+edeeee
+4 8
+fdfe
+5 4
+dfdde
+1 2
+d
+6 7
+fdfded
+1 5
+d
+6 8
+eededd
+1 5
+f
+5 9
+dffff
+1 8
+f
+2 4
+fd
+4 7
+ffee
+7 7
+fffdfdd
+7 8
+efedded
+4 3
+dfdd
+3 8
+efe
+1 3
+f
+4 7
+efde
+5 8
+defdd
+7 5
+deffded
+2 6
+ff
+6 7
+fddfee
+7 8
+dddeeef
+2 9
+fd
+5 10
+effdd
+6 9
+fdffef
+6 8
+dedfef
+7 6
+fdfdffd
+1 4
+f
+5 10
+dedfd
+6 6
+dddefe
+1 10
+e
+2 7
+ed
+4 3
+fdfd
+7 1
+feefffe
+3 3
+efd
+6 2
+feddfd
+4 5
+effe
+3 9
+fef
+1 4
+d
+1 5
+f
+1 3
+d
+3 7
+fee
+1 7
+d
+5 2
+efddf
+5 6
+feeff
+6 2
+edeeee
+6 5
+deeefd
+3 10
+fee
+7 4
+ddfeddd
+6 2
+feedee
+6 8
+ddfddf
+4 7
+fdff
+4 8
+dedf
+7 1
+ffeefdf
+5 4
+defdf
+2 1
+fd
+4 4
+dedf
+1 9
+d
+6 7
+efedde
+2 1
+fe
+6 3
+eefdff
+4 10
+dfee
+3 3
+dff
+4 2
+efed
+4 10
+dded
+5 8
+efeee
+3 7
+fed
+2 10
+ff
+1 10
+e
+7 10
+edddeff
+7 6
+eeffeff
+1 10
+e
+5 10
+ddeff
+5 2
+edfdf
+2 3
+ee
+2 9
+ee
+2 2
+dd
+3 9
+ffd
+1 10
+e
+5 2
+fdedd
+2 5
+fe
+7 7
+ddeddfe
+5 2
+dfdfe
+7 5
+edddddd
+6 4
+feffef
+7 8
+ededffd
+3 5
+ffe
+4 8
+eefe
+7 4
+efdfdef
+6 8
+ffefdf
+4 5
+ffef
+2 3
+de
+6 2
+effdde
+7 3
+dffeeef
+3 3
+efd
+4 3
+edff
+3 6
+eee
+6 3
+ffdfef
+1 8
+f
+6 5
+dfdeed
+4 4
+eddd
+1 9
+d
+7 6
+dedeede
+6 7
+dffedd
+5 2
+ffefd
+3 6
+fdd
+5 2
+dfedf
+4 5
+eede
+4 10
+fdef
+1 10
+d
+4 6
+eedd
+5 1
+feefe
+4 8
+dfee
+4 1
+dfde
+3 6
+fde
+4 9
+dfde
+1 5
+f
+3 5
+eed
+7 4
+defdddf
+4 2
+ffff
+7 4
+ddeeefe
+4 6
+dfff
+7 10
+eefeddf
+3 3
+ffd
+4 7
+ffee
+3 9
+fdd
+4 3
+ffdf
+3 2
+fff
+1 2
+e
+1 9
+e
+2 10
+ff
+1 10
+f
+4 2
+effd
+2 10
+fd
+7 3
+ffefefd
+6 5
+dffded
+4 9
+ddde
+7 1
+fdddddf
+6 10
+feddfe
+2 9
+de
+5 4
+dfffe
+4 10
+defe
+2 5
+ff
+1 3
+f
+1 8
+d
+1 1
+f
+3 6
+efd
+5 9
+eedff
+6 1
+ddeffd
+4 1
+ffde
+7 1
+dfefede
+3 3
+fde
+2 2
+fd
+7 1
+ffdffef
+4 9
+edee
+4 2
+effd
+2 5
+df
+2 8
+dd
+3 7
+dfd
+7 1
+fdeefdd
+2 6
+df
+4 1
+edde
+5 3
+ffedd
+1 9
+f
+2 5
+ed
+6 2
+edfeff
+7 10
+feddfed
+5 4
+eefdd
+4 9
+deed
+3 9
+ddf
+7 10
+dddefee
+4 10
+fffd
+1 7
+d
+2 3
+fd
+7 7
+dffdfef
+3 5
+fee
+3 10
+ffe
+2 7
+fe
+5 2
+defed
+5 4
+dffee
+7 7
+defeffe
+6 4
+feddfd
+1 1
+e
+5 3
+efdde
+5 2
+fddde
+7 3
+edeeddd
+4 2
+fdff
+5 8
+eddfe
+5 1
+ffddd
+6 5
+dfefde
+1 8
+e
+3 4
+dfd
+2 8
+ed
+4 1
+deff
+6 4
+edeeed
+7 7
+effefef
+5 2
+feeef
+1 9
+e
+5 6
+dfffd
+2 1
+de
+3 6
+def
+4 7
+dedd
+5 1
+ddefe
+1 10
+d
+7 6
+fefffdf
+3 3
+efd
+7 2
+eddffff
+7 4
+effedff
+2 7
+ee
+1 10
+f
+5 5
+edffd
+4 1
+defd
+4 9
+eefd
+5 10
+deeef
+2 2
+fe
+3 6
+dfd
+2 8
+df
+1 4
+d
+5 9
+edeee
+7 7
+efdfede
+5 2
+deddf
+3 10
+efe
+7 1
+dddddfe
+6 5
+fefeed
+5 3
+deffe
+3 7
+efe
+1 5
+d
+6 5
+dfeefe
+2 3
+ed
+6 4
+fdfeef
+5 6
+fedee
+4 8
+ddfe
+4 1
+ffff
+6 8
+ddddef
+4 2
+fffd
+7 2
+efffedf
+7 6
+ddeddde
+3 1
+efd
+1 10
+d
+1 1
+f
+4 1
+feff
+3 3
+def
+2 3
+df
+1 4
+f
+1 5
+f
+3 7
+ddf
+7 6
+feeefdf
+6 10
+deedef
+6 7
+fefeed
+3 4
+efe
+3 1
+edf
+7 1
+ddefeee
+6 8
+efdeff
+3 7
+dff
+3 4
+edf
+1 6
+f
+6 1
+ddeffe
+4 6
+eeff
+7 3
+deededd
+4 7
+efde
+3 4
+ddf
+6 4
+effefe
+1 1
+f
+6 4
+ffffee
+7 7
+efeeeef
+3 7
+dfd
+7 3
+eddefff
+7 1
+feeddfe
+1 8
+e
+5 6
+edfed
+2 5
+ed
+2 1
+dd
+2 3
+ee
+4 6
+dddf
+6 1
+efdffe
+3 4
+fed
+3 6
+edd
+6 10
+dfdfee
+6 8
+efedde
+4 6
+eeed
+1 4
+f
+7 4
+fffeeed
+3 3
+ffd
+2 9
+ef
+2 7
+fd
+5 7
+eddff
+3 2
+fed
+4 7
+efde
+5 7
+eeedf
+7 3
+ffeeefe
+5 9
+fffde
+2 8
+df
+5 1
+fedff
+3 6
+eee
+5 10
+edfdd
+1 9
+e
+4 3
+dede
+5 6
+edddd
+3 8
+eef
+3 3
+edf
+6 2
+feddfe
+4 5
+efee
+5 1
+effdf
+1 9
+e
+7 1
+ddddfef
+1 6
+e
+6 10
+fddfde
+3 9
+fff
+4 6
+fddf
+4 8
+dddf
+4 1
+fdde
+5 1
+ededf
+5 3
+fdedf
+5 3
+ddfee
+4 2
+efdd
+3 9
+ded
+1 1
+f
+7 2
+dfffdef
+6 10
+eefeee
+3 9
+fff
+4 5
+ddee
+2 6
+fd
+6 7
+dedefd
+3 4
+fde
+7 8
+eeeeeee
+7 2
+effedfe
+4 3
+fffe
+6 8
+effdee
+1 2
+f
+1 4
+f
+5 8
+fdded
+6 1
+ffefdd
+2 7
+df
+2 4
+df
+4 6
+eeed
+2 3
+de
+2 5
+ff
+1 1
+f
+1 2
+e
+5 2
+dffed
+3 6
+ede
+3 6
+fed
+2 3
+ed
+3 9
+edf
+4 7
+ffef
+7 6
+feddfed
+6 3
+eefdfe
+5 7
+eefdf
+7 9
+fddffde
+4 5
+fefe
+7 6
+fddeded
+7 3
+fffffef
+5 6
+ddfef
+3 8
+dfd
+3 8
+fdd
+4 7
+edff
+2 6
+ed
+3 9
+dfe
+1 9
+e
+4 5
+efff
+6 8
+ffeddf
+1 3
+e
+4 4
+dffd
+1 2
+e
+7 4
+efeffef
+1 9
+f
+5 4
+effff
+1 2
+e
+6 2
+eddeee
+6 10
+fffffd
+7 3
+deffded
+5 9
+feffe
+3 7
+efe
+7 9
+effdfed
+6 10
+fdfdde
+4 6
+deef
+1 7
+d
+4 3
+fdde
+6 3
+ffdedf
+5 10
+fdddf
+7 5
+ffdedee
+5 7
+eeeed
+6 7
+fffded
+1 2
+d
+4 7
+fdfd
+2 5
+de
+2 7
+de
+5 8
+fddfe
+6 9
+eefdff
+7 10
+effedee
+3 2
+dff
+7 5
+ffeefdd
+2 8
+ee
+3 8
+edf
+3 10
+fde
+2 2
+ff
+1 10
+f
+5 10
+fdfee
+3 10
+dfe
+6 1
+efeede
+6 9
+ddeedf
+4 5
+dfff
+4 5
+feff
+2 1
+fe
+5 5
+dedef
+2 6
+fd
+7 5
+fedeffd
+6 7
+dfeeef
+3 1
+efe
+5 2
+dddef
+1 8
+f
+3 7
+eef
+7 3
+feddfed
+7 2
+dfeddde
+2 5
+fe
+7 1
+eddeedd
+5 7
+feeed
+4 6
+eded
+2 4
+de
+3 5
+ffe
+7 1
+fdefeff
+3 10
+ede
+4 4
+fffe
+1 1
+d
+2 2
+ed
+5 3
+efffe
+4 8
+effe
+2 7
+de
+3 10
+efe
+6 10
+ddfdde
+3 10
+edd
+6 8
+ddeefd
+1 10
+e
+6 5
+defedd
+2 6
+ef
+2 8
+fe
+1 6
+d
+3 5
+ddf
+2 3
+df
+2 4
+fd
+7 2
+ffeeded
+2 6
+ed
+4 4
+fefe
+2 9
+ee
+4 7
+ddde
+7 5
+eedddde
+6 5
+efffed
+5 10
+edded
+3 6
+ddd
+2 9
+ef
+1 6
+f
+6 1
+fefefe
+5 8
+efdee
+5 4
+dddde
+4 1
+fdde
+1 10
+f
+2 5
+df
+7 9
+dffeddd
+2 6
+ef
+7 2
+dfdfedf
+3 8
+dfd
+6 6
+defdef
+7 1
+efdfeee
+6 2
+dfdedf
+4 3
+fdde
+3 9
+edf
+2 2
+de
+2 3
+fe
+7 6
+deeefee
+2 8
+ed
+1 3
+e
+5 2
+fddfd
+4 10
+dfed
+4 5
+edee
+4 9
+ddfd
+4 2
+ddee
+1 5
+f
+5 8
+ffeff
+7 7
+dededff
+6 8
+ddeeef
+6 7
+edfeef
+2 10
+fe
+4 7
+edfd
+5 8
+efedd
+7 3
+edeeedf
+1 8
+f
+1 2
+e
+3 6
+ede
+1 2
+d
+6 10
+eddeed
+7 5
+fedefff
+7 2
+fdefeff
+4 4
+efff
+2 4
+dd
+4 2
+dfee
+2 3
+ff
+4 5
+eefd
+1 9
+d
+5 5
+eeeed
+5 7
+fedef
+2 6
+ef
+7 6
+effdeed
+7 2
+fffedff
+3 6
+ddd
+1 1
+f
+6 1
+fdeded
+5 2
+ffddd
+2 5
+de
+3 6
+fef
+5 9
+eeddd
+4 5
+defd
+1 8
+d
+3 7
+edf
+4 10
+defe
+6 1
+ffedfe
+4 2
+edfd
+4 1
+fffe
+3 10
+fff
+1 4
+f
+3 2
+fee
+7 2
+deefeee
+4 6
+deed
+5 7
+fdfde
+4 4
+dddd
+7 7
+ddfeefd
+1 5
+e
+1 3
+d
+6 6
+feddfd
+7 2
+fdfdfef
+4 9
+fdde
+3 1
+dfd
+3 6
+edf
+6 5
+eefeef
+4 2
+eddd
+7 7
+ffeefee
+7 1
+deffded
+4 9
+dfdd
+5 6
+dfddd
+4 6
+efef
+1 9
+d
+3 2
+eee
+4 3
+fedf
+6 4
+fefeef
+6 7
+ffdfff
+3 8
+ffd
+4 8
+efff
+5 2
+dffdf
+3 5
+fdd
+3 3
+fee
+6 7
+dffdff
+6 2
+efddef
+5 7
+defed
+6 6
+defefd
+7 8
+fdddeed
+2 10
+ef
+5 6
+ffeff
+1 8
+e
+3 8
+fee
+5 7
+ddfef
+6 8
+defdfe
+7 5
+fdeddee
+1 6
+e
+1 9
+d
+6 7
+deddee
+7 3
+dedefdd
+1 10
+d
+2 4
+ff
+3 8
+fdf
+4 1
+fddd
+6 8
+fededd
+7 3
+dfddddd
+3 1
+dde
+6 2
+deeefe
+3 5
+eff
+4 8
+fede
+2 10
+ff
+1 6
+d
+3 1
+eed
+3 9
+fdd
+4 8
+dedd
+5 7
+fdeff
+7 9
+ddeedef
+5 4
+dfdfd
+4 5
+efdf
+3 4
+fde
+6 2
+ddfefe
+3 1
+dfe
+6 5
+feedfe
+5 10
+ddefd
+5 9
+ddffe
+1 5
+e
+4 8
+efed
+5 5
+deedd
+2 3
+fe
+5 5
+ffefe
+3 1
+fee
+4 7
+dfdf
+7 9
+fedfeee
+2 4
+ed
+6 4
+dddfee
+2 10
+fd
+1 5
+f
+1 3
+d
+6 9
+fdffdd
+4 10
+eefd
+1 6
+e
+7 6
+fedfedf
+2 9
+ff
+1 2
+f
+5 10
+fdedd
+5 3
+feeff
+5 10
+efede
+6 1
+deefde
+2 3
+df
+7 8
+edfeedd
+4 3
+edfd
+7 10
+ffeeffd
+6 2
+eededf
+6 7
+dedffd
+2 8
+ef
+5 6
+ddfdf
+4 1
+efff
+4 8
+fdee
+1 9
+e
+5 2
+fdfff
+5 2
+ddfdf
+7 4
+fdffeff
+4 6
+effd
+2 7
+ed
+1 3
+e
+2 9
+fd
+2 9
+fd
+4 3
+dffe
+7 2
+defeedd
+5 1
+edeee
+4 6
+effe
+5 8
+fdfde
+6 5
+dfeedd
+5 2
+dfdfd
+1 6
+f
+2 8
+ed
+7 10
+eeddeff
+3 6
+ffd
+1 5
+e
+5 5
+effdd
+5 4
+dfddf
+2 9
+fd
+5 9
+eeeed
+3 5
+dff
+1 8
+e
+5 8
+efddd
+2 1
+dd
+3 9
+ffd
+6 1
+fdffff
+3 3
+fde
+1 6
+e
+3 5
+dff
+4 7
+dffe
+1 4
+f
+4 9
+dddf
+4 6
+edde
+4 1
+ddfe
+5 5
+fdefd
+4 5
+fdfd
+2 2
+df
+6 1
+dfeefe
+3 5
+fee
+1 5
+f
+1 1
+f
+2 10
+df
+5 7
+ddefd
+1 6
+f
+4 1
+efde
+2 3
+ef
+1 6
+e
+4 10
+efde
+4 5
+efed
+3 1
+ddf
+4 7
+eeed
+3 9
+dfe
+1 6
+e
+1 5
+f
+3 6
+fff
+4 5
+efde
+5 8
+eeddd
+3 10
+fff
+2 10
+ed
+7 3
+eeffedf
+1 10
+d
+1 3
+f
+1 6
+e
+5 6
+effed
+4 5
+dddf
+3 6
+fdf
+4 1
+ddfd
+5 10
+feffe
+7 8
+ededfef
+3 2
+eee
+4 8
+efff
+6 9
+eefdee
+3 5
+fed
+7 2
+efdefdf
+7 6
+fedfdde
+4 2
+ddfd
+2 5
+fe
+2 9
+dd
+3 5
+efd
+6 4
+dfeeed
+7 9
+eededdd
+2 5
+ff
+5 5
+eedff
+5 9
+deded
+1 8
+d
+7 7
+eeffddf
+3 9
+dff
+7 9
+ddfeeef
+6 10
+efdede
+5 7
+ffeef
+7 4
+efdffdf
+4 7
+fefe
+4 2
+dfdf
+4 6
+ffed
+6 5
+ddedef
+6 1
+ddfeed
+5 9
+edddf
+1 3
+e
+6 1
+ddfeff
+6 10
+eedeef
+1 9
+f
+1 4
+f
+3 7
+edd
+7 5
+ddeefef
+6 4
+eefffe
+1 8
+f
+2 10
+dd
+6 1
+defeee
+3 3
+edf
+2 4
+ff
+3 8
+eff
+6 5
+eddedd
+1 2
+f
+6 2
+eddded
+1 9
+f
+6 10
+eedeef
+5 3
+ddefd
+2 6
+ed
+3 9
+efe
+4 7
+eede
+5 9
+edfee
+4 5
+ffed
+3 3
+fff
+7 2
+eefddee
+4 1
+dffd
+7 10
+dedfede
+1 2
+d
+7 1
+effeffe
+3 2
+fed
+6 4
+edfded
+6 4
+deedef
+1 8
+e
+3 4
+fdd
+4 3
+ddfd
+3 1
+dfe
+1 6
+f
+2 6
+df
+3 9
+eee
+5 4
+fdedd
+3 2
+edd
+2 9
+fe
+5 10
+eefdf
+4 8
+dfef
+6 7
+eededd
+7 6
+efedefd
+3 1
+fed
+4 5
+fedd
+2 6
+ee
+4 9
+eeed
+1 7
+f
+1 4
+f
+5 7
+eddde
+6 7
+eefeee
+7 7
+fddffde
+4 2
+fdee
+5 3
+effff
+3 10
+ddf
+7 8
+dffffed
+4 7
+dded
+1 5
+d
+2 2
+ff
+3 8
+dee
+6 9
+dfdeed
+2 2
+ff
+6 9
+eeeeed
+5 6
+edded
+7 7
+edeeddf
+5 8
+dfeef
+7 7
+fdfdefe
+1 6
+f
+4 4
+dfff
+3 4
+ede
+3 4
+fee
+1 4
+e
+6 5
+edfefe
+5 6
+efddf
+4 8
+defd
+1 10
+f
+2 1
+ed
+5 5
+fdeed
+2 9
+dd
+7 3
+dfdfefd
+6 2
+edefdd
+3 2
+ffd
+1 8
+e
+2 1
+fe
+7 8
+fdfefef
+7 10
+eeeffdf
+2 2
+df
+2 7
+ff
+7 7
+eeedded
+6 3
+efedff
+7 10
+efdeeff
+7 9
+fdddfde
+5 2
+ffeee
+5 10
+fedde
+2 1
+ef
+2 2
+ff
+2 6
+df
+5 6
+efdff
+6 8
+eddfef
+2 3
+fe
+1 9
+f
+1 8
+f
+1 8
+d
+2 1
+fd
+7 5
+efefdef
+1 6
+d
+6 2
+eedfdd
+1 9
+d
+1 3
+f
+5 2
+feffe
+7 7
+dffefde
+2 10
+fe
+6 1
+fdefff
+2 10
+ff
+1 5
+d
+1 2
+f
+7 3
+ffdedef
+1 3
+e
+6 2
+deeffe
+4 10
+efff
+6 4
+efeefd
+2 5
+fd
+1 9
+d
+1 8
+d
+1 4
+e
+1 8
+f
+1 9
+f
+7 3
+fddefed
+6 3
+ffddff
+4 7
+dedd
+3 7
+eee
+2 8
+ee
+1 6
+e
+3 4
+ddd
+6 10
+ddedff
+6 3
+efeedf
+7 10
+effeedf
+4 1
+deee
+7 3
+efdfeff
+1 7
+f
+5 9
+eedee
+5 4
+eefff
+7 5
+eeeeedf
+6 6
+edffee
+5 2
+ddddf
+2 3
+ff
+3 3
+dff
+3 9
+dde
+3 1
+fff
+7 10
+ffdfedf
+6 2
+feddef
+4 10
+fefe
+7 1
+fddddee
+3 6
+ded
+1 2
+e
+6 1
+ffdfde
+5 1
+efdff
+2 7
+fd
+2 4
+ef
+1 5
+e
+6 10
+efffed
+4 6
+eefd
+2 8
+fd
+4 10
+deed
+1 2
+e
+6 4
+edfdff
+2 4
+de
+2 2
+de
+4 6
+efed
+6 3
+defdff
+7 3
+dddfffd
+5 6
+deddf
+1 7
+e
+1 6
+d
+1 6
+f
+4 2
+deee
+7 8
+eedfeed
+3 1
+fdf
+4 1
+fddf
+3 3
+dfd
+3 5
+dde
+5 3
+eddff
+7 1
+fefdeef
+3 10
+fff
+7 10
+fedfdfe
+7 8
+feeeede
+3 4
+dde
+3 6
+fff
+6 8
+fefeed
+7 8
+fffeede
+6 10
+ddeedf
+1 3
+f
+6 2
+defeee
+5 10
+dddef
+7 2
+feedddd
+7 10
+fdefeee
+3 4
+def
+6 9
+dededf
+5 5
+fdedf
+1 7
+e
+5 3
+efefd
+7 7
+dfddfdf
+1 6
+e
+7 4
+dffdede
+2 7
+de
+4 9
+ffee
+4 2
+defe
+6 1
+dfdefe
+5 2
+fddee
+5 2
+dfefd
+1 6
+f
+6 1
+dedfef
+4 3
+efdd
+2 5
+de
+6 2
+edfdfd
+1 4
+e
+1 1
+e
+1 10
+e
+4 9
+ddfe
+6 6
+ffeedd
+6 1
+fedddf
+7 3
+fddefee
+2 9
+fd
+4 3
+deff
+7 1
+defedff
+4 1
+eede
+6 10
+defede
+7 10
+efeeedf
+2 5
+fe
+4 10
+defd
+1 9
+d
+2 5
+ed
+7 1
+dfefedf
+6 4
+dedfdf
+5 9
+fedfd
+2 1
+de
+5 9
+fffdf
+1 10
+f
+5 10
+dfeed
+2 9
+ef
+7 2
+ddddfee
+4 9
+fdef
+4 9
+ddfe
+4 10
+dfdf
+1 6
+d
+1 2
+f
+4 2
+dddf
+6 2
+feedff
+4 3
+ddff
+4 10
+effe
+2 7
+de
+3 10
+ddd
+1 2
+e
+1 2
+f
+4 4
+fefe
+7 3
+dfeeeff
+3 10
+def
+5 5
+ddded
+1 10
+f
+2 4
+ee
+6 7
+ffedde
+3 7
+fde
+5 10
+fdddf
+3 8
+dfe
+6 9
+fffedf
+4 8
+efdf
+2 9
+df
+2 9
+fe
+4 2
+fdee
+4 5
+ffde
+5 10
+dfefd
+6 3
+feefef
+6 1
+defdff
+5 8
+ddefe
+7 10
+fdfdeed
+2 9
+df
+1 3
+f
+5 6
+eddff
+6 4
+edfefd
+6 10
+ddddef
+6 10
+fdddef
+1 10
+e
+1 3
+e
+7 7
+fffedfe
+3 4
+fff
