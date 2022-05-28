@@ -18,18 +18,19 @@ struct Test{
         qer.resize(m);
 
         forn(i, n) {
-            a[i] = v[i] = rnd.next(1, 1'000'000'000);
+            a[i] = v[i] = rnd.next(0, 1'000);
         }
 
         forn(iq, m) {
             int i = rnd.next(1, n);
-            int x = rnd.next(0, 1'000'000'000 - v[i-1]);
-            v[i-1] += x;
+            int x = rnd.next(0, v[i-1]);
+            v[i-1] -= x;
             qer[iq] = make_pair(i, x);
         }
     }
  
     void print() {
+        println("");
         println(n, m);
         println(a);
         forn(iq, m) {
@@ -42,25 +43,25 @@ int main(int argc, char* argv[]) {
     registerGen(argc, argv, 1);
  
     vector<Test> tests;
-    int T = 1;
-    int sum_n = 0;
-    const int MAX = 200'000;
+    int T = 0;
+    int sum_n = 0, sum_m = 0;
+    const int MAX = 100'000;
 
     int nl = opt<int>("nl"), nr = opt<int>("nr");
     int ml = opt<int>("ml"), mr = opt<int>("mr");
 
-    tests.emplace_back(Test(rnd.next(nl, nr), rnd.next(ml, mr)));
-
-    // while (T < 10'000) {
-    //     int n = rnd.next(nl, nr);
-    //     sum_n += n;
-    //     if (sum_n > MAX) break;
-    //     Test t(n);
-    //     tests.emplace_back(t);
-    //     T++;
-    // }
+    while (T < 10'000) {
+        int n = rnd.next(nl, nr);
+        int m = rnd.next(ml, mr);
+        sum_n += n;
+        sum_m += m;
+        if (sum_n > MAX || sum_m > MAX) break;
+        Test t(n, m);
+        tests.emplace_back(t);
+        T++;
+    }
     
-    // println(T);
+    println(T);
     forn(tt, T) {
         tests[tt].print();
     }

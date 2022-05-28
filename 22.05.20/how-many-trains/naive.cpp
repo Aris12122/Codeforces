@@ -16,7 +16,7 @@ void solve() {
     for (int iq = 0; iq < m; iq++) {
         {
             int i,x; cin >> i >> x;
-            a[i-1] += x;
+            a[i-1] -= x;
         }
 
         int ans = 1;
@@ -28,10 +28,14 @@ void solve() {
             }
             pr = cur;
         }
-        cout << ans << endl;
+        cout << ans << ' ';
     }
+    cout << '\n';
 }
 
 int main() {
-    solve();
+    int t; cin >> t;
+    while(t--) {
+        solve();
+    }
 }
