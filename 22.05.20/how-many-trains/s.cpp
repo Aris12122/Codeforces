@@ -109,7 +109,7 @@ void solve() {
         }
 
         if (ok) {
-            cout << ans << ' ';
+            cout << ans << endl;
             continue;
         }
 
@@ -132,7 +132,7 @@ void solve() {
             set_gr[k] = v[i];
         }
 
-        cout << ans << ' ';
+        cout << ans << endl;
     }
 
     for (int k = 0; k * sz < n; k++) {
@@ -148,9 +148,8 @@ void solve() {
 }
 
 int main() {
-    int t; cin >> t;
+    int t = 1; // cin >> t;
     while (t--) {
         solve();
-        cout << '\n';
     }
 }

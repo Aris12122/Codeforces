@@ -9,13 +9,13 @@ using namespace std;
 int main(int argc, char* argv[]) {
     registerValidation(argc, argv);
 
-    int t = inf.readInt(1, 10'000, "t");
-    inf.readEoln();
+    // int t = inf.readInt(1, 10'000, "t");
+    // inf.readEoln();
 
     int sum_n = 0, sum_m = 0;
-    forn(tt, t) {
-        setTestCase(tt + 1);
-        inf.readEoln();
+    // forn(tt, t) {
+        // setTestCase(tt + 1);
+        // inf.readEoln();
         int n = inf.readInt(1, 100'000, "n");
         inf.readSpace();
         int m = inf.readInt(1, 100'000, "m");
@@ -37,7 +37,7 @@ int main(int argc, char* argv[]) {
             ensuref(a[i] >= 0, "a[i] >= 0");
             inf.readEoln();
         }
-    }
+    // }
 
 
     inf.readEof();

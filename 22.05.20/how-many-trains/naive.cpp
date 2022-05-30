@@ -28,13 +28,12 @@ void solve() {
             }
             pr = cur;
         }
-        cout << ans << ' ';
+        cout << ans << endl;
     }
-    cout << '\n';
 }
 
 int main() {
-    int t; cin >> t;
+    int t = 1; // cin >> t;
     while(t--) {
         solve();
     }
