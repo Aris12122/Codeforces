@@ -5,24 +5,32 @@ using namespace std;
 
 #define forn(i, n) for (int i = 0; i < int(n); i++)
 
-const int N = (int)1e6;
+const long long N = (long long)1e18L;
 
-
-void send(int x) {
+void send(long long x) {
     cout << x << endl;
 }
 
 int main(int argc, char* argv[]) {
     registerInteraction(argc, argv);
 
-    int n = inf.readInt();
-    vector<int> a = inf.readInts(n);
-    map<pair<int,int>, int> was;
+    long long n = inf.readLong(1LL, N);
+    string seedString = inf.readToken();
 
-    vector<int> pos(n+1, 0);
-    for (int i = 0; i < n; i++) {
-        pos[a[i]] = i;
-    }
+    long long seed = 13;
+    forn(i, seedString.length())
+        seed = (seed * 3343 + (seedString[i] - 'a')) % 42643801;
+    rnd.setSeed(seed);
+
+    long long mul0 = 0;
+    do {
+        mul0 = rnd.next(N, N + N);
+    } while (gcd(mul0, n) != 1);
+    __int128 mul = mul0;
+
+    long long off = rnd.next(n);
+
+    map<pair<long long,long long>, long long> was;
 
     int quer = 0;
     while (true) {
@@ -34,23 +42,34 @@ int main(int argc, char* argv[]) {
         }
 
         if (is_answer) {
-            if (int _n = ouf.readInt(1, N); n == _n) {
+            if (long long n_ = ouf.readLong(3LL, N); n == n_) {
                 tout << quer << endl;
                 quitf(_ok, "Assumed n is correct");
             } else {
+                send(0);
                 quitf(_wa, "Assumed n is incorrect");
             }
         } else {
-            int a = ouf.readInt(1, N);
-            int b = ouf.readInt(1, N);
+            if (quer > 50) {
+                send(0);
+                quitf(_wa, "Too many queries (more than 50)");
+            }
+            
+            long long a = ouf.readLong(1LL, N);
+            long long b = ouf.readLong(1LL, N);
 
-            quitif(a == b, _pe, "Expected different vertexes");
+            if (a == b) {
+                send(0);
+                quitf(_wa, "Expected different vertexes");
+            }
 
             if (max(a, b) > n) {
                 send(-1);
             } else {
                 if (!was.count({a, b})) {
-                    int dis = abs(pos[a] - pos[b]);
+                    long long posa = (long long)(((a - 1) * mul + off) % n);
+                    long long posb = (long long)(((b - 1) * mul + off) % n);
+                    long long dis = abs(posa - posb);
                     was[{a,b}] = rnd.next(2) ? dis : n - dis;
                 }
                 send(was[{a,b}]);

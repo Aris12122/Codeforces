@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+#include "testlib.h"
 using namespace std;
 
 using ll = long long;
@@ -29,19 +30,25 @@ const int mod = 1e9 + 7;
 signed main(){
     ios::sync_with_stdio(0); cin.tie(0);
     cout<<fixed<<setprecision(20);
-    vector<int> r = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 20, 100, 1000, 10000, 100000, 200000, (int)1e6};
-    // vector<int> l = {10, 20, 100, 500, 1000, 5000, 10000, 50000, 100000, 200000};
-
-    vector<pair<int,int>> v;
-
-    for (int i = 0; i < sz(r); i++) {
-        v.eb(1, r[i]);
-        if (r[i] > 10) v.eb(r[i] - 10, r[i]);
+    vector<long long> v = {};
+    
+    for(int i = 0; i < 15; ++i) {
+        v.eb(rnd.next((ll)1e9, (ll)1e18L));
     }
 
+    // vector<int> l = {10, 20, 100, 500, 1000, 5000, 10000, 50000, 100000, 200000};
+
+    sort(all(v));
+
+    pattern p("[a-z]|[0-9]");
     for (int i = 0; i < sz(v); i++) {
-        printf("g1 -nl=%d -nr=%d > $\n", v[i].first, v[i].second);
+        string s;
+        for (int j = 0; j < 40; j++) {
+            s += p.next(rnd);
+        }
+        cout << "g0 " << v[i] << ' ' << s << " > $\n";
     }
 
     return 0;
 }
+// 857f10dbae670f33461bdf95522807964c9f40ba
