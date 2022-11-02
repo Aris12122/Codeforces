@@ -1,61 +1,57 @@
 #include "testlib.h"
-#include <bits/stdc++.h>
-
+#include <sstream>
+ 
 using namespace std;
-
-#define forn(i, n) for (int i = 0; i < int(n); i++)
-
-int n, m;
-vector<string> phones;
-string s;
-
-bool readAnswer(InStream& in) {
-    int k = in.readInt(-1, m / 2, "k");
-    if (k == -1)
-        return false;
-    if (k == 0)
-        in.quitf(_wa, "k can't be 0");
-    
-    string t;
-    forn(j, k) {
-        int l = in.readInt(1, m, "l");
-        int r = in.readInt(1, m, "r");
-        int i = in.readInt(1, n, "i");
-
-        t += phones[i-1].substr(l-1, r-l + 1);
-    }
-    if (t != s) {
-        in.quitf(_wa, "Answer phone is not \"s\"");
-    }
-    return true;
-}
-
-int main(int argc, char* argv[]) {
+ 
+int main(int argc, char * argv[])
+{
+    setName("compare ordered sequences of signed int%d numbers", 8 * int(sizeof(long long)));
+ 
     registerTestlibCmd(argc, argv);
-
-    int t = inf.readInt();
-    int sum_nm = 0;
-    forn(tt, t) {
-        setTestCase(tt + 1);
-        n = inf.readInt();
-        m = inf.readInt();
-        inf.readEoln();
-        sum_nm += n * m;
-
-        phones.resize(n);
-        forn(i, n)
-            phones[i] = inf.readLine();
-        s = inf.readLine();
-
-        bool ja = readAnswer(ans);
-        bool pa = readAnswer(ouf);
-        
-        if (ja != pa) {
-            if (pa)
-                quitf(_fail, "Participant has answer, but jury doesn't");
-            if (ja)
-                quitf(_wa, "Jury has answer, but participant doesn't");
-        }
+ 
+    int n = 0;
+    string firstElems;
+ 
+    while (!ans.seekEof() && !ouf.seekEof())
+    {
+        n++;
+        long long j = ans.readLong();
+        long long p = ouf.readLong();
+        if (j != p)
+            quitf(_wa, "%d%s numbers differ - expected: '%s', found: '%s'", n, englishEnding(n).c_str(), vtos(j).c_str(), vtos(p).c_str());
+        else
+            if (n <= 5)
+            {
+                if (firstElems.length() > 0)
+                    firstElems += " ";
+                firstElems += vtos(j);
+            }
     }
-    quitf(_ok, "sum_nm=%d", sum_nm);
+ 
+    int extraInAnsCount = 0;
+ 
+    while (!ans.seekEof())
+    {
+        ans.readLong();
+        extraInAnsCount++;
+    }
+    
+    int extraInOufCount = 0;
+ 
+    while (!ouf.seekEof())
+    {
+        ouf.readLong();
+        extraInOufCount++;
+    }
+ 
+    if (extraInAnsCount > 0)
+        quitf(_wa, "Answer contains longer sequence [length = %d], but output contains %d elements", n + extraInAnsCount, n);
+    
+    if (extraInOufCount > 0)
+        quitf(_wa, "Output contains longer sequence [length = %d], but answer contains %d elements", n + extraInOufCount, n);
+    
+    if (n <= 5)
+        quitf(_ok, "%d number(s): \"%s\"", n, compress(firstElems).c_str());
+    else
+        quitf(_ok, "%d numbers", n);
 }
