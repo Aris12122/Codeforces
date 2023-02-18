@@ -46,6 +46,11 @@ int main() {
     cin >> t;
 
     forn(tt, t) {
+        if (tt+1 == 181) {
+            ll n,m; cin >> n >> m;
+            cout << n << ' ' << m << endl;
+            return 0;
+        }
         solve();
     }
 }

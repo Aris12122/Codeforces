@@ -1,0 +1,14 @@
+# ninja log v5
+2	1041	1676641179158713876	CMakeFiles/spell_swap_3_4.dir/s.cpp.o	d3fc2bf1276c0ae7
+1	1045	1676641179162713662	CMakeFiles/spell_swap_3_4.dir/naive.cpp.o	d1076f4f9c24e802
+1042	2242	1676641180358649687	CMakeFiles/spell_swap_3_4.dir/tester_gen.cpp.o	2dc3f0d86ab554bc
+0	2584	1676641180698631502	CMakeFiles/spell_swap_3_4.dir/check.cpp.o	fbd298f908604c1b
+1	2635	1676641180750628720	CMakeFiles/spell_swap_3_4.dir/g1.cpp.o	94f3b850dffa1eb4
+1045	3444	1676641181558585508	CMakeFiles/spell_swap_3_4.dir/v.cpp.o	5344a01641ad2dc0
+3	974	1676642721885635995	CMakeFiles/spell_swap_3_4.dir/naive.cpp.o	d1076f4f9c24e802
+3	1064	1676642721973635189	CMakeFiles/spell_swap_3_4.dir/s.cpp.o	d3fc2bf1276c0ae7
+2	1482	1676642722389631449	CMakeFiles/spell_swap_3_4.dir/check.cpp.o	fbd298f908604c1b
+3	1881	1676642722789627857	CMakeFiles/spell_swap_3_4.dir/v.cpp.o	5344a01641ad2dc0
+2	881	1676730429956447740	CMakeFiles/spell_swap_3_4.dir/s.cpp.o	d3fc2bf1276c0ae7
+2	2083	1676730431156447414	CMakeFiles/spell_swap_3_4.dir/g1.cpp.o	94f3b850dffa1eb4
+1	802	1676730628412065377	CMakeFiles/spell_swap_3_4.dir/s.cpp.o	d3fc2bf1276c0ae7

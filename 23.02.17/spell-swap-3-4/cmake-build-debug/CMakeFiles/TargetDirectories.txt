@@ -1,0 +1,3 @@
+/home/aris/Documents/CF/23.02.17/spell-swap-3-4/cmake-build-debug/CMakeFiles/spell_swap_3_4.dir
+/home/aris/Documents/CF/23.02.17/spell-swap-3-4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/aris/Documents/CF/23.02.17/spell-swap-3-4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
