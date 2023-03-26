@@ -1,0 +1,10 @@
+# ninja log v5
+0	913	1679834440972081364	CMakeFiles/living_sequence.dir/naive.cpp.o	853877e2feea6ba0
+1	927	1679834441020082796	CMakeFiles/living_sequence.dir/s.cpp.o	4fd6b655812f75dd
+914	2013	1679834442108115248	CMakeFiles/living_sequence.dir/tester_gen.cpp.o	f9e265bba62be690
+0	2723	1679834442812136241	CMakeFiles/living_sequence.dir/check.cpp.o	ac1bb8bb62fad6df
+0	2807	1679834442896138745	CMakeFiles/living_sequence.dir/g1.cpp.o	2fca577906a62ae4
+1	952	1679837056781582630	CMakeFiles/living_sequence.dir/s.cpp.o	4fd6b655812f75dd
+0	1601	1679837057425656093	CMakeFiles/living_sequence.dir/check.cpp.o	ac1bb8bb62fad6df
+1	2125	1679837057953716296	CMakeFiles/living_sequence.dir/v.cpp.o	7898450a1bef128
+1	2218	1679837058009722681	CMakeFiles/living_sequence.dir/g1.cpp.o	2fca577906a62ae4
